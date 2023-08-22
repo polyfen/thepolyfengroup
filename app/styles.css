@@ -1,0 +1,93 @@
+html, body {
+    background: #ecf0f3;
+}
+
+body {
+    border-top: 12px solid #7637f9;
+    display: grid;
+    gap: 1.5rem;
+    grid-template-rows: 1fr;
+    grid-template-columns: 2fr 10fr;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+main section#sub-brands-container {
+    max-width: 600px;
+}
+
+footer {
+}
+
+header img {
+    width: 150px;
+    height: auto;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+* {
+    font-family: BiotifMedium;
+}
+
+.BiotifMedium {
+    font-family: BiotifMedium;
+}
+
+.BiotifBold {
+    font-family: BiotifBold;
+}
+
+.BiotifExtraBold {
+    font-family: BiotifExtraBold;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #12123a;
+}
+
+p, p a, li, p strong, p span, li strong {
+    font-family: 'freight-text-pro', serif;
+}
+
+section.sub-brand {
+    margin-bottom: 2rem;
+}
+
+section.sub-brand img {
+    max-height: 50px;
+}
+
+section.sub-brand p {
+    padding-top: 12px;
+}
+
+hr {
+    margin: 45px auto;
+}
+
+a.web-url {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+img.web-icon {
+    height: 25px;
+    margin-right: 8px;
+    margin-top: -2px;
+}
+
+a {
+    color: #1f8df0;
+    letter-spacing: -0,1px;
+}
