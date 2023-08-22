@@ -22,7 +22,7 @@
             <h2 class="title-3">We explore new ways of using tech in creative projects.</h2>
         </section>
         <section id="sub-brands-container">
-            <h2 class="heading-1">Our ventures</h2>
+            <h2 class="heading-1">Our Ventures</h2>
             <section class="sub-brand">
                 <img src="imgs/sub-brands/polyfen-logo.svg" alt="Polyfen">
                 <p>Creative agency offering Brand Identity Design services for new and emerging businesses.</p>
