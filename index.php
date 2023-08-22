@@ -12,17 +12,18 @@
   <body>
     <header>
         <img src="imgs/the-polyfen-group-logo.svg">
+        <nav>
+            <a href="https://business.polyfen.com" target="_blank">Business Plan</a>
+            <a href="https://brand.polyfen.com" target="_blank">Brand Guidelines</a>
+        </nav>
     </header>
     <main>
-        <nav>
-            <a href="">Business Plan</a>
-            <a href="">Brand Guidelines</a>
-        </nav>
         <section id="cover">
-            <h2 class="title-3">We explore new ways of using tech in creative projects.</h2>
+            <h2 class="title-2">We explore new ways of using tech in creative projects.</h2>
         </section>
         <section id="sub-brands-container">
-            <h2 class="heading-1">Our Ventures</h2>
+            <h2 class="heading-1">Our Family of Ventures</h2>
+            <hr>
             <section class="sub-brand">
                 <img src="imgs/sub-brands/polyfen-logo.svg" alt="Polyfen">
                 <p>Creative agency offering Brand Identity Design services for new and emerging businesses.</p>

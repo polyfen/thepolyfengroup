@@ -59,6 +59,13 @@ p, p a, li, p strong, p span, li strong {
     font-family: 'freight-text-pro', serif;
 }
 
+section#cover {
+    max-width: 990px;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    border-bottom: 2px solid #0709240d;
+}
+
 section.sub-brand {
     margin-bottom: 2rem;
 }
