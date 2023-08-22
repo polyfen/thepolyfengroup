@@ -4,15 +4,22 @@ html, body {
 
 body {
     border-top: 12px solid #7637f9;
-    display: grid;
-    gap: 1.5rem;
-    grid-template-rows: 1fr;
-    grid-template-columns: 2fr 10fr;
 }
 
 header {
     display: flex;
     flex-direction: column;
+    position: fixed;
+}
+
+img#tpg-wordmark {
+    top: 35px;
+    position: fixed;
+}
+
+main {
+    position: absolute;
+    left: 280px;
 }
 
 main section#sub-brands-container {
@@ -61,7 +68,7 @@ p, p a, li, p strong, p span, li strong {
 
 section#cover {
     max-width: 990px;
-    padding-top: 2rem;
+    padding-top: 1.6rem;
     padding-bottom: 4rem;
     border-bottom: 2px solid #0709240d;
 }

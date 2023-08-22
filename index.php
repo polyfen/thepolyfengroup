@@ -7,13 +7,23 @@
     <!-- INCLUDE HEAD.PHP start -->
     <?php include 'includes/head.php';?>
     <!-- INCLUDE HEAD.PHP end -->
+
+    <script>
+        window.onscroll = function() {
+        var theta = document.documentElement.scrollTop / 400 % Math.PI;
+
+        document.getElementById('tpg-wordmark').style.transform ='rotate(' + theta + 'rad)';
+        }
+    </script>
   </head>
 
   <body>
     <header>
-        <img src="imgs/the-polyfen-group-logo.svg">
+        <img src="imgs/the-polyfen-group-ideogram.svg" id="tpg-ideogram">
+        <img src="imgs/the-polyfen-group-wordmark.svg" id="tpg-wordmark">
         <nav>
             <a href="https://business.polyfen.com" target="_blank">Business Plan</a>
+            <a href="https://wiki.polyfen.com" target="_blank">Team Wiki</a>
             <a href="https://brand.polyfen.com" target="_blank">Brand Guidelines</a>
         </nav>
     </header>
