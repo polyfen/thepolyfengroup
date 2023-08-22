@@ -22,9 +22,9 @@
         <img src="imgs/the-polyfen-group-ideogram.svg" id="tpg-ideogram">
         <img src="imgs/the-polyfen-group-wordmark.svg" id="tpg-wordmark">
         <nav>
-            <a href="https://business.polyfen.com" target="_blank">Business Plan</a>
-            <a href="https://wiki.polyfen.com" target="_blank">Team Wiki</a>
-            <a href="https://brand.polyfen.com" target="_blank">Brand Guidelines</a>
+            <a href="https://business.polyfen.com" target="_blank" class="external-url"><img src="imgs/icons/external-url.svg" class="external-url-icon">Business Plan</a>
+            <a href="https://wiki.polyfen.com" target="_blank" class="external-url"><img src="imgs/icons/external-url.svg" class="external-url-icon">Team Wiki</a>
+            <a href="https://brand.polyfen.com" target="_blank" class="external-url"><img src="imgs/icons/external-url.svg" class="external-url-icon">Brand Guidelines</a>
         </nav>
     </header>
     <main>
