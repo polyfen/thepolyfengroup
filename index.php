@@ -33,7 +33,7 @@
             <p>The Polyfen Group LLC is a small corporation parent of multiple brands related to software development and the creative industry.</p>
         </section>
         <section id="sub-brands-container">
-            <h2 class="heading-1">Our Family of Ventures</h2>
+            <h2 class="heading-1">Family of Ventures</h2>
             <hr>
             <section class="sub-brand">
                 <img src="imgs/sub-brands/polyfen-logo.svg" alt="Polyfen">
@@ -62,6 +62,22 @@
             <section class="sub-brand" style="display:none;">
                 <img src="imgs/sub-brands/poly-qwerty-logo.svg" alt="Poly Qwerty">
             </section>
+        </section>
+        <section id="sub-brands-container">
+            <h2 class="heading-1">Works in Progress</h2>
+            <hr>
+            <section class="sub-brand">
+                <img src="imgs/sub-brands/polyqwerty-logo.svg" alt="Poly Qwerty">
+                <p>Your keyboard's assistant. Click on a character to copy it.</p>
+                <a href="https://polyqwerty.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polyqwerty.com</a>
+            </section>
+            <hr>
+            <section class="sub-brand">
+                <img src="imgs/sub-brands/polynucleus-logo.svg" alt="Poly Nucleus">
+                <p>Open-source design system... in early development.</p>
+                <a href="https://polynucleus.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polynucleus.com</a>
+            </section>
+            <hr>
         </section>
     </main>
     <footer></footer>
