@@ -37,7 +37,7 @@
             <hr>
             <section class="sub-brand">
                 <img src="imgs/sub-brands/polyfen-logo.svg" alt="Polyfen">
-                <p>Creative agency offering creative and software development services for new and emerging businesses.</p>
+                <p>Creative agency offering design, marketing, and software development services for new and emerging businesses.</p>
                 <a href="https://polyfen.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polyfen.com</a>
             </section>
             <hr>
