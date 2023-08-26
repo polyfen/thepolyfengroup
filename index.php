@@ -67,7 +67,7 @@
             <h2 class="heading-1">Works in Progress</h2>
             <hr>
             <section class="sub-brand">
-                <img src="imgs/sub-brands/polyqwerty-logo.svg" alt="Poly Qwerty">
+                <img src="imgs/sub-brands/poly-qwerty-logo.svg" alt="Poly Qwerty">
                 <p>Your keyboard's assistant. Click on a character to copy it.</p>
                 <a href="https://polyqwerty.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polyqwerty.com</a>
             </section>
