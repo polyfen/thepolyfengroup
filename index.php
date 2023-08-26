@@ -73,7 +73,7 @@
             </section>
             <hr>
             <section class="sub-brand">
-                <img src="imgs/sub-brands/polynucleus-logo.svg" alt="Poly Nucleus">
+                <img src="imgs/sub-brands/poly-nucleus-logo.svg" alt="Poly Nucleus">
                 <p>Open-source design system... in early development.</p>
                 <a href="https://polynucleus.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polynucleus.com</a>
             </section>
