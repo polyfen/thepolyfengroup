@@ -155,3 +155,7 @@ a img.external-url-icon, a img.web-icon {
 a:hover img.external-url-icon, a:hover img.web-icon {
     opacity: 1;
 }
+
+section#cover p {
+    max-width: 490px;
+}

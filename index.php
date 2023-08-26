@@ -30,13 +30,14 @@
     <main>
         <section id="cover">
             <h2 class="title-2">We explore new ways of using tech in creative projects.</h2>
+            <p>The Polyfen Group LLC is a small corporation parent of multiple brands related to software development and the creative industry.</p>
         </section>
         <section id="sub-brands-container">
             <h2 class="heading-1">Our Family of Ventures</h2>
             <hr>
             <section class="sub-brand">
                 <img src="imgs/sub-brands/polyfen-logo.svg" alt="Polyfen">
-                <p>Creative agency offering Brand Identity Design services for new and emerging businesses.</p>
+                <p>Creative agency offering creative and software development services for new and emerging businesses.</p>
                 <a href="https://polyfen.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polyfen.com</a>
             </section>
             <hr>
