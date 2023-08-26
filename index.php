@@ -48,15 +48,15 @@
             </section>
             <hr>
             <section class="sub-brand">
-                <img src="imgs/sub-brands/poly-forum-logo.svg" alt="Poly Forum">
-                <p>Non-profit organization dedicated to promoting free and open education and professional growth in the creative industry.</p>
-                <a href="https://polyforum.org" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polyforum.org</a>
-            </section>
-            <hr>
-            <section class="sub-brand">
                 <img src="imgs/sub-brands/poly-cookies-logo.svg" alt="Poly Cookies">
                 <p>Open-source solution to privacy policy implementing a cookie consent banner with Google Tag Manager.</p>
                 <a href="https://polycookies.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polycookies.com</a>
+            </section>
+            <hr>
+            <section class="sub-brand">
+                <img src="imgs/sub-brands/poly-forum-logo.svg" alt="Poly Forum">
+                <p>Non-profit organization dedicated to promoting free and open education and professional growth in the creative industry.</p>
+                <a href="https://polyforum.org" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polyforum.org</a>
             </section>
             <hr>
             <section class="sub-brand" style="display:none;">
