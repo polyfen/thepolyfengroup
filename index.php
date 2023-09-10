@@ -22,9 +22,9 @@
         <img src="imgs/the-polyfen-group-ideogram.svg" id="tpg-ideogram">
         <img src="imgs/the-polyfen-group-wordmark.svg" id="tpg-wordmark">
         <nav>
-            <a href="https://wiki.thepolyfengroup.com" target="_blank" class="external-url"><img src="imgs/icons/external-url.svg" class="external-url-icon">Team Wiki</a>
-            <a href="https://business.thepolyfengroup.com" target="_blank" class="external-url"><img src="imgs/icons/external-url.svg" class="external-url-icon">Business Plan</a>
-            <a href="https://brand.thepolyfengroup.com" target="_blank" class="external-url"><img src="imgs/icons/external-url.svg" class="external-url-icon">Brand Guidelines</a>
+            <a href="https://wiki.polyfen.com" target="_blank" class="external-url"><img src="imgs/icons/external-url.svg" class="external-url-icon">Team Wiki</a>
+            <a href="https://business.polyfen.com" target="_blank" class="external-url"><img src="imgs/icons/external-url.svg" class="external-url-icon">Business Plan</a>
+            <a href="https://brand.polyfen.com" target="_blank" class="external-url"><img src="imgs/icons/external-url.svg" class="external-url-icon">Brand Guidelines</a>
         </nav>
     </header>
     <main>
@@ -74,7 +74,7 @@
             <hr>
             <section class="sub-brand">
                 <img src="imgs/sub-brands/poly-nucleus-logo.svg" alt="Poly Nucleus">
-                <p>Open-source design system... in early development.</p>
+                <p>Open-source design system... in early development. <i>Very</i> early development.</p>
                 <a href="https://polynucleus.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polynucleus.com</a>
             </section>
             <hr>
