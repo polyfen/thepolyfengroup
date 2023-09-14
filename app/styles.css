@@ -4,30 +4,36 @@ html, body {
 
 body {
     border-top: 12px solid #7637f9;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    justify-items: center;
+    padding-inline: 25px;
 }
 
 header {
     display: flex;
     flex-direction: column;
-    position: fixed;
-    width: 200px;
+    position: relative;
+    grid-column: 1/2;
+    grid-row: 1/2;
 }
 
 img#tpg-wordmark {
-    top: 35px;
-    position: fixed;
+    top: 21px;
+    position: absolute;
 }
 
 main {
-    position: absolute;
+    grid-column: 1/2;
+    grid-row: 2/3;
+    position: block;
+/*     position: absolute;
     left: 280px;
-}
+ */}
 
 main section#sub-brands-container {
     max-width: 600px;
-}
-
-footer {
 }
 
 header img {
@@ -41,6 +47,7 @@ header nav {
     gap: 5px;
     margin-top: 30px;
     margin-bottom: 40px;
+    align-items: center;
 }
 
 header nav a.external-url {
