@@ -7,6 +7,7 @@
 <!-- CSS General -->
 <link rel="stylesheet" href="https://polynucleus.com/polynucleus.css" type="text/css">
 <link rel="stylesheet" href="app/styles.css" type="text/css">
+<link rel="stylesheet" href="app/cookies.css" type="text/css">
 
 <!-- FONTS -->
 <!--
