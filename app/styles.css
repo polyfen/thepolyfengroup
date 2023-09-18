@@ -1,33 +1,41 @@
-html, body {
+html,
+body {
     background: #ecf0f3;
 }
 
 body {
     border-top: 12px solid #7637f9;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+    justify-items: center;
+    padding-inline: 25px;
 }
 
 header {
     display: flex;
     flex-direction: column;
-    position: fixed;
-    width: 200px;
+    position: relative;
+    grid-column: 1/2;
+    grid-row: 1/2;
 }
 
 img#tpg-wordmark {
-    top: 35px;
-    position: fixed;
+    top: 23px;
+    position: absolute;
 }
 
 main {
-    position: absolute;
+    grid-column: 1/2;
+    grid-row: 2/3;
+    position: block;
+    /*     position: absolute;
     left: 280px;
+ */
 }
 
 main section#sub-brands-container {
     max-width: 600px;
-}
-
-footer {
 }
 
 header img {
@@ -41,6 +49,7 @@ header nav {
     gap: 5px;
     margin-top: 30px;
     margin-bottom: 40px;
+    align-items: center;
 }
 
 header nav a.external-url {
@@ -72,11 +81,20 @@ header img.external-url-icon {
     font-family: BiotifExtraBold;
 }
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
     color: #12123a;
 }
 
-p, p a, li, p strong, p span, li strong {
+p,
+p a,
+li,
+p strong,
+p span,
+li strong {
     font-family: 'freight-text-pro', serif;
 }
 
@@ -117,12 +135,12 @@ img.web-icon {
 
 a {
     color: #1f8df0;
-    letter-spacing: -0,1px;
+    letter-spacing: -0, 1px;
 }
 
 a {
-position: relative;
-width: max-content;
+    position: relative;
+    width: max-content;
 }
 
 a::before {
@@ -144,18 +162,54 @@ a.web-url:before {
 }
 
 a:hover::before {
-transform-origin: left;
-transform: scaleX(1);
+    transform-origin: left;
+    transform: scaleX(1);
 }
 
-a img.external-url-icon, a img.web-icon {
+a img.external-url-icon,
+a img.web-icon {
     opacity: 0.6;
 }
 
-a:hover img.external-url-icon, a:hover img.web-icon {
+a:hover img.external-url-icon,
+a:hover img.web-icon {
     opacity: 1;
 }
 
 section#cover p {
     max-width: 490px;
+}
+
+
+
+
+/*///////////Media queries///////////*/
+
+@media (min-width: 768px) {
+    body {
+        border-top: 12px solid #7637f9;
+        display: grid;
+        grid-template-columns: 280px 1fr;
+        grid-template-rows: auto;
+        justify-items: start;
+        padding-inline:unset;
+    }
+
+    main {
+        grid-column: 2/3;
+        grid-row: auto;
+    }
+
+    header {
+        grid-column: 1/2;
+        grid-row: auto;
+        position: fixed;
+    }
+
+    header nav {
+        gap: 5px;
+        margin-top: 30px;
+        margin-bottom: 40px;
+        align-items: flex-start;
+    }
 }
