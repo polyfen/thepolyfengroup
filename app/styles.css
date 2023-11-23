@@ -34,7 +34,7 @@ main {
  */
 }
 
-main section#sub-brands-container {
+main section.sub-brands-container {
     max-width: 600px;
 }
 
