@@ -41,51 +41,60 @@
     </header>
     <main>
         <section id="cover">
-            <h2 class="title-2">We explore new ways of using tech in creative projects.</h2>
+            <h1 class="title-2">We explore new ways of using tech in creative projects.</h1>
             <p>The Polyfen Group LLC is a small corporation parent of multiple brands related to software development and the creative industry.</p>
         </section>
         <section class="sub-brands-container">
             <h2 class="heading-1">Family of Brands</h2>
             <hr>
             <section class="sub-brand">
-                <img src="imgs/sub-brands/polyfen-logo.svg" alt="Polyfen">
+                <h3 class="polyfen --sub-brand">
+                    <a href="https://polyfen.com" target="_blank" class="web-url">Polyfen<span></span></a>
+                </h3>
                 <p>Creative agency offering design, marketing, and software development services for new and emerging businesses.</p>
                 <a href="https://polyfen.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon"  alt="">polyfen.com</a>
             </section>
             <hr>
             <section class="sub-brand">
-                <img src="imgs/sub-brands/poly-atlas-logo.svg" alt="Poly Atlas">
+                <h3 class="polyatlas --sub-brand">
+                    <a href="https://polyatlas.wiki" target="_blank" class="web-url">Polyatlas<span></span></a>
+                </h3>
                 <p>Open-source step-by-step guide to the Branding process, including practical tips, case studies, template files, and many other useful resources.</p>
                 <a href="https://polyatlas.wiki" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon"  alt="">polyatlas.wiki</a>
             </section>
             <hr>
             <section class="sub-brand">
-                <img src="imgs/sub-brands/poly-cookies-logo.svg" alt="Poly Cookies">
+                <h3 class="polycookies --sub-brand">
+                    <a href="https://polycookies.com" target="_blank" class="web-url">Polycookies<span></span></a>
+                </h3>
                 <p>Open-source solution to privacy policy implementing a cookie consent banner with Google Tag Manager.</p>
                 <a href="https://polycookies.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polycookies.com</a>
             </section>
             <hr>
             <section class="sub-brand">
-                <img src="imgs/sub-brands/poly-forum-logo.svg" alt="Poly Forum">
+                <h3 class="polyforum --sub-brand">
+                    <a href="https://polyforum.org" target="_blank" class="web-url">Polyforum<span></span></a>
+                </h3>
                 <p>Non-profit organization dedicated to promoting free and open education and professional growth in the creative industry.</p>
                 <a href="https://polyforum.org" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polyforum.org</a>
             </section>
             <hr>
-            <section class="sub-brand" style="display:none;">
-                <img src="imgs/sub-brands/poly-qwerty-logo.svg" alt="Poly Qwerty">
-            </section>
         </section>
         <section class="sub-brands-container">
             <h2 class="heading-1">Works in Progress</h2>
             <hr>
             <section class="sub-brand">
-                <img src="imgs/sub-brands/poly-qwerty-logo.svg" alt="Poly Qwerty">
+                <h3 class="polyqwerty --sub-brand">
+                    <a href="https://polyqwerty.com" target="_blank" class="web-url">polyqwerty<span></span></a>
+                </h3>
                 <p>Your keyboard's assistant. Click on a character to copy it.</p>
                 <a href="https://polyqwerty.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polyqwerty.com</a>
             </section>
             <hr>
             <section class="sub-brand">
-                <img src="imgs/sub-brands/poly-nucleus-logo.svg" alt="Poly Nucleus">
+                <h3 class="polynucleus --sub-brand">
+                    <a href="https://polynucleus.com" target="_blank" class="web-url">polynucleus<span></span></a>
+                </h3>
                 <p>Open-source design system... in early development. Very — early — development.</p>
                 <a href="https://polynucleus.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon" alt="">polynucleus.com</a>
             </section>
