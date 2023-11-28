@@ -34,7 +34,7 @@ main {
  */
 }
 
-main section#sub-brands-container {
+main section.sub-brands-container {
     max-width: 600px;
 }
 
@@ -180,11 +180,35 @@ section#cover p {
     max-width: 490px;
 }
 
+/* h1 with images ///////////////////////*/
+.--sub-brand a::before { content: none;}
+.polyfen a { width:153px; height:50px;}
+.polyatlas a { width:175px; height:50px;}
+.polycookies a { width:206px; height:50px;}
+.polyforum a { width:194px; height:50px;}
+.polyqwerty a { width:223px; height:50px;}
+.polynucleus a { width:207px; height:50px;}
+
+.--sub-brand a span {
+    display:block;
+    position:absolute;
+    width:100%;
+    height:100%;
+    z-index:100;
+}
+
+.polyfen a span { background:#ecf0f3 url(../imgs/sub-brands/polyfen-logo.svg) no-repeat left top;}
+.polyatlas a span { background:#ecf0f3 url(../imgs/sub-brands/poly-atlas-logo.svg) no-repeat left top;}
+.polycookies a span { background:#ecf0f3 url(../imgs/sub-brands/poly-cookies-logo.svg) no-repeat left top;}
+.polyforum a span { background:#ecf0f3 url(../imgs/sub-brands/poly-forum-logo.svg) no-repeat left top;}
+.polyqwerty a span { background:#ecf0f3 url(../imgs/sub-brands/poly-qwerty-logo.svg) no-repeat left top;}
+.polynucleus a span { background:#ecf0f3 url(../imgs/sub-brands/poly-nucleus-logo.svg) no-repeat left top;}
+
+
 /* issue to talk, this is not mobile first polynucleus*/
 section#cover {
     padding-top: 0;
 }
-
 h2.title-2 {
     margin-top: 0;
     padding-top: 0;
