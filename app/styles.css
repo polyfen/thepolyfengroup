@@ -187,7 +187,7 @@ section#cover p {
 .polycookies a { width:206px; height:50px;}
 .polyforum a { width:194px; height:50px;}
 .polyqwerty a { width:223px; height:50px;}
-.polynucleus a { width:207px; height:50px;}
+.polykit a { width:207px; height:50px;}
 
 .--sub-brand a span {
     display:block;
@@ -202,10 +202,10 @@ section#cover p {
 .polycookies a span { background:#ecf0f3 url(../imgs/sub-brands/poly-cookies-logo.svg) no-repeat left top;}
 .polyforum a span { background:#ecf0f3 url(../imgs/sub-brands/poly-forum-logo.svg) no-repeat left top;}
 .polyqwerty a span { background:#ecf0f3 url(../imgs/sub-brands/poly-qwerty-logo.svg) no-repeat left top;}
-.polynucleus a span { background:#ecf0f3 url(../imgs/sub-brands/poly-kit-logo.svg) no-repeat left top;}
+.polykit a span { background:#ecf0f3 url(../imgs/sub-brands/poly-kit-logo.svg) no-repeat left top;}
 
 
-/* issue to talk, this is not mobile first polynucleus*/
+/* issue to talk, this is not mobile first polykit*/
 section#cover {
     padding-top: 0;
 }
@@ -244,7 +244,7 @@ h2.title-2 {
         align-items: flex-start;
     }
 
-    /* issue to talk, this is not mobile first polynucleus*/
+    /* issue to talk, this is not mobile first polykit*/
     section#cover {
         padding-top: 1.6rem;
     }

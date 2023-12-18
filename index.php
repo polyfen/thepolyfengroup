@@ -92,11 +92,11 @@
             </section>
             <hr>
             <section class="sub-brand">
-                <h3 class="polynucleus --sub-brand">
-                    <a href="https://polynucleus.com" target="_blank" class="web-url">polynucleus<span></span></a>
+                <h3 class="polykit --sub-brand">
+                    <a href="https://polykit.xyz" target="_blank" class="web-url">polykit<span></span></a>
                 </h3>
                 <p>Open-source design system... in early development. Very — early — development.</p>
-                <a href="https://polynucleus.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon" alt="">polynucleus.com</a>
+                <a href="https://polykit.xyz" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon" alt="">polykit.xyz</a>
             </section>
             <hr>
         </section>
