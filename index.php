@@ -83,7 +83,7 @@
                 <h3 class="polykit --sub-brand">
                     <a href="https://polykit.xyz" target="_blank" class="web-url">polykit<span></span></a>
                 </h3>
-                <p>Open-source design system for User Interfaces. WIP.</p>
+                <p>Open-source design system for User Interfaces with CSS code for developers and a Figma library for designers. WIP.</p>
                 <a href="https://polykit.xyz" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon" alt="">polykit.xyz</a>
             </section>
             <hr>
