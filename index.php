@@ -72,18 +72,6 @@
             </section>
             <hr>
             <section class="sub-brand">
-                <h3 class="polyforum --sub-brand">
-                    <a href="https://polyforum.org" target="_blank" class="web-url">Polyforum<span></span></a>
-                </h3>
-                <p>Non-profit organization dedicated to promoting free and open education and professional growth in the creative industry.</p>
-                <a href="https://polyforum.org" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon" alt="">polyforum.org</a>
-            </section>
-            <hr>
-        </section>
-        <section class="sub-brands-container">
-            <h2 class="heading-1">Works in Progress</h2>
-            <hr>
-            <section class="sub-brand">
                 <h3 class="polyqwerty --sub-brand">
                     <a href="https://polyqwerty.com" target="_blank" class="web-url">polyqwerty<span></span></a>
                 </h3>
@@ -95,7 +83,7 @@
                 <h3 class="polykit --sub-brand">
                     <a href="https://polykit.xyz" target="_blank" class="web-url">polykit<span></span></a>
                 </h3>
-                <p>Open-source design system... in early development. Very — early — development.</p>
+                <p>Open-source design system for User Interfaces. WIP.</p>
                 <a href="https://polykit.xyz" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon" alt="">polykit.xyz</a>
             </section>
             <hr>
