@@ -42,7 +42,7 @@
     <main>
         <section id="cover">
             <h1 class="title-2">We explore new ways of using tech in creative projects.</h1>
-            <p>The Polyfen Group LLC is a small corporation parent of multiple brands related to software development and the creative industry.</p>
+            <p>The Polyfen Group LLC is a small company parent of multiple brands related to software development and the creative industry.</p>
         </section>
         <section class="sub-brands-container">
             <h2 class="heading-1">Family of Brands</h2>
