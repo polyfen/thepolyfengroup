@@ -84,7 +84,7 @@
                     <a href="https://polykit.xyz" target="_blank" class="web-url">polykit<span></span></a>
                 </h3>
 
-                <small class="caption" style="opacity: 0.6;"><br><br>[Work in Progress]</small>
+                <small class="caption" style="opacity: 0.6;"><br><br>// Work in Progress //</small>
                 <p>Open-source design system for User Interfaces with CSS code for developers and Figma library for designers.</p>
                 <a href="https://polykit.xyz" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon" alt="">polykit.xyz</a>
             </section>
