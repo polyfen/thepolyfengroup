@@ -59,9 +59,9 @@
         <img src="imgs/the-polyfen-group-wordmark.svg" id="tpg-wordmark" alt="">
         <nav>
             <a href="/">Home</a>
-            <a href="https://wiki.thepolyfengroup.com/" target="_blank">Team Wiki</a>
-            <a href="https://business.thepolyfengroup.com" target="_blank">Business Plan</a>
-            <a href="https://brand.thepolyfengroup.com" target="_blank">Brand Guidelines</a>
+            <a href="https://thepolyfengroup.com/wiki" target="_blank">Team Wiki</a>
+            <a href="https://thepolyfengroup.com/business" target="_blank">Business Plan</a>
+            <a href="https://thepolyfengroup.com/brand" target="_blank">Brand Guidelines</a>
         </nav>
     </header>
     <main>
