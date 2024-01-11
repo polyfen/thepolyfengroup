@@ -166,6 +166,10 @@ a:hover::before {
     transform: scaleX(1);
 }
 
+a.current-page:hover::before {
+    content: none;
+}
+
 a img.external-url-icon,
 a img.web-icon {
     opacity: 0.6;
