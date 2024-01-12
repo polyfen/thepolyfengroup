@@ -39,3 +39,7 @@
     a.current-page:hover::before {
         content: none;
     }
+
+body nav {
+    background: none;
+}
