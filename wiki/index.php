@@ -62,6 +62,10 @@
         <?php include 'content/sprints.php';?>
         <!-- INCLUDE SPRINTS.PHP end -->
         <hr>
+        <!-- INCLUDE RETRO.PHP start -->
+        <?php include 'content/retro.php';?>
+        <!-- INCLUDE RETRO.PHP end -->
+        <hr>
         <!-- INCLUDE TEAM-MESSAGING.PHP start -->
         <?php include 'content/team-messaging.php';?>
         <!-- INCLUDE TEAM-MESSAGING.PHP end -->
