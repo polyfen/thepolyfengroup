@@ -13,6 +13,8 @@
 <body>
     <?php include '../includes/hello-nav.php';?>
     <nav id="navbar">
+
+        <img class="plfn-logo" src="imgs/polyfen-logo.svg" alt="Polyfen logo" height="40px" width="auto">
         <h2 class="caption">Business Plan</h2>
 
         <ul>
@@ -41,7 +43,6 @@
     </button>
     <main>
         <section class="cover">
-            <img class="plfn-logo" src="imgs/polyfen-logo.svg" alt="Polyfen logo" height="80px" width="auto">
             <img src="imgs/folder-illustration.svg" alt="Folder Illustration" height="200px" width="auto">
             <h1 class="title-2">Business Plan</h1>
             <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>

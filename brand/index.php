@@ -13,6 +13,7 @@
 <body>
     <?php include '../includes/hello-nav.php';?>
     <nav id="navbar">
+        <img class="plfn-logo" src="imgs/polyfen-logo.svg" alt="Polyfen" height="40px" width="auto">
         <h2 class="caption">Brand Guidelines</h2>
         <ul>
             <li><a href="#download-assets" class="caption">1. Download assets</a></li>
@@ -32,7 +33,6 @@
     </button>
     <main>
         <section class="cover">
-            <img class="plfn-logo" src="imgs/polyfen-logo.svg" alt="Polyfen" height="80px" width="auto">
             <img src="imgs/lightbulb-illustration.svg" alt="Folder Illustration" height="250px" width="auto">
             <h1 class="title-2">Brand Guidelines</h1>
             <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
