@@ -10,54 +10,54 @@
 <h3 class="heading-2">3.2. Channels</h3>
 <p style="margin-bottom: 0;"><strong>General:</strong></p>
 <ul class="hanging-list arrow-bullet">
-    <li>#announcements<br>
-    000</li>
-    <li>#help<br>
-    000</li>
-    <li>#offtopic-chatter<br>
-    000</li>
-    <li>#team-wiki<br>
-    000</li>
-    <li>#coworking<br>
-    000</li>
+    <li><strong>#announcements</strong><br>
+    📣 Company highlights and workspace-wide updates.</li>
+    <li><strong>#help</strong><br>
+    🙋 Looking for an answer and not sure where to get it from? Look no further! You've found the right place.</li>
+    <li><strong>#offtopic-chatter</strong><br>
+    🌴 Non-work banter and water cooler conversation.</li>
+    <li><strong>#coworking</strong><br>
+    🧑‍💻 Here's a space to narrow the breach in remote work by sharing what you're working on and getting some live feedback.</li>
+</ul>
+
+<!--
+<p style="margin-bottom: 0;"><strong>Departments:</strong></p>
+<ul class="hanging-list arrow-bullet">
+    <li><strong>#administrative</strong><br>
+    💼 Project management, HR, accounting.</li>
+    <li><strong>#business</strong><br>
+    💰 Everything regarding our sales and growth strategy.</li>
+    <li><strong>#design</strong><br>
+    🎨 000</li>
+    <li><strong>#marketing</strong><br>
+    📈 000</li>
+    <li><strong>#engineering</strong><br>
+    📐 000</li>
+    <li><strong>#board</strong><br>
+     000</li>
+</ul>
+-->
+
+<p style="margin-bottom: 0;"><strong>Divisions:</strong></p>
+<ul class="hanging-list arrow-bullet">
+    <li><strong>#polyfen</strong><br>
+    All about <a href="https://polyfen.com" target="_blank">polyfen.com</a>.</li>
+    <li><strong>#poly-atlas</strong><br>
+    All about <a href="https://polyatlas.wiki" target="_blank">polyatlas.wiki</a>.</li>
+    <li><strong>#poly-cookies</strong><br>
+    All about <a href="https://polycookies.com" target="_blank">polycookies.com</a>.</li>
+    <li><strong>#poly-qwerty</strong><br>
+    All about <a href="https://polyqwerty.com" target="_blank">polyqwerty.com</a>.</li>
+    <li><strong>#polykit</strong><br>
+    All about <a href="https://polykit.xyz" target="_blank">polykit.xyz</a>.</li>
 </ul>
 
 <p style="margin-bottom: 0;"><strong>Education:</strong></p>
 <ul class="hanging-list arrow-bullet">
-    <li>#design-education<br>
-    000</li>
-    <li>#frontend-education<br>
-    000</li>
-</ul>
-
-<p style="margin-bottom: 0;"><strong>Projects:</strong></p>
-<ul class="hanging-list arrow-bullet">
-    <li>#polyfen<br>
-    000</li>
-    <li>#poly-atlas<br>
-    000</li>
-    <li>#poly-cookies<br>
-    000</li>
-    <li>#poly-qwerty<br>
-    000</li>
-    <li>#polykit<br>
-    000</li>
-</ul>
-
-<p style="margin-bottom: 0;"><strong>Divisions:</strong></p>
-<ul class="hanging-list arrow-bullet">
-    <li>#administrative<br>
-    000</li>
-    <li>#business<br>
-    000</li>
-    <li>#design<<br>
-    000/li>
-    <li>#marketing<br>
-    000</li>
-    <li>#engineering<br>
-    000</li>
-    <li>#board<br>
-    000</li>
+    <li><strong>#design-education</strong><br>
+    🎨 Typography, UX, UI, Motion, Branding.</li>
+    <li><strong>#engineering-education</strong><br>
+    📐 HTML, CSS, Front-end and Back-end Software Engineering.</li>
 </ul>
 
 </section>

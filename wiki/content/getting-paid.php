@@ -9,5 +9,5 @@
     <li><a href="https://wise.com" target="_blank">Wise</a></li>
     <li>Bank Account Transfer (selected countries)</li>
 </ul>
-<p>For any requests about changing your payment method please contact accounting@polyfen.com.</p>
+<p>For any requests about changing your payment method please contact ✉️ accounting@polyfen.com.</p>
 </section>
