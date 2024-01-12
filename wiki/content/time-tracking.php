@@ -1,5 +1,5 @@
 <section id="time-tracking">
-    <h2 class="heading-1">6. Time Tracking</h2>
+    <h2 class="heading-1">7. Time Tracking</h2>
     <p>Work tracked in Clockify should have the same name as the corresponding Asana task.</p>
     <p>If there is no related Asana task, feel free to name the timelog at your will.</p>
     <p>However, there are two things that must be carefully set:</p>

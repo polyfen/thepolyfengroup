@@ -1,13 +1,13 @@
 <section id="team-messaging">
-<h2 class="heading-1">3. Team Messaging</h2>
-<h3 class="heading-2">3.1. House Rules</h3>
+<h2 class="heading-1">4. Team Messaging</h2>
+<h3 class="heading-2">4.1. House Rules</h3>
 <ol class="hanging-list">
     <li>Be respectful and considerate.</li>
     <li>Use appropriate channels. If you don't know where to post a message, then you can ask anyone for clarification via DM (direct message) or you can post your question in our #help channel.</li>
     <li>When discussing times and dates be sure to clarify which timezone you're referring to.</li>
     <li>If you have any suggestions for our rules we encourage you to participate and let us know how we can make this better for everyone.</li>
 </ol>
-<h3 class="heading-2">3.2. Channels</h3>
+<h3 class="heading-2">4.2. Channels</h3>
 <p style="margin-bottom: 0;"><strong>General:</strong></p>
 <ul class="hanging-list arrow-bullet">
     <li><strong>#announcements</strong><br>
