@@ -10,6 +10,8 @@
         <li>Poly Atlas › <strong>PLAT</strong></li>
         <li>Poly Cookies › <strong>PLCK</strong></li>
         <li>Poly Qwerty › <strong>PLQR</strong></li>
+        <li>Polykit › <strong>PLKT</strong></li>
+        <li>Polypress › <strong>PLPR</strong></li>
     </ul>
     <h3 class="heading-2" id="project-types">4.2. Project Types</h3>
     <ul class="hanging-list arrow-bullet">

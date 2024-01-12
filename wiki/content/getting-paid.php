@@ -7,7 +7,6 @@
 <p>Approved payment methods:</p>
 <ul class="hanging-list arrow-bullet">
     <li><a href="https://wise.com" target="_blank">Wise</a></li>
-    <li><a href="https://revolut.com" target="_blank">Revolut</a></li>
     <li>Bank Account Transfer (selected countries)</li>
 </ul>
 <p>For any requests about changing your payment method please contact accounting@polyfen.com.</p>
