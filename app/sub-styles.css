@@ -7,7 +7,15 @@
     justify-content:center;
     gap: 1rem;
     padding: 1rem;
-    background-color: burlywood;
+    background-color: #1d272c;;
+    }
+
+    .hello-nav a {
+        color: #ffffffc8;
+    }
+
+    .hello-nav a:hover {
+        color: #ffffff;
     }
     
     body {
