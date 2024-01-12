@@ -57,10 +57,10 @@
         <img src="imgs/the-polyfen-group-ideogram.svg" id="tpg-ideogram" alt="">
         <img src="imgs/the-polyfen-group-wordmark.svg" id="tpg-wordmark" alt="">
         <nav>
-            <a href="/thepolyfengroup/">Home</a>
-            <a href="/thePolyfenGroup/wiki/">Team Wiki</a>
-            <a href="/thePolyfenGroup/business/">Business Plan</a>
-            <a href="/thePolyfenGroup/brand/">Brand Guidelines</a>
+            <a href="/">Home</a>
+            <a href="/wiki/">Team Wiki</a>
+            <a href="/business/">Business Plan</a>
+            <a href="/brand/">Brand Guidelines</a>
         </nav>
     </header>
     <main>
