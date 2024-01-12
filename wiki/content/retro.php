@@ -1,4 +1,4 @@
-<section id="sprints">
+<section id="retro">
 <h2 class="heading-1">3. Retro</h2>
 <img src="imgs/retro-board.png">
 <p>We keep available at all times a board of suggestions for our team to collect and address internal feedback.</p>
