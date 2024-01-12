@@ -41,15 +41,15 @@
 <p style="margin-bottom: 0;"><strong>Divisions:</strong></p>
 <ul class="hanging-list arrow-bullet">
     <li><strong>#polyfen</strong><br>
-    All about <a href="https://polyfen.com" target="_blank">polyfen.com</a>.</li>
+    All about <a href="https://polyfen.com" target="_blank">polyfen.com</a> | Creative &amp; Software Development Agency.</li>
     <li><strong>#poly-atlas</strong><br>
-    All about <a href="https://polyatlas.wiki" target="_blank">polyatlas.wiki</a>.</li>
+    All about <a href="https://polyatlas.wiki" target="_blank">polyatlas.wiki</a> | Branding Wiki.</li>
     <li><strong>#poly-cookies</strong><br>
-    All about <a href="https://polycookies.com" target="_blank">polycookies.com</a>.</li>
+    All about <a href="https://polycookies.com" target="_blank">polycookies.com</a> | Free Cookies Consent.</li>
     <li><strong>#poly-qwerty</strong><br>
-    All about <a href="https://polyqwerty.com" target="_blank">polyqwerty.com</a>.</li>
+    All about <a href="https://polyqwerty.com" target="_blank">polyqwerty.com</a> | Keyboard Assistant.</li>
     <li><strong>#polykit</strong><br>
-    All about <a href="https://polykit.xyz" target="_blank">polykit.xyz</a>.</li>
+    All about <a href="https://polykit.xyz" target="_blank">polykit.xyz</a> | Design System.</li>
 </ul>
 
 <p style="margin-bottom: 0;"><strong>Education:</strong></p>
