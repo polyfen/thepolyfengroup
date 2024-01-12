@@ -18,10 +18,9 @@
     <script>
     document.addEventListener("DOMContentLoaded", function() {
         let currentPage = window.location.pathname;
-        console.log(currentPage);
+        /* console.log(currentPage); */
         let navLinks = document.querySelectorAll('header nav a');
         navLinks.forEach(link => {
-            console.log(link.getAttribute('href'));	
             if (link.getAttribute('href') === currentPage) {
                 link.classList.add('current-page');
             }
@@ -58,10 +57,10 @@
         <img src="imgs/the-polyfen-group-ideogram.svg" id="tpg-ideogram" alt="">
         <img src="imgs/the-polyfen-group-wordmark.svg" id="tpg-wordmark" alt="">
         <nav>
-            <a href="/">Home</a>
-            <a href="https://thepolyfengroup.com/wiki" target="_blank">Team Wiki</a>
-            <a href="https://thepolyfengroup.com/business" target="_blank">Business Plan</a>
-            <a href="https://thepolyfengroup.com/brand" target="_blank">Brand Guidelines</a>
+            <a href="/thepolyfengroup/">Home</a>
+            <a href="/thePolyfenGroup/wiki/">Team Wiki</a>
+            <a href="/thePolyfenGroup/business/">Business Plan</a>
+            <a href="/thePolyfenGroup/brand/">Brand Guidelines</a>
         </nav>
     </header>
     <main>

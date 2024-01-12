@@ -1,0 +1,33 @@
+.hello-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    gap: 1rem;
+    padding: 1rem;
+    background-color: burlywood;
+    }
+    
+    body {
+        margin-top: 50px;
+    }
+    
+    body nav {
+        margin-top: 0px;
+    }
+    @media (min-width: 768px) {
+        body nav {
+            margin-top: 50px;
+        }
+    }
+
+    
+    .current-page {
+        opacity: 0.4;
+    }
+
+    a.current-page:hover::before {
+        content: none;
+    }
