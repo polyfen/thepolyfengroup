@@ -27,4 +27,4 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 });
 
-console.log('current-page.js loaded!')
+console.log('current-page.js loaded!!')
