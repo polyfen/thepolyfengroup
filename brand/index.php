@@ -36,6 +36,13 @@
                 <li><a href="#keywords" class="caption">3.1. Keywords</a></li>
                 <li><a href="#creative-concept" class="caption">3.2. Creative concept</a></li>
                 <li><a href="#moodboard" class="caption">3.3. Moodboard</a></li>
+                <li><a href="#naming" class="caption">3.4. Naming</a></li>
+                <ul>
+                    <li><a href="#etymology" class="caption">3.4.1. Etymology</a></li>
+                    <li><a href="#name-architecture" class="caption">3.4.2. Name architecture</a></li>
+                </ul>
+                <li><a href="#naming" class="caption">3.5. Brand architecture</a></li>
+                <li><a href="#naming" class="caption">3.6. Voice</a></li>
             </ul>
             <li><a href="#visual-identity" class="caption">4. Visual identity</a></li>
         </ul>
