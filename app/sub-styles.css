@@ -43,3 +43,20 @@
 body nav {
     background: none;
 }
+
+th, td, th p, td p {
+    font-size: 1rem;
+    font-family: Anonymous, monospace;
+}
+
+th {
+    font-weight: 900;
+}
+
+table.buyer-persona th {
+    text-align: left;
+}
+
+table.buyer-persona td, table.buyer-persona th {
+    padding: 8px;
+}

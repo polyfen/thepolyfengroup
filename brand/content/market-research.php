@@ -8,12 +8,8 @@
 <img src="imgs/polyfen-product-canvas.png" alt="Polyfen Product Canvas">
 <h3 class="heading-2">2.2. Industry Analysis</h3>
 <h3 class="heading-2">2.3. Target Analysis</h3>
-<table>
-    <th>Buyer Persona No.1</th>
-    <tr>
-        <th>Portrait</th>
-        <td><img src="#" alt=""></td>
-    </tr>
+<table class="buyer-persona">
+    <th colspan="2">Buyer Persona No.1</th>
     <tr>
         <th>Pseudonym</th>
         <td>Founder Frank</td>
@@ -52,12 +48,8 @@
     </tr>
 </table>
 <hr class="second-separator">
-<table>
-    <th>Buyer Persona No.2</th>
-    <tr>
-        <th>Portrait</th>
-        <td><img src="#" alt=""></td>
-    </tr>
+<table class="buyer-persona">
+    <th colspan="2">Buyer Persona No.2</th>
     <tr>
         <th>Pseudonym</th>
         <td>Corporate Catherine</td>
@@ -96,12 +88,8 @@
     </tr>
 </table>
 <hr class="second-separator">
-<table>
-    <th>Buyer Persona No.3</th>
-    <tr>
-        <th>Portrait</th>
-        <td><img src="#" alt=""></td>
-    </tr>
+<table class="buyer-persona">
+    <th colspan="2">Buyer Persona No.3</th>
     <tr>
         <th>Pseudonym</th>
         <td>Director Dave</td>

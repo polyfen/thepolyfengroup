@@ -17,6 +17,15 @@
         <ul>
             <li><a href="#download-assets" class="caption">1. Download assets</a></li>
             <li><a href="#market-research" class="caption">2. Market research</a></li>
+            <ul>
+                <li><a href="#business-analysis" class="caption">2.1. Business Analysis</a></li>
+                <ul>
+                    <li><a href="#overview" class="caption">2.1.1. Overview</a></li>
+                    <li><a href="#overview" class="caption">2.1.2. Business Model</a></li>
+                </ul>
+                <li><a href="#industry-analysis" class="caption">2.2. Industry Analysis</a></li>
+                <li><a href="#target-analysis" class="caption">2.3. Target Analysis</a></li>
+            </ul>
             <li><a href="#brand-strategy" class="caption">3. Brand strategy</a></li>
             <li><a href="#visual-identity" class="caption">4. Visual identity</a></li>
         </ul>
