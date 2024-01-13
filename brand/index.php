@@ -18,20 +18,25 @@
             <li><a href="#download-assets" class="caption">1. Download assets</a></li>
             <li><a href="#market-research" class="caption">2. Market research</a></li>
             <ul>
-                <li><a href="#business-analysis" class="caption">2.1. Business Analysis</a></li>
+                <li><a href="#business-analysis" class="caption">2.1. Business analysis</a></li>
                 <ul>
                     <li><a href="#overview" class="caption">2.1.1. Overview</a></li>
-                    <li><a href="#business-model" class="caption">2.1.2. Business Model</a></li>
+                    <li><a href="#business-model" class="caption">2.1.2. Business model</a></li>
                 </ul>
-                <li><a href="#industry-analysis" class="caption">2.2. Industry Analysis</a></li>
-                <li><a href="#target-analysis" class="caption">2.3. Target Analysis</a></li>
+                <li><a href="#industry-analysis" class="caption">2.2. Industry analysis</a></li>
+                <li><a href="#target-analysis" class="caption">2.3. Target analysis</a></li>
                 <ul>
-                    <li><a href="#end-to-end-project" class="caption">2.3.1. End-to-End Project</a></li>
-                    <li><a href="#executive-consulting" class="caption">2.3.2. Executive Consulting</a></li>
-                    <li><a href="#staff-augmentation" class="caption">2.3.3. Staff Augmentation</a></li>
+                    <li><a href="#end-to-end-project" class="caption">2.3.1. End-to-end project</a></li>
+                    <li><a href="#executive-consulting" class="caption">2.3.2. Executive consulting</a></li>
+                    <li><a href="#staff-augmentation" class="caption">2.3.3. Staff augmentation</a></li>
                 </ul>
             </ul>
             <li><a href="#brand-strategy" class="caption">3. Brand strategy</a></li>
+            <ul>
+                <li><a href="#keywords" class="caption">3.1. Keywords</a></li>
+                <li><a href="#creative-concept" class="caption">3.2. Creative concept</a></li>
+                <li><a href="#moodboard" class="caption">3.3. Moodboard</a></li>
+            </ul>
             <li><a href="#visual-identity" class="caption">4. Visual identity</a></li>
         </ul>
     </nav>
