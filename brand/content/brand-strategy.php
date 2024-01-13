@@ -22,21 +22,22 @@
 <p>The Moodboard contains a collection of images the can be associated with the industry and the lifestyle of the target audience. It helps identify different colours and shapes with the aim of narrowing down a certain direction for the look-and-feel of the brand.</p>
 <h3 class="heading-2">3.6. Naming</h3>
 <h4 class="heading-3">3.6.1. Etymology</h4>
-<p>"Polyfen" comes from an abstraction of the term “Polyphenic trait”. A polyphenic trait is a genetic property that allows multiple observable variations on organisms of a single species.</p>
+<p>"Polyfen" is an abstraction of the term “Polyphenic trait”. A polyphenic trait is a genetic property that allows multiple observable variations on organisms of a single species.</p>
+<img src="imgs/shell-patterns.jpeg" alt="">
 <p>The different morphology and color patterns on the shells of mollusks, for instance, are a polyphenic trait.</p>
 <h4 class="heading-3">3.6.2. Name Architecture</h4>
-<p><strong>Primary Brand Name:</strong><br/>
-Polyfen<br/>
-Preferred name alternative.</p>
-<p><strong>Fallback Brand Name:</strong><br>
-Polyfen Group<br/>
-Fallback alternative for brand touchpoints where the primary brand name is not available.</p>
-<p><strong>Corporate Name:</strong><br>
+<p><strong>Legal Name:</strong><br>
 The Polyfen Group LLC<br/>
 Preferred name for use on all official business documentation.</p>
+<p><strong>Brand Name:</strong><br/>
+Polyfen<br/>
+Preferred name alternative.</p>
+<p><strong>Fallback Name:</strong><br>
+we are Polyfen<br/>
+Fallback alternative for brand touchpoints where the primary brand name is not available.</p>
 <p><strong>Diminutive Name:</strong><br/>
 TPG / Poly<br/>
-Casual diminutive alternative for internal reference within the team.</p>
+This is how the team sometimes refers to the brand name internally.</p>
 <h3 class="heading-2">3.7. Brand Architecture</h3>
 <h3 class="heading-2">3.1. Voice</h3>
 <p>The content expressed by our brand must be informative and engaging, proactive in the design and development community.</p>
