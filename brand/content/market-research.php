@@ -1,16 +1,16 @@
 <section id="market-research">
-<h2 id="why" class="heading-1">2. Market Research</h2>
-<h3 class="heading-2">2.1. Business Analysis</h3>
-<h4 class="heading-3">2.1.1. Overview</h4>
+<h2 id="market-research" class="heading-1">2. Market Research</h2>
+<h3 id="business-analysis" class="heading-2">2.1. Business Analysis</h3>
+<h4 id="overview" class="heading-3">2.1.1. Overview</h4>
 <p>The Polyfen Group LLC is a small company parent of multiple brands related to software development and the creative industry.</p>
 <p>Our main brand is "Polyfen", a creative and development agency helping businesses reach their customers with data-driven research and strategic storytelling.</p>
-<h4 class="heading-3">2.1.2. Business Model</h4>
+<h4 id="business-model" class="heading-3">2.1.2. Business Model</h4>
 <img src="imgs/polyfen-product-canvas.png" alt="Polyfen Product Canvas">
 <h3 class="heading-2">2.2. Industry Analysis</h3>
 <h3 class="heading-2">2.3. Target Analysis</h3>
-<table class="buyer-persona">
+<table class="buyer-persona" id="buyer-persona-1">
     <tr style="background:#1d272c1a;">
-        <th colspan="2" class="uppercase">Buyer Persona No.1</th>
+        <th colspan="2" class="uppercase">Buyer Persona No.1<br>End-to-End Project</th>
     </tr>
     <tr>
         <th>Pseudonym</th>
@@ -50,9 +50,9 @@
     </tr>
 </table>
 <hr class="second-separator">
-<table class="buyer-persona">
+<table class="buyer-persona" id="buyer-persona-2">
     <tr style="background:#1d272c1a;">
-        <th colspan="2" class="uppercase">Buyer Persona No.2</th>
+        <th colspan="2" class="uppercase">Buyer Persona No.2<br>Executive Consulting</th>
     </tr>
     <tr>
         <th>Pseudonym</th>
@@ -92,9 +92,9 @@
     </tr>
 </table>
 <hr class="second-separator">
-<table class="buyer-persona">
+<table class="buyer-persona" id="buyer-persona-3">
     <tr style="background:#1d272c1a;">
-        <th colspan="2" class="uppercase">Buyer Persona No.3</th>
+        <th colspan="2" class="uppercase">Buyer Persona No.3<br>Staff Augmentation</th>
     </tr>
     <tr>
         <th>Pseudonym</th>
