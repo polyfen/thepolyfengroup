@@ -65,3 +65,7 @@ table.buyer-persona td, table.buyer-persona th {
 table.buyer-persona tr:hover {
     background-color: #1d272c1a;
 }
+
+table.buyer-persona tr:hover td, table.buyer-persona tr:hover th, table.buyer-persona tr:hover td p {
+    color: black;
+}
