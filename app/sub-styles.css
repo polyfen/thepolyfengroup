@@ -59,4 +59,5 @@ table.buyer-persona th {
 
 table.buyer-persona td, table.buyer-persona th {
     padding: 8px;
+    border-top: 1px solid #1d272c1a;
 }

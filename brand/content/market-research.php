@@ -9,7 +9,7 @@
 <h3 class="heading-2">2.2. Industry Analysis</h3>
 <h3 class="heading-2">2.3. Target Analysis</h3>
 <table class="buyer-persona">
-    <th colspan="2">Buyer Persona No.1</th>
+    <th colspan="2" class="uppercase">Buyer Persona No.1</th>
     <tr>
         <th>Pseudonym</th>
         <td>Founder Frank</td>
@@ -49,7 +49,7 @@
 </table>
 <hr class="second-separator">
 <table class="buyer-persona">
-    <th colspan="2">Buyer Persona No.2</th>
+    <th colspan="2" class="uppercase">Buyer Persona No.2</th>
     <tr>
         <th>Pseudonym</th>
         <td>Corporate Catherine</td>
@@ -89,7 +89,7 @@
 </table>
 <hr class="second-separator">
 <table class="buyer-persona">
-    <th colspan="2">Buyer Persona No.3</th>
+    <th colspan="2" class="uppercase">Buyer Persona No.3</th>
     <tr>
         <th>Pseudonym</th>
         <td>Director Dave</td>
