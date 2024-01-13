@@ -45,6 +45,16 @@
                 <li><a href="#voice" class="caption">3.6. Voice</a></li>
             </ul>
             <li><a href="#visual-identity" class="caption">4. Visual identity</a></li>
+            <ul>
+                <li><a href="#logo-system" class="caption">4.1. Logo system</a></li>
+                <ul>
+                    <li><a href="#symbol" class="caption">4.1.1. Symbol</a></li>
+                    <li><a href="#emblem" class="caption">4.1.2. Emblem</a></li>
+                </ul>
+                <li><a href="" class="caption"></a></li>
+                <li><a href="" class="caption"></a></li>
+                <li><a href="" class="caption"></a></li>
+            </ul>
         </ul>
     </nav>
     <button aria-label="Open/Close navbar" class="hamburger">

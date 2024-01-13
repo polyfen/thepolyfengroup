@@ -1,7 +1,7 @@
 <section id="visual-identity">
 <h2 class="heading-1">4. Visual identity</h2>
-<h3 class="heading-2">4.1. Logo system</h3>
-<h4 class="heading-3">4.1.1. Ideogram</h4>
+<h3 id="logo-system" class="heading-2">4.1. Logo system</h3>
+<h4 id="symbol" class="heading-3">4.1.1. Symbol</h4>
 <figure>
 <img src="imgs/_IDEOGRAM_PLFN_Grid.png" style="height:400px; width:auto;">
 </figure>
