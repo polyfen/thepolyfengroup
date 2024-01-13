@@ -47,7 +47,6 @@
             <h1 class="title-2">Business Plan</h1>
             <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
         </section>
-        <hr>
         <!-- INCLUDE OVERVIEW.PHP start -->
         <?php include 'content/overview.php';?>
         <!-- INCLUDE OVERVIEW.PHP end -->

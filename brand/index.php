@@ -36,7 +36,6 @@
             <h1 class="title-2">Brand Guidelines</h1>
             <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
         </section>
-        <hr>
         <!-- INCLUDE OVERVIEW.PHP start -->
         <?php include 'content/download-assets.php';?>
         <!-- INCLUDE OVERVIEW.PHP end  -->

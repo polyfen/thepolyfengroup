@@ -54,7 +54,6 @@
             <h1 class="title-2">Team Wiki</h1>
             <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
         </section>
-        <hr>
         <!-- INCLUDE TECH-STACK.PHP start  -->
         <?php include 'content/tech-stack.php';?>
         <!-- INCLUDE TECH-STACK.PHP end -->
