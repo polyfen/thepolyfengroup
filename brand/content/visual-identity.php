@@ -16,6 +16,12 @@
 </div>
 <p>The Logotype is made up of two parts: (1) the Symbol and (2) the Brand Name.</p>
 <p>It must be the first choice when choosing a logo variation, provided that the canvas is rectangular and the logo can be placed at an adequate size.</p>
+<h4 id="family" class="heading-2">4.1.3. Family</h4>
+<div class="preview">
+    <figure>
+    <img src="imgs/#.png" style="height:160px; width:auto;">
+    </figure>
+</div>
 <h3 class="heading-2">4.2. Color scheme</h3>
 <h4 class="heading-3">4.2.1. Accent color</h3>
 <div class="color-swatch-content">
