@@ -6,9 +6,9 @@
 <p>Our main brand is "Polyfen", a creative and development agency helping businesses reach their customers with data-driven research and strategic storytelling.</p>
 <h4 id="business-model" class="heading-3">2.1.2. Business Model</h4>
 <img src="imgs/polyfen-product-canvas.png" alt="Polyfen Product Canvas">
-<h3 class="heading-2">2.2. Industry Analysis</h3>
-<h3 class="heading-2">2.3. Target Analysis</h3>
-<table class="buyer-persona" id="buyer-persona-1">
+<h3 id="industry-analysis" class="heading-2">2.2. Industry Analysis</h3>
+<h3 id="target-analysis" class="heading-2">2.3. Target Analysis</h3>
+<table class="buyer-persona" id="end-to-end-project">
     <tr style="background:#1d272c1a;">
         <th colspan="2" class="uppercase">Buyer Persona No.1<br>End-to-End Project</th>
     </tr>
@@ -50,7 +50,7 @@
     </tr>
 </table>
 <hr class="second-separator">
-<table class="buyer-persona" id="buyer-persona-2">
+<table class="buyer-persona" id="executive-consulting">
     <tr style="background:#1d272c1a;">
         <th colspan="2" class="uppercase">Buyer Persona No.2<br>Executive Consulting</th>
     </tr>
@@ -92,7 +92,7 @@
     </tr>
 </table>
 <hr class="second-separator">
-<table class="buyer-persona" id="buyer-persona-3">
+<table class="buyer-persona" id="staff-augmentation">
     <tr style="background:#1d272c1a;">
         <th colspan="2" class="uppercase">Buyer Persona No.3<br>Staff Augmentation</th>
     </tr>

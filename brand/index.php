@@ -26,9 +26,9 @@
                 <li><a href="#industry-analysis" class="caption">2.2. Industry Analysis</a></li>
                 <li><a href="#target-analysis" class="caption">2.3. Target Analysis</a></li>
                 <ul>
-                    <li><a href="#buyer-persona-1" class="caption">2.3.1. End-to-End Project</a></li>
-                    <li><a href="#buyer-persona-2" class="caption">2.3.2. Executive Consulting</a></li>
-                    <li><a href="#buyer-persona-3" class="caption">2.3.3. Staff Augmentation</a></li>
+                    <li><a href="#end-to-end-project" class="caption">2.3.1. End-to-End Project</a></li>
+                    <li><a href="#executive-consulting" class="caption">2.3.2. Executive Consulting</a></li>
+                    <li><a href="#staff-augmentation" class="caption">2.3.3. Staff Augmentation</a></li>
                 </ul>
             </ul>
             <li><a href="#brand-strategy" class="caption">3. Brand strategy</a></li>
