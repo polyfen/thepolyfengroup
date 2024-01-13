@@ -43,7 +43,7 @@
     </button>
     <main>
         <section class="cover">
-            <img src="imgs/folder-illustration.svg" alt="Folder Illustration" height="200px" width="auto">
+            <img src="imgs/folder-illustration.svg" alt="Folder Illustration" height="200px" width="auto" class="d-none">
             <h1 class="title-2">Business Plan</h1>
             <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
         </section>

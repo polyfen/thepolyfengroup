@@ -7,7 +7,6 @@
     <!-- INCLUDE HEAD.PHP start -->
     <?php include 'includes/head.php';?>
     <!-- INCLUDE HEAD.PHP end -->
-
 </head>
 
 <body>
@@ -33,7 +32,7 @@
     </button>
     <main>
         <section class="cover">
-            <img src="imgs/lightbulb-illustration.svg" alt="Folder Illustration" height="250px" width="auto">
+            <img src="imgs/lightbulb-illustration.svg" alt="Folder Illustration" height="250px" width="auto" class="d-none">
             <h1 class="title-2">Brand Guidelines</h1>
             <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
         </section>
