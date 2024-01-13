@@ -12,7 +12,7 @@
 <body>
     <?php include '../includes/hello-nav.php';?>
     <nav id="navbar">
-        <img class="plfn-logo" src="imgs/polyfen-logo.svg" alt="Polyfen" height="40px" width="auto">
+        <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg"" alt="Polyfen" height="40px" width="auto">
         <h2 class="caption">Brand Guidelines</h2>
         <ul>
             <li><a href="#download-assets" class="caption">1. Download assets</a></li>

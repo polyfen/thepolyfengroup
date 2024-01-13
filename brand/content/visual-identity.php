@@ -9,7 +9,13 @@
 </div>
 <p>The Symbol expresses Polyfen's brand in its most essential, visual form. It represents the coming together of the (A) logical and (B) creative.</p>
 <h4 id="logotype" class="heading-2">4.1.2. Logotype</h4>
-<p>The Emblem is the preferred visual representation of the Polyfen brand. It must be the first choice when choosing a logo variation, provided that the canvas is rectangular and the logo can be placed at an adequate size.</p>
+<div class="preview">
+    <figure>
+    <img src="imgs/the-polyfen-group-logo.svg" style="height:160px; width:auto;">
+    </figure>
+</div>
+<p>The Logotype is made up of two parts: (1) the Symbol and (2) the Brand Name.</p>
+<p>It must be the first choice when choosing a logo variation, provided that the canvas is rectangular and the logo can be placed at an adequate size.</p>
 <h3 class="heading-2">4.2. Color scheme</h3>
 <h4 class="heading-3">4.2.1. Accent color</h3>
 <div class="color-swatch-content">
