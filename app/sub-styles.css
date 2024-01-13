@@ -73,4 +73,5 @@ table.buyer-persona tr:hover td, table.buyer-persona tr:hover th, table.buyer-pe
 div.preview {
     padding:24px;
     background: #1d272c1a;
+    text-align: center;
 }

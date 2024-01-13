@@ -2,10 +2,12 @@
 <h2 class="heading-1">4. Visual identity</h2>
 <h3 id="logo-system" class="heading-2">4.1. Logo system</h3>
 <h4 id="symbol" class="heading-3">4.1.1. Symbol</h4>
-<figure>
-<img src="imgs/_IDEOGRAM_PLFN_Grid.png" style="height:400px; width:auto;">
-</figure>
-<p>The Ideogram is the visual representation of Polyfen's brand in its most basic and essential form. Polyfen's Ideogram represents the conjunction of two worlds, business and creativity.</p>
+<div class="preview">
+    <figure>
+    <img src="imgs/_IDEOGRAM_PLFN_Grid.png" style="height:400px; width:auto;">
+    </figure>
+</div>
+<p>The Symbol expresses Polyfen's brand in its most essential, visual form. It represents the coming together of the (A) logical and (B) creative.</p>
 <h4 class="heading-2">4.1.2. Emblem</h4>
 <p>The Emblem is the preferred visual representation of the Polyfen brand. It must be the first choice when choosing a logo variation, provided that the canvas is rectangular and the logo can be placed at an adequate size.</p>
 <h3 class="heading-2">4.2. Color scheme</h3>
