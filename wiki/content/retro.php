@@ -1,6 +1,6 @@
 <section id="retro">
 <h2 class="heading-1">3. Retro</h2>
-<img src="imgs/retro-board.png">
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNTbBqZo=/?moveToViewport=-12864,-1057,2574,1297&embedId=624014328407" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 <p>We keep available at all times a board of suggestions for our team to collect and address internal feedback.</p>
 <ul class="hanging-list arrow-bullet">
     <li>
