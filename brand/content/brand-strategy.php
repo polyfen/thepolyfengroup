@@ -41,5 +41,5 @@ This is how the team sometimes refers to the brand name internally.</p>
 <h3 id="brand-architecture" class="heading-2">3.5. Brand Architecture</h3>
 <img src="imgs/brand-architecture.png" alt="Brand Architecture" height="auto" width="100%">
 <h3 id="voice" class="heading-2">3.6. Voice</h3>
-<p>The content expressed by our brand must be informative and engaging, proactive in the design and development community.</p>
+<p>The content expressed by our brand must be informative and engaging, proactive in the design and development community with free and fully-accessible educational content in tutorials and open-source software.</p>
 </section>
