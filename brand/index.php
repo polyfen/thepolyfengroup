@@ -49,7 +49,7 @@
                 <li><a href="#logo-system" class="caption">4.1. Logo system</a></li>
                 <ul>
                     <li><a href="#symbol" class="caption">4.1.1. Symbol</a></li>
-                    <li><a href="#emblem" class="caption">4.1.2. Emblem</a></li>
+                    <li><a href="#logotype" class="caption">4.1.2. Logotype</a></li>
                 </ul>
                 <li><a href="" class="caption"></a></li>
                 <li><a href="" class="caption"></a></li>
