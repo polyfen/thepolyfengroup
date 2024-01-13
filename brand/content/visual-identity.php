@@ -19,7 +19,7 @@
 <h4 id="family" class="heading-2">4.1.3. Family</h4>
 <div class="preview">
     <figure>
-    <img src="imgs/#.png" style="height:160px; width:auto;">
+    <img src="imgs/logo-family.png" style="height:160px; width:auto;">
     </figure>
 </div>
 <h3 class="heading-2">4.2. Color scheme</h3>
