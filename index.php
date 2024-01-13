@@ -58,8 +58,8 @@
         <img src="imgs/the-polyfen-group-wordmark.svg" id="tpg-wordmark" alt="">
         <nav>
             <a href="/">Home</a>
-            <a href="/wiki/">Team Wiki</a>
             <a href="/business/">Business Plan</a>
+            <a href="/wiki/">Team Wiki</a>
             <a href="/brand/">Brand Guidelines</a>
         </nav>
     </header>
