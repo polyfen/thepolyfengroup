@@ -18,6 +18,7 @@
 <p>Similar to the Keywords, but more expressive and distinctive, the Creative Concept is a word or phrase that represents the desired emotional response from the target public when interacting with the Brand.</p>
 <p>Unlike a Slogan, a Creative Concept is not necessarily developed for public use, although it can be used publicly. Its primary purpose is to be used internally as a mantra to guide the creative process when sketching a Logo, copywriting a slogan, designing an ad, or when developing any other type of Brand Communication. This ensures that all elements of the Brand will convey a consistent message.</p>
 <h3 id="moodboard" class="heading-2">3.3. Moodboard</h3>
+<img src="imgs/moodboard.png" alt="Moodboard" height="auto" width="100%">
 <p>The Moodboard contains a collection of images the can be associated with the industry and the lifestyle of the target audience. It helps identify different colours and shapes with the aim of narrowing down a certain direction for the look-and-feel of the brand.</p>
 <h3 class="heading-2">3.6. Naming</h3>
 <h4 class="heading-3">3.6.1. Etymology</h4>
