@@ -36,6 +36,8 @@
             <li><a href="#time-tracking" class="caption">7. Time tracking</a></li>
             <li><a href="#getting-paid" class="caption">8. Getting paid</a></li>
             <li><a href="#time-off" class="caption">9. Time off</a></li>
+            <li><a href="#branding-workflow" class="caption">10. Branding workflow</a></li>
+            <li><a href="#development-workflow" class="caption">11. Development workflow</a></li>
         </ul>
     </nav>
     <button aria-label="Open/Close navbar" class="hamburger">
