@@ -20,7 +20,7 @@
         <ul>
             <li><a href="#overview" class="caption">1. Overview</a></li>
             <li><a href="#purpose" class="caption">2. Purpose</a></li>
-            <li><a href="#values" class="caption">3. Values</a></li>
+            <li><a href="#mantra" class="caption">3. Mantra</a></li>
             <li><a href="#brands" class="caption">4. Brands</a></li>
             <ul>
                 <li><a href="#polyfen" class="caption">4.1. Polyfen</a></li>
@@ -56,7 +56,7 @@
         <!-- INCLUDE OUR-GOAL.PHP end -->
         <hr>
         <!-- INCLUDE OUR-VALUES.PHP start -->
-        <?php include 'content/values.php';?>
+        <?php include 'content/mantra.php';?>
         <!-- INCLUDE OUR-VALUES.PHP end -->
         <hr>
         <!-- INCLUDE OUR-VALUES.PHP start -->

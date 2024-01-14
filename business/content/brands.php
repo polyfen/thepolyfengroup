@@ -1,6 +1,5 @@
 <section id="brands">
     <h2 class="heading-1">4. Our Brands</h2>
-    <p><strong>Most of our attention focuses on Polyfen,</strong> our creative agency. However, our full portfolio of brands include:</p>
     <section id="polyfen">
         <h3 class="heading-2">4.1. Polyfen</h3>
         <section class="sub-brand">
