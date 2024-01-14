@@ -53,11 +53,11 @@
                     <li><a href="#family" class="caption">4.1.3. Family</a></li>
                 </ul>
                 <li><a href="#color-scheme" class="caption">4.2. Color scheme</a></li>
-                <li><a href="#visual-language" class="caption"></a>4.3. Visual language</li>
+                <li><a href="#visual-language" class="caption">4.3. Visual language</a></li>
                 <ul>
-                    <li><a href="#icons" class="caption"></a>4.3.1. Icons</li>
-                    <li><a href="#illustrations" class="caption"></a>4.3.2. Illustrations</li>
-                    <li><a href="#illustrations" class="caption"></a>4.3.3. Pearls</li>
+                    <li><a href="#icons" class="caption">4.3.1. Icons</a></li>
+                    <li><a href="#illustrations" class="caption">4.3.2. Illustrations</a></li>
+                    <li><a href="#pearls" class="caption">4.3.3. Pearls</a></li>
                 </ul>
             </ul>
         </ul>
@@ -92,10 +92,6 @@
         <!-- INCLUDE OUR-BRANDS.PHP start -->
         <?php include 'content/visual-identity.php';?>
         <!-- INCLUDE OUR-BRANDS.PHP  end -->
-        <hr>
-        <!-- INCLUDE OUR-TEAM.PHP start -->
-        <?php include 'content/our-team.php';?>
-        <!-- INCLUDE OUR-TEAM.PHP end  -->
         <hr>
     </main>
 </body>

@@ -93,6 +93,5 @@
 <figure>
 <img src="imgs/illustrations-custom.png" style="height:400px; width:auto;">
 </figure>
-<h4 class="heading-3">Photography</h3>
-<h4 class="heading-3">Background Elements</h3>
+<h4 class="heading-3">Pearls</h3>
 </section>
