@@ -43,7 +43,12 @@
                 <li><a href="#end-to-end-projects" class="caption">6.1. End-to-End Projects</a></li>
                 <li><a href="#hourly-services" class="caption">6.2. Hourly Services</a></li>
             </ul>
-            <li><a href="#target" class="caption">7. Target</a></li>
+            <li><a href="#differential" class="caption">7. Differential</a></li>
+            <ul>
+                <li><a href="#cost-efficient" class="caption">7.1. Cost-efficient</a></li>
+                <li><a href="#owner-managed" class="caption">7.2. Owner-managed</a></li>
+            </ul>
+            <li><a href="#target" class="caption">8. Target</a></li>
         </ul>
     </nav>
     <button aria-label="Open/Close navbar" class="hamburger">
@@ -83,6 +88,10 @@
         <hr>
         <!-- INCLUDE OUR-VALUES.PHP start -->
         <?php include 'content/services.php';?>
+        <!-- INCLUDE OUR-VALUES.PHP end -->
+        <hr>
+        <!-- INCLUDE OUR-VALUES.PHP start -->
+        <?php include 'content/differential.php';?>
         <!-- INCLUDE OUR-VALUES.PHP end -->
         <hr>
         <!-- INCLUDE OUR-VALUES.PHP start -->
