@@ -32,7 +32,7 @@
         <a href="https://polyqwerty.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polyqwerty.com</a>
         </section>
     </section>
-    <section id="poly-kit">
+    <section id="polykit">
         <h3 class="heading-2">5.5. Polykit</h3>
         <section class="sub-brand">
         <img src="imgs/sub-brands/poly-kit-logo.svg" alt="Poly Kit" height="60px" width="auto">
@@ -41,7 +41,7 @@
       <a href="https://polykit.xyz" target="_blank" class="web-url"><img src="imgs/icons/globe.svg" class="web-icon">polykit.xyz</a>
         </section>
     </section>
-    <section id="poly-press">
+    <section id="polypress">
     <h3 class="heading-2">5.6. Polypress</h3>
     <section class="sub-brand">
       <img src="imgs/sub-brands/polypress-logo.svg" alt="Poly Forum" height="60px" width="auto">

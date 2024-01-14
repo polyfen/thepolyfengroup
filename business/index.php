@@ -21,15 +21,22 @@
             <li><a href="#overview" class="caption">1. Overview</a></li>
             <li><a href="#purpose" class="caption">2. Purpose</a></li>
             <li><a href="#values" class="caption">3. Values</a></li>
+            <ul>
+                <li><a href="" class="caption">3.1. Education</a></li>
+                <li><a href="" class="caption">3.2. Collaboration</a></li>
+                <li><a href="" class="caption">3.3. Flexibility</a></li>
+                <li><a href="" class="caption">3.4. Transparency</a></li>
+            </ul>
             <li><a href="#mantra" class="caption">4. Mantra</a></li>
             <li><a href="#family-of-brands" class="caption">5. Family of Brands</a></li>
             <ul>
                 <li><a href="#polyfen" class="caption">5.1. Polyfen</a></li>
                 <li><a href="#poly-atlas" class="caption">5.2. Poly Atlas</a></li>
-                <li><a href="#poly-forum" class="caption">5.3. Poly Forum</a></li>
-                <li><a href="#poly-cookies" class="caption">5.4. Poly Cookies</a></li>
-                <li><a href="#poly-qwerty" class="caption">5.5. Poly Qwerty</a></li>
-                <li><a href="#poly-kit" class="caption">5.6. Polykit</a></li>
+                <li><a href="#poly-cookies" class="caption">5.3. Poly Cookies</a></li>
+                <li><a href="#poly-qwerty" class="caption">5.4. Poly Qwerty</a></li>
+                <li><a href="#polykit" class="caption">5.5. Polykit</a></li>
+                <li><a href="#polypress" class="caption">5.6. Polypress</a></li>
+                <li><a href="#poly-forum" class="caption">5.7. Poly Forum</a></li>
             </ul>
             <li><a href="#services" class="caption">6. Services</a></li>
             <ul>
