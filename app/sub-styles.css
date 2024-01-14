@@ -80,3 +80,28 @@ nav#navbar {
     overflow: scroll;
     
 }
+
+div.color-swatch {
+    width: 140px;
+    height: 140px;
+    border-radius: 6px;
+    text-transform: uppercase;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.color-swatch-wrapper {
+    font-family: Anonymous, monospace;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+}
+
+div.swatch-container {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    flex-wrap: wrap;
+}

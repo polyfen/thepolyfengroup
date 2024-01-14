@@ -24,29 +24,59 @@
 </div>
 <h3 class="heading-2">4.2. Color scheme</h3>
 <h4 class="heading-3">Accent color</h3>
-<div class="color-swatch-content">
-<div class="color-swatch" style="background-color: #7E2EF5;color: white;">Polyfen<br>Indigo</div>
-<div class="color-details">
-    <ul class="hanging-list">
-        <li>HEX: #7E2EF5</li>
-        <li>RGB: 126, 46, 245</li>
-        <li>CMYK: 49, 81, 0, 0</li>
-    </ul>
+<div class="color-swatch-wrapper">
+    <div class="color-swatch" style="background-color: #7E2EF5;color: white;">Indigo</div>
+    <div><br>
+        #722FFF<br>
+        hsl(259, 100%, 59%)
+    </div>
 </div>
+<p><strong>Indigo</strong> is the primary accent hue and must be used sparingly. It's reserved exclusively for the logo, buttons, links, and other important information.</p>
+<h4 class="heading-3">Sub-brands</h3>
+<div class="swatch-container">
+    <div class="color-swatch-wrapper">
+        <div class="color-swatch" style="background-color: #00C2A1;color: white;">Teal</div>
+        <div><br>
+            #00C2A1<br>
+            hsl(170, 100%, 38%)
+        </div>
+    </div>
+    <div class="color-swatch-wrapper">
+        <div class="color-swatch" style="background-color: #BEA18F;color: white;">Cookie<br>dough</div>
+        <div><br>
+            #BEA18F<br>
+            hsl(23, 27%, 65%)
+        </div>
+    </div>
+    <div class="color-swatch-wrapper">
+        <div class="color-swatch" style="background-color: #FDA900;color: white;">Butter<br>scotch</div>
+        <div><br>
+            #FDA900<br>
+            hsl(40, 100%, 50%)
+        </div>
+    </div>
+    <div class="color-swatch-wrapper">
+        <div class="color-swatch" style="background-color: #0E8DFF;color: white;">Blue</div>
+        <div><br>
+            #0E8DFF<br>
+            hsl(208, 100%, 53%)
+        </div>
+    </div>
+    <div class="color-swatch-wrapper">
+        <div class="color-swatch" style="background-color: #0FB800;color: white;">Green</div>
+        <div><br>
+            #0FB800<br>
+            hsl(115, 100%, 36%)
+        </div>
+    </div>
+    <div class="color-swatch-wrapper">
+        <div class="color-swatch" style="background-color: #F64C4C;color: white;">Raspberry</div>
+        <div><br>
+            #F64C4C<br>
+            hsl(0, 90%, 63%)
+        </div>
+    </div>
 </div>
-<p><strong>Polyfen Indigo</strong> is the primary accent hue and must be used sparingly. It's reserved exclusively for buttons, links, and other important information.</p>
-<h4 class="heading-3">Secondary color</h3>
-<div class="color-swatch-content">
-<div class="color-swatch" style="background-color: #070924;color: white;">Deep<br>Indigo</div>
-<div class="color-details">
-    <ul class="hanging-list">
-        <li>HEX: #070924</li>
-        <li>RGB: x, x, x</li>
-        <li>CMYK: x, x, x, x</li>
-    </ul>
-</div>
-</div>
-<p>This color is backgrounds mainly.</p>
 <h3 class="heading-2">4.3. Visual Language</h3>
 <h4 class="heading-3">Icons</h3>
 <figure>
