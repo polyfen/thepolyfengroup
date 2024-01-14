@@ -76,11 +76,6 @@ div.preview {
     text-align: center;
 }
 
-nav#navbar {
-    overflow: scroll;
-    
-}
-
 div.color-swatch {
     width: 140px;
     height: 140px;

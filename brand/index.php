@@ -14,53 +14,55 @@
     <nav id="navbar">
         <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg"" alt="Polyfen" height="40px" width="auto">
         <h2 class="caption">Brand Guidelines</h2>
-        <ul>
-            <li><a href="#download-assets" class="caption">1. Download assets</a></li>
-            <li><a href="#market-research" class="caption">2. Market research</a></li>
+        <div style="overflow-y: scroll;height:800px;padding-bottom:80px;">
             <ul>
-                <li><a href="#business-analysis" class="caption">2.1. Business analysis</a></li>
+                <li><a href="#download-assets" class="caption">1. Download assets</a></li>
+                <li><a href="#market-research" class="caption">2. Market research</a></li>
                 <ul>
-                    <li><a href="#overview" class="caption">2.1.1. Overview</a></li>
-                    <li><a href="#business-model" class="caption">2.1.2. Business model</a></li>
+                    <li><a href="#business-analysis" class="caption">2.1. Business analysis</a></li>
+                    <ul>
+                        <li><a href="#overview" class="caption">2.1.1. Overview</a></li>
+                        <li><a href="#business-model" class="caption">2.1.2. Business model</a></li>
+                    </ul>
+                    <li><a href="#industry-analysis" class="caption">2.2. Industry analysis</a></li>
+                    <li><a href="#target-analysis" class="caption">2.3. Target analysis</a></li>
+                    <ul>
+                        <li><a href="#end-to-end-project" class="caption">2.3.1. End-to-end project</a></li>
+                        <li><a href="#executive-consulting" class="caption">2.3.2. Executive consulting</a></li>
+                        <li><a href="#staff-augmentation" class="caption">2.3.3. Staff augmentation</a></li>
+                    </ul>
                 </ul>
-                <li><a href="#industry-analysis" class="caption">2.2. Industry analysis</a></li>
-                <li><a href="#target-analysis" class="caption">2.3. Target analysis</a></li>
+                <li><a href="#brand-strategy" class="caption">3. Brand strategy</a></li>
                 <ul>
-                    <li><a href="#end-to-end-project" class="caption">2.3.1. End-to-end project</a></li>
-                    <li><a href="#executive-consulting" class="caption">2.3.2. Executive consulting</a></li>
-                    <li><a href="#staff-augmentation" class="caption">2.3.3. Staff augmentation</a></li>
+                    <li><a href="#keywords" class="caption">3.1. Keywords</a></li>
+                    <li><a href="#creative-concept" class="caption">3.2. Creative concept</a></li>
+                    <li><a href="#moodboard" class="caption">3.3. Moodboard</a></li>
+                    <li><a href="#naming" class="caption">3.4. Naming</a></li>
+                    <ul>
+                        <li><a href="#etymology" class="caption">3.4.1. Etymology</a></li>
+                        <li><a href="#name-architecture" class="caption">3.4.2. Name architecture</a></li>
+                    </ul>
+                    <li><a href="#brand-architecture" class="caption">3.5. Brand architecture</a></li>
+                    <li><a href="#voice" class="caption">3.6. Voice</a></li>
+                </ul>
+                <li><a href="#visual-identity" class="caption">4. Visual identity</a></li>
+                <ul>
+                    <li><a href="#logo-system" class="caption">4.1. Logo system</a></li>
+                    <ul>
+                        <li><a href="#symbol" class="caption">4.1.1. Symbol</a></li>
+                        <li><a href="#logotype" class="caption">4.1.2. Logotype</a></li>
+                        <li><a href="#family" class="caption">4.1.3. Family</a></li>
+                    </ul>
+                    <li><a href="#color-scheme" class="caption">4.2. Color scheme</a></li>
+                    <li><a href="#visual-language" class="caption">4.3. Visual language</a></li>
+                    <ul>
+                        <li><a href="#icons" class="caption">4.3.1. Icons</a></li>
+                        <li><a href="#illustrations" class="caption">4.3.2. Illustrations</a></li>
+                        <li><a href="#pearls" class="caption">4.3.3. Pearls</a></li>
+                    </ul>
                 </ul>
             </ul>
-            <li><a href="#brand-strategy" class="caption">3. Brand strategy</a></li>
-            <ul>
-                <li><a href="#keywords" class="caption">3.1. Keywords</a></li>
-                <li><a href="#creative-concept" class="caption">3.2. Creative concept</a></li>
-                <li><a href="#moodboard" class="caption">3.3. Moodboard</a></li>
-                <li><a href="#naming" class="caption">3.4. Naming</a></li>
-                <ul>
-                    <li><a href="#etymology" class="caption">3.4.1. Etymology</a></li>
-                    <li><a href="#name-architecture" class="caption">3.4.2. Name architecture</a></li>
-                </ul>
-                <li><a href="#brand-architecture" class="caption">3.5. Brand architecture</a></li>
-                <li><a href="#voice" class="caption">3.6. Voice</a></li>
-            </ul>
-            <li><a href="#visual-identity" class="caption">4. Visual identity</a></li>
-            <ul>
-                <li><a href="#logo-system" class="caption">4.1. Logo system</a></li>
-                <ul>
-                    <li><a href="#symbol" class="caption">4.1.1. Symbol</a></li>
-                    <li><a href="#logotype" class="caption">4.1.2. Logotype</a></li>
-                    <li><a href="#family" class="caption">4.1.3. Family</a></li>
-                </ul>
-                <li><a href="#color-scheme" class="caption">4.2. Color scheme</a></li>
-                <li><a href="#visual-language" class="caption">4.3. Visual language</a></li>
-                <ul>
-                    <li><a href="#icons" class="caption">4.3.1. Icons</a></li>
-                    <li><a href="#illustrations" class="caption">4.3.2. Illustrations</a></li>
-                    <li><a href="#pearls" class="caption">4.3.3. Pearls</a></li>
-                </ul>
-            </ul>
-        </ul>
+        </div>
     </nav>
     <button aria-label="Open/Close navbar" class="hamburger">
         <img src="imgs/icons/hamburger_icon.svg" alt="" height="30px" width="auto">
