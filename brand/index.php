@@ -50,7 +50,7 @@
                 <ul>
                     <li><a href="#symbol" class="caption">4.1.1. Symbol</a></li>
                     <li><a href="#logotype" class="caption">4.1.2. Logotype</a></li>
-                    <li><a href="#family" class="family">4.1.3. Family</a></li>
+                    <li><a href="#family" class="caption">4.1.3. Family</a></li>
                 </ul>
                 <li><a href="" class="caption"></a></li>
                 <li><a href="" class="caption"></a></li>

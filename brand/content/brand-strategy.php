@@ -21,11 +21,11 @@
 <img src="imgs/moodboard.png" alt="Moodboard" height="auto" width="100%">
 <p>The Moodboard contains a collection of images the can be associated with the industry and the lifestyle of the target audience. It helps identify different colours and shapes with the aim of narrowing down a certain direction for the look-and-feel of the brand.</p>
 <h3 id="naming" class="heading-2">3.4. Naming</h3>
-<h4 id="etymology" class="heading-3">3.4.1. Etymology</h4>
+<h4 id="etymology" class="heading-3">Etymology</h4>
 <p>"Polyfen" is an abstraction of the term “Polyphenic trait”. A polyphenic trait is a genetic property that allows multiple observable variations on organisms of a single species.</p>
 <img src="imgs/shell-patterns.jpeg" alt="">
 <p>The different morphology and color patterns on the shells of mollusks, for instance, are a polyphenic trait.</p>
-<h4 id="name-architecture" class="heading-3">3.4.2. Name Architecture</h4>
+<h4 id="name-architecture" class="heading-3">Name Architecture</h4>
 <p><strong>Legal Name:</strong><br>
 The Polyfen Group LLC<br/>
 Preferred name for use on all official business documentation.</p>
