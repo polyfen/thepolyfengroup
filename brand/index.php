@@ -52,7 +52,7 @@
                     <li><a href="#logotype" class="caption">4.1.2. Logotype</a></li>
                     <li><a href="#family" class="caption">4.1.3. Family</a></li>
                 </ul>
-                <li><a href="" class="caption"></a></li>
+                <li><a href="#color-scheme" class="caption">4.2. Color scheme</a></li>
                 <li><a href="" class="caption"></a></li>
                 <li><a href="" class="caption"></a></li>
             </ul>

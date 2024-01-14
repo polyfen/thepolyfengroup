@@ -75,3 +75,8 @@ div.preview {
     background: #1d272c0b;
     text-align: center;
 }
+
+nav#navbar {
+    overflow: scroll;
+    
+}
