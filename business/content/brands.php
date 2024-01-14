@@ -1,5 +1,5 @@
-<section id="brands">
-    <h2 class="heading-1">4. Our Brands</h2>
+<section id="family-of-brands">
+    <h2 class="heading-1">4. Family of Brands</h2>
     <section id="polyfen">
         <h3 class="heading-2">4.1. Polyfen</h3>
         <section class="sub-brand">

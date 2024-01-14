@@ -21,15 +21,21 @@
             <li><a href="#overview" class="caption">1. Overview</a></li>
             <li><a href="#purpose" class="caption">2. Purpose</a></li>
             <li><a href="#mantra" class="caption">3. Mantra</a></li>
-            <li><a href="#brands" class="caption">4. Brands</a></li>
+            <li><a href="#family-of-brands" class="caption">4. Family of Brands</a></li>
             <ul>
                 <li><a href="#polyfen" class="caption">4.1. Polyfen</a></li>
                 <li><a href="#poly-atlas" class="caption">4.2. Poly Atlas</a></li>
                 <li><a href="#poly-forum" class="caption">4.3. Poly Forum</a></li>
                 <li><a href="#poly-cookies" class="caption">4.4. Poly Cookies</a></li>
                 <li><a href="#poly-qwerty" class="caption">4.5. Poly Qwerty</a></li>
-                <li><a href="#poly-kit" class="caption">4.6. Poly Kit</a></li>
+                <li><a href="#poly-kit" class="caption">4.6. Polykit</a></li>
             </ul>
+            <li><a href="#services" class="caption">5. Services</a></li>
+            <ul>
+                <li><a href="#end-to-end-projects" class="caption">5.1. End-to-End Projects</a></li>
+                <li><a href="#hourly-services" class="caption">5.2. Hourly Services</a></li>
+            </ul>
+            <li><a href="#products" class="caption">6. Target</a></li>
         </ul>
     </nav>
     <button aria-label="Open/Close navbar" class="hamburger">
@@ -61,6 +67,14 @@
         <hr>
         <!-- INCLUDE OUR-VALUES.PHP start -->
         <?php include 'content/brands.php';?>
+        <!-- INCLUDE OUR-VALUES.PHP end -->
+        <hr>
+        <!-- INCLUDE OUR-VALUES.PHP start -->
+        <?php include 'content/services.php';?>
+        <!-- INCLUDE OUR-VALUES.PHP end -->
+        <hr>
+        <!-- INCLUDE OUR-VALUES.PHP start -->
+        <?php include 'content/target.php';?>
         <!-- INCLUDE OUR-VALUES.PHP end -->
         <hr>
     </main>
