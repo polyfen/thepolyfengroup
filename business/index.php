@@ -35,7 +35,7 @@
                 <li><a href="#end-to-end-projects" class="caption">5.1. End-to-End Projects</a></li>
                 <li><a href="#hourly-services" class="caption">5.2. Hourly Services</a></li>
             </ul>
-            <li><a href="#products" class="caption">6. Target</a></li>
+            <li><a href="#target" class="caption">6. Target</a></li>
         </ul>
     </nav>
     <button aria-label="Open/Close navbar" class="hamburger">
