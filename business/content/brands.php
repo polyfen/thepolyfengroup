@@ -1,7 +1,7 @@
 <section id="family-of-brands">
-    <h2 class="heading-1">4. Family of Brands</h2>
+    <h2 class="heading-1">5. Family of Brands</h2>
     <section id="polyfen">
-        <h3 class="heading-2">4.1. Polyfen</h3>
+        <h3 class="heading-2">5.1. Polyfen</h3>
         <section class="sub-brand">
             <img src="imgs/sub-brands/polyfen-logo.svg" alt="Polyfen" height="60px" width="auto">
             <p>Creative agency offering design, marketing, and software development services for new and emerging businesses.</p>
@@ -9,7 +9,7 @@
         </section>
     </section>
     <section id="poly-atlas">
-    <h3 class="heading-2">4.2. Poly Atlas</h3>
+    <h3 class="heading-2">5.2. Poly Atlas</h3>
     <section class="sub-brand">
       <img src="imgs/sub-brands/poly-atlas-logo.svg" alt="Poly Atlas" height="60px" width="auto">
       <p>Open-source step-by-step guide to the Branding process, including practical tips, case studies, template files, and many other useful resources.</p>
@@ -17,7 +17,7 @@
     </section>
     </section>
     <section id="poly-cookies">
-    <h3 class="heading-2">4.3. Poly Cookies</h3>
+    <h3 class="heading-2">5.3. Poly Cookies</h3>
     <section class="sub-brand">
       <img src="imgs/sub-brands/poly-cookies-logo.svg" alt="Poly Cookies" height="60px" width="auto">
       <p>Open-source solution to privacy policy implementing a cookie consent banner with Google Tag Manager.</p>
@@ -25,7 +25,7 @@
     </section>
     </section>
     <section id="poly-qwerty">
-        <h3 class="heading-2">4.4. Poly Qwerty</h3>
+        <h3 class="heading-2">5.4. Poly Qwerty</h3>
         <section class="sub-brand">
         <img src="imgs/sub-brands/poly-qwerty-logo.svg" alt="Poly Qwerty" height="60px" width="auto">
         <p>Your keyboard's assistant. Click on a character to copy it.</p>
@@ -33,7 +33,7 @@
         </section>
     </section>
     <section id="poly-kit">
-        <h3 class="heading-2">4.5. Polykit</h3>
+        <h3 class="heading-2">5.5. Polykit</h3>
         <section class="sub-brand">
         <img src="imgs/sub-brands/poly-kit-logo.svg" alt="Poly Kit" height="60px" width="auto">
         <small class="caption" style="opacity: 0.6;"><br><br>// Work in Progress //</small>
@@ -42,7 +42,7 @@
         </section>
     </section>
     <section id="poly-press">
-    <h3 class="heading-2">4.6. Polypress</h3>
+    <h3 class="heading-2">5.6. Polypress</h3>
     <section class="sub-brand">
       <img src="imgs/sub-brands/polypress-logo.svg" alt="Poly Forum" height="60px" width="auto">
       <small class="caption" style="opacity: 0.6;"><br><br>// Work in Progress //</small>
@@ -51,7 +51,7 @@
     </section>
     </section>
     <section id="poly-forum">
-    <h3 class="heading-2">4.7. Poly Forum</h3>
+    <h3 class="heading-2">5.7. Poly Forum</h3>
     <section class="sub-brand">
       <img src="imgs/sub-brands/poly-forum-logo.svg" alt="Poly Forum" height="60px" width="auto">
       <small class="caption" style="opacity: 0.6;"><br><br>// Work in Progress //</small>

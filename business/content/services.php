@@ -1,6 +1,6 @@
 <section id="services">
-    <h2 class="heading-1">5. Services</h2>
-    <h3 class="heading-2">5.1. End-to-End Projects</h3>
+    <h2 class="heading-1">6. Services</h2>
+    <h3 id="end-to-end-projects" class="heading-2">6.1. End-to-End Projects</h3>
     <h4 class="heading-3">Brand Revamp</h4>
     <h5 class="heading-4">$3,900</h5>
     <h5 class="heading-4">2-3 weeks</h5>
@@ -35,7 +35,7 @@
       <li>Deployment</li>
       <li>Walkthrough</li>
     </ul>
-    <h3 class="heading-2">5.2. Hourly Services</h3>
+    <h3 id="hourly-services" class="heading-2">6.2. Hourly Services</h3>
     <h4 class="heading-4">$65/hr</h4>
     <h4 class="heading-4">Net-14 Billing</h4>
     <ul class="hanging-list arrow-bullet">

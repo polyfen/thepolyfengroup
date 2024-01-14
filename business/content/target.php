@@ -1,5 +1,5 @@
 <section id="target">
-    <h2 class="heading-1">6. Target</h2>
+    <h2 class="heading-1">7. Target</h2>
     <table class="buyer-persona" id="end-to-end-project">
     <tr style="background:#1d272c1a;">
         <th colspan="2" class="uppercase">Buyer Persona No.1<br>End-to-End Project</th>

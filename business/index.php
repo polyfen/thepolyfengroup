@@ -20,22 +20,23 @@
         <ul>
             <li><a href="#overview" class="caption">1. Overview</a></li>
             <li><a href="#purpose" class="caption">2. Purpose</a></li>
-            <li><a href="#mantra" class="caption">3. Mantra</a></li>
-            <li><a href="#family-of-brands" class="caption">4. Family of Brands</a></li>
+            <li><a href="#values" class="caption">3. Values</a></li>
+            <li><a href="#mantra" class="caption">4. Mantra</a></li>
+            <li><a href="#family-of-brands" class="caption">5. Family of Brands</a></li>
             <ul>
-                <li><a href="#polyfen" class="caption">4.1. Polyfen</a></li>
-                <li><a href="#poly-atlas" class="caption">4.2. Poly Atlas</a></li>
-                <li><a href="#poly-forum" class="caption">4.3. Poly Forum</a></li>
-                <li><a href="#poly-cookies" class="caption">4.4. Poly Cookies</a></li>
-                <li><a href="#poly-qwerty" class="caption">4.5. Poly Qwerty</a></li>
-                <li><a href="#poly-kit" class="caption">4.6. Polykit</a></li>
+                <li><a href="#polyfen" class="caption">5.1. Polyfen</a></li>
+                <li><a href="#poly-atlas" class="caption">5.2. Poly Atlas</a></li>
+                <li><a href="#poly-forum" class="caption">5.3. Poly Forum</a></li>
+                <li><a href="#poly-cookies" class="caption">5.4. Poly Cookies</a></li>
+                <li><a href="#poly-qwerty" class="caption">5.5. Poly Qwerty</a></li>
+                <li><a href="#poly-kit" class="caption">5.6. Polykit</a></li>
             </ul>
-            <li><a href="#services" class="caption">5. Services</a></li>
+            <li><a href="#services" class="caption">6. Services</a></li>
             <ul>
-                <li><a href="#end-to-end-projects" class="caption">5.1. End-to-End Projects</a></li>
-                <li><a href="#hourly-services" class="caption">5.2. Hourly Services</a></li>
+                <li><a href="#end-to-end-projects" class="caption">6.1. End-to-End Projects</a></li>
+                <li><a href="#hourly-services" class="caption">6.2. Hourly Services</a></li>
             </ul>
-            <li><a href="#target" class="caption">6. Target</a></li>
+            <li><a href="#target" class="caption">7. Target</a></li>
         </ul>
     </nav>
     <button aria-label="Open/Close navbar" class="hamburger">
@@ -59,6 +60,10 @@
         <hr>
         <!-- INCLUDE OUR-GOAL.PHP start -->
         <?php include 'content/purpose.php';?>
+        <!-- INCLUDE OUR-GOAL.PHP end -->
+        <hr>
+        <!-- INCLUDE OUR-GOAL.PHP start -->
+        <?php include 'content/values.php';?>
         <!-- INCLUDE OUR-GOAL.PHP end -->
         <hr>
         <!-- INCLUDE OUR-VALUES.PHP start -->
