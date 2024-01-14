@@ -90,6 +90,14 @@
         <?php include 'content/time-off.php';?>
         <!-- INCLUDE VACATIONS-HOLIDAYS-AND-DAYS-OFF.PHP end -->
         <hr>
+        <!-- INCLUDE X.PHP start -->
+        <?php include 'content/branding-workflow.php';?>
+        <!-- INCLUDE X.PHP end -->
+        <hr>
+        <!-- INCLUDE X.PHP start -->
+        <?php include 'content/development-workflow.php';?>
+        <!-- INCLUDE X.PHP end -->
+        <hr>
     </main>
 </body>
 
