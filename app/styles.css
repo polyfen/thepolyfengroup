@@ -109,14 +109,6 @@ section.sub-brand {
     margin-bottom: 2rem;
 }
 
-section.sub-brand img {
-    max-height: 50px;
-}
-
-section.sub-brand p {
-    padding-top: 12px;
-}
-
 hr {
     margin: 45px auto;
 }
@@ -208,6 +200,44 @@ section#cover p {
 .polyqwerty a span { background:#ecf0f3 url(../imgs/sub-brands/poly-qwerty-logo.svg) no-repeat left top;}
 .polykit a span { background:#ecf0f3 url(../imgs/sub-brands/polykit-logo.svg) no-repeat left top;}
 
+/* grid for sub-brands */
+.sub-brand {
+    display: grid;
+    grid-template-areas:
+    'logos'
+    'screens'
+    'texts'
+    'links';
+    gap: 1rem;
+}
+
+.sub-brand p {
+    margin-bottom: unset;
+    padding-top: unset;
+}
+@media (min-width: 768px) {
+    .sub-brands-container {
+        padding-inline: 20px;
+    }
+    .sub-brand {
+        grid-template-areas:
+        'logos logos'
+        'screens texts'
+        'screens links';
+    }
+    .sub-brand .screen {
+        margin-top: unset;
+        aspect-ratio: 4/3;
+        width: 100%;
+        max-width: 210px;
+    }
+}
+
+.--sub-brand { grid-area: logos;}
+.sub-brand p { grid-area: texts;}
+.sub-brand .links { grid-area: links;}
+.sub-brand .screen { grid-area: screens;}
+/* end grid for sub-brands */
 
 /* issue to talk, this is not mobile first polykit*/
 section#cover {
@@ -217,7 +247,6 @@ h2.title-2 {
     margin-top: 0;
     padding-top: 0;
 }
-
 .current-page {
     opacity: 0.4;
 }

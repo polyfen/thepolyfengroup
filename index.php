@@ -76,9 +76,10 @@
                 <h3 class="polyfen --sub-brand">
                     <a href="https://polyfen.com" target="_blank" class="web-url">Polyfen<span></span></a>
                 </h3>
+                <img class="screen" src="imgs/sub-brands/polyfen-screen.png" alt="">
                 <p>Creative agency offering design, marketing, and software development services for new and emerging
                     businesses.</p>
-                <a href="https://polyfen.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg"
+                <a href="https://polyfen.com" target="_blank" class="links web-url"><img src="imgs/icons/globe.svg"
                         class="web-icon" alt="">polyfen.com</a>
             </section>
             <hr>
@@ -86,9 +87,10 @@
                 <h3 class="polyatlas --sub-brand">
                     <a href="https://polyatlas.wiki" target="_blank" class="web-url">Polyatlas<span></span></a>
                 </h3>
+                <img class="screen" src="imgs/sub-brands/polyatlas-screen.png" alt="">
                 <p>Open-source step-by-step guide to the Branding process, including practical tips, case studies,
                     template files, and many other useful resources.</p>
-                <a href="https://polyatlas.wiki" target="_blank" class="web-url"><img src="imgs/icons/globe.svg"
+                <a href="https://polyatlas.wiki" target="_blank" class="links web-url"><img src="imgs/icons/globe.svg"
                         class="web-icon" alt="">polyatlas.wiki</a>
             </section>
             <hr>
@@ -96,9 +98,10 @@
                 <h3 class="polycookies --sub-brand">
                     <a href="https://polycookies.com" target="_blank" class="web-url">Polycookies<span></span></a>
                 </h3>
+                <img class="screen" src="imgs/sub-brands/polycookies-screen.png" alt="">
                 <p>Open-source solution to privacy policy implementing a cookie consent banner with Google Tag Manager.
                 </p>
-                <a href="https://polycookies.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg"
+                <a href="https://polycookies.com" target="_blank" class="links web-url"><img src="imgs/icons/globe.svg"
                         class="web-icon" alt="">polycookies.com</a>
             </section>
             <hr>
@@ -106,8 +109,9 @@
                 <h3 class="polyqwerty --sub-brand">
                     <a href="https://polyqwerty.com" target="_blank" class="web-url">polyqwerty<span></span></a>
                 </h3>
+                <img class="screen" src="imgs/sub-brands/polyqwerty-screen.png" alt="">
                 <p>Your keyboard's assistant. Click on a character to copy it.</p>
-                <a href="https://polyqwerty.com" target="_blank" class="web-url"><img src="imgs/icons/globe.svg"
+                <a href="https://polyqwerty.com" target="_blank" class="links web-url"><img src="imgs/icons/globe.svg"
                         class="web-icon" alt="">polyqwerty.com</a>
             </section>
             <hr>
@@ -115,11 +119,12 @@
                 <h3 class="polykit --sub-brand">
                     <a href="https://polykit.xyz" target="_blank" class="web-url">polykit<span></span></a>
                 </h3>
-
-                <small class="caption" style="opacity: 0.6;"><br><br>// Work in Progress //</small>
+                <img class="screen" src="imgs/sub-brands/polykit-screen.png" alt="">
                 <p>Open-source design system for User Interfaces with CSS code for developers and Figma library for
-                    designers.</p>
-                <a href="https://polykit.xyz" target="_blank" class="web-url"><img src="imgs/icons/globe.svg"
+                    designers.
+                    <small class="caption" style="opacity: 0.6;"><br>// Work in Progress //</small>
+                </p>
+                <a href="https://polykit.xyz" target="_blank" class="links web-url"><img src="imgs/icons/globe.svg"
                         class="web-icon" alt="">polykit.xyz</a>
             </section>
             <hr>
