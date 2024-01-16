@@ -38,6 +38,7 @@
             <li><a href="#time-off" class="caption">9. Time off</a></li>
             <li><a href="#branding-workflow" class="caption">10. Branding workflow</a></li>
             <li><a href="#development-workflow" class="caption">11. Development workflow</a></li>
+            <br><br>
         </ul>
     </nav>
     <button aria-label="Open/Close navbar" class="hamburger">

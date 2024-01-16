@@ -49,6 +49,7 @@
                 <li><a href="#owner-managed" class="caption">7.2. Owner-managed</a></li>
             </ul>
             <li><a href="#target" class="caption">8. Target</a></li>
+            <br><br>
         </ul>
     </nav>
     <button aria-label="Open/Close navbar" class="hamburger">
