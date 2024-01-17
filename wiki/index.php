@@ -53,7 +53,7 @@
 
     <main>
         <section class="cover">
-            <img src="imgs/videogame-illustratrion.svg" alt="Videogame Illustration" height="200px" width="auto" class="d-none">
+            <img src="imgs/videogame-illustratrion.svg" alt="Videogame Illustration" height="200px" width="auto">
             <h1 class="title-2">Team Wiki</h1>
             <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
         </section>

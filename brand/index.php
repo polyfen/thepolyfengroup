@@ -75,7 +75,7 @@
     </button>
     <main>
         <section class="cover">
-            <img src="imgs/lightbulb-illustration.svg" alt="Folder Illustration" height="250px" width="auto" class="d-none">
+            <img src="imgs/lightbulb-illustration.svg" alt="Folder Illustration" height="250px" width="auto" >
             <h1 class="title-2">Brand Guidelines</h1>
             <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
         </section>
