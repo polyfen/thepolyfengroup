@@ -192,7 +192,7 @@ section#cover p {
 .polyforum a { width:194px; height:50px;}
 .polyqwerty a { width:223px; height:50px;}
 .polykit a { width:207px; height:50px;}
-
+.polypress a { width:223px; height:50px;}
 .--sub-brand a span {
     display:block;
     position:absolute;
@@ -207,6 +207,7 @@ section#cover p {
 .polyforum a span { background:#ecf0f3 url(../imgs/sub-brands/poly-forum-logo.svg) no-repeat left top;}
 .polyqwerty a span { background:#ecf0f3 url(../imgs/sub-brands/poly-qwerty-logo.svg) no-repeat left top;}
 .polykit a span { background:#ecf0f3 url(../imgs/sub-brands/polykit-logo.svg) no-repeat left top;}
+.polypress a span { background:#ecf0f3 url(../imgs/sub-brands/polypress-logo.svg) no-repeat left top;}
 
 
 /* issue to talk, this is not mobile first polykit*/
