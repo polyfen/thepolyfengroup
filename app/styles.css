@@ -199,6 +199,7 @@ section#cover p {
     width:100%;
     height:100%;
     z-index:9;
+    background-size: contain !important;
 }
 
 .polyfen a span { background:#ecf0f3 url(../imgs/sub-brands/polyfen-logo.svg) no-repeat left top;}

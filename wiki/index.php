@@ -13,7 +13,7 @@
 <body>
     <?php include '../includes/hello-nav.php';?>
     <nav id="navbar">
-        <img class="plfn-logo" src="imgs/polyfen-logo.svg" alt="Polyfen Logo" height="40px" width="auto">
+        <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="Polyfen" height="40px" width="auto">
         <h2 class="caption">Team Wiki</h2>
         <ul>
             <li><a href="#tech-stack" class="caption">1. Tech stack</a></li>
