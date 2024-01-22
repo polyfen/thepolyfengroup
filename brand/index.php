@@ -12,9 +12,11 @@
 <body>
     <?php include '../includes/hello-nav.php';?>
     <nav id="navbar">
-        <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="Polyfen" height="40px" width="auto">
+        <a href="https://thepolyfengroup.com" rel="dofollow" class="link-logo">
+            <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="Polyfen" height="40px" width="auto">
+        </a>
         <h2 class="caption">Brand Guidelines</h2>
-        <div style="overflow-y: scroll;height:800px;padding-bottom:80px;">
+        <div>
             <ul>
                 <li><a href="#download-assets" class="caption">1. Download assets</a></li>
                 <li><a href="#market-research" class="caption">2. Market research</a></li>
@@ -62,6 +64,7 @@
                     </ul>
                 </ul>
             </ul>
+            <br><br>
         </div>
     </nav>
     <button aria-label="Open/Close navbar" class="hamburger">
