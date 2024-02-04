@@ -78,13 +78,13 @@
     </div>
 </div>
 <h3 class="heading-2">4.3. Visual Language</h3>
-<h4 class="heading-3">Icons</h3>
+<h4 class="heading-3">Icons</h4>
 <figure>
 <img src="imgs/icons.png" style="height:200px; width:auto;">
 </figure>
 <p>All icons in Polyfen's touchpoints &amp; communications should correspond to the Iconography set we've selected for our Brand, <a href="https://phosphoricons.com/" target="_blank">Phospor</a>.</p>
 <p>Phospor's line-icons are meant only for use at large sizes accross Polyfen's Brand, while for smaller sizes the fill-icons are preferred to ensure accessible legibility.</p>
-<h4 class="heading-3">Illustrations</h3>
+<h4 class="heading-3">Illustrations</h4>
 <figure>
 <img src="imgs/illustrations-original.png" style="height:400px; width:auto;">
 </figure>
@@ -93,5 +93,9 @@
 <figure>
 <img src="imgs/illustrations-custom.png" style="height:400px; width:auto;">
 </figure>
-<h4 class="heading-3">Pearls</h3>
+<h4 class="heading-3">Pearls</h4>
+<figure>
+<img src="imgs/pearls.png" style="height:400px; width:auto;">
+</figure>
+<p>The Pearls are part of our visual dictoniary which we use to give plain backgrounds a bit more depth.</p>
 </section>
