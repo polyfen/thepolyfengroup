@@ -14,7 +14,7 @@
     <?php include '../includes/hello-nav.php';?>
     <nav id="navbar">
     <a href="https://thepolyfengroup.com" rel="dofollow" class="link-logo">
-        <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="Polyfen" height="40px" width="auto">
+        <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="The Polyfen Group" height="40px" width="auto">
     </a>
         <h2 class="caption">Business Plan</h2>
 

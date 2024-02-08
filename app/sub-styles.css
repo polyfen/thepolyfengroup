@@ -8,43 +8,46 @@
     gap: 1rem;
     padding: 1rem;
     background-color: #1d272c;;
-    }
+}
 
-    .hello-nav a {
-        color: #ffffffc8;
-    }
+.hello-nav a {
+    color: #ffffffc8;
+}
 
-    .hello-nav a:hover {
-        color: #ffffff;
-    }
-    .hello-nav a.current-page:hover {
-        color: #ffffffc8;
-    }
+.hello-nav a:hover {
+    color: #ffffff;
+}
+.hello-nav a.current-page:hover {
+    color: #ffffffc8;
+}
 
-    body {
-        margin-top: 50px;
-    }
-    
-    body nav {
-        margin-top: 0px;
-    }
-    @media (min-width: 768px) {
-        body nav {
-            margin-top: 50px;
-        }
-    }
-
-    
-    .current-page {
-        opacity: 0.4;
-    }
-
-    a.current-page:hover::before {
-        content: none;
-    }
+body {
+    margin-top: 50px;
+}
 
 body nav {
-    background: none;
+    margin-top: 0px;
+}
+
+@media (min-width: 768px) {
+    body nav {
+        margin-top: 50px;
+    }
+}
+
+
+.current-page {
+    opacity: 0.4;
+}
+
+a.current-page:hover::before {
+    content: none;
+}
+
+@media (min-width: 768px) {
+    body nav {
+        background: none;
+    }
 }
 
 th, td, th p, td p {
