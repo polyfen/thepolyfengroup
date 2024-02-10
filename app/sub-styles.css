@@ -21,12 +21,8 @@
     color: #ffffffc8;
 }
 
-body {
-    margin-top: 50px;
-}
-
 body nav {
-    margin-top: 0px;
+    margin-top: 39px;
 }
 
 #navbar li {
@@ -38,7 +34,6 @@ body nav {
         margin-top: 50px;
     }
 }
-
 
 .current-page {
     opacity: 0.4;
@@ -155,3 +150,11 @@ ul.arrow-bullet li[data-icon="1password"] {
     list-style-image: url(../imgs/icons/bullets/1password.svg);
 }
 
+/* Quitando el nav en mobile */
+
+@media (max-width: 768px) {
+    body > nav, body > .hamburger, body > .close {
+        display: none;
+    }
+
+}

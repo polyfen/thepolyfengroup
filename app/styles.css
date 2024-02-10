@@ -4,12 +4,13 @@ body {
 }
 
 body {
-    border-top: 12px solid #7637f9;
+    border-top: 8px solid #7637f9;
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: auto auto;
     justify-items: center;
     padding-inline: 25px;
+    margin-top: 34px;
 }
 
 header {
@@ -25,6 +26,9 @@ img#tpg-wordmark {
     position: absolute;
 }
 
+iframe {
+    width: auto;
+}
 main {
     grid-column: 1/2;
     grid-row: 2/3;
@@ -277,22 +281,25 @@ h2.title-2 {
 
 @media (min-width: 768px) {
     body {
-        border-top: 12px solid #7637f9;
         display: grid;
         grid-template-columns: 280px 1fr;
         grid-template-rows: auto;
         justify-items: start;
         padding-inline: unset;
     }
-
+    .hello-social {
+        grid-column: 1/3;
+        grid-row: 1/2;
+        margin: 0 auto;
+    }
     main {
         grid-column: 2/3;
-        grid-row: auto;
+        grid-row: 2/3;
     }
 
     header {
         grid-column: 1/2;
-        grid-row: auto;
+        grid-row: 2/3;
         position: fixed;
     }
 
@@ -314,4 +321,98 @@ h2.title-2 {
     }
     
     
+}
+
+/* hello social media */
+.hello-social {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    gap: 1rem;
+    padding-inline: 0;
+    padding-block: 7px;
+    background-color: #1d272c;;
+}
+
+.hello-social a::before {
+    content: none;
+}
+
+.icon-social svg, .icon-social {
+    width: 20px;
+    height: 20px;
+    fill: #1f8df0;
+    display: block;
+}
+
+.icon-social svg:hover {
+    fill: #ffffff;
+}
+/* end hello social media */
+
+/* hello nav */
+.hello-nav {
+    z-index: 100;
+}
+.nav-links {
+    position: fixed;
+    height: 100vh;
+    padding-inline: 44px;
+    padding-top: 135px;
+    top: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    gap: 1rem;
+    background-color: #1d272c;;
+}
+
+.nav-hamburger {
+    z-index: 400;
+    position: fixed;
+    padding: 0;
+    right: 12px;
+    top: 60px;
+    background-color: #ffffff;
+    border-color: transparent;
+    border-radius: 18px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-close {
+    z-index: 380;
+    position: fixed;
+    padding: 0;
+    right: 12px;
+    top: 60px;
+    background-color: #ffffff;
+    border-color: transparent;
+    border-radius: 18px;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+.nav-links {
+    display: none;
+}
+.nav-buttons {
+    display: flex;
+}
+
+.open-nav {
+    display: flex;
+}
+
+.close-nav {
+    display: none;
 }

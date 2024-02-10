@@ -11,9 +11,10 @@
 </head>
 
 <body>
+    <?php include '../includes/hello-social.php';?>
     <?php include '../includes/hello-nav.php';?>
     <nav id="navbar">
-    <a href="https://thepolyfengroup.com" rel="dofollow" class="link-logo">
+    <a href="/" rel="dofollow" class="link-logo">
         <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="The Polyfen group" height="40px" width="auto">
     </a>
         <h2 class="caption">Team Wiki</h2>
@@ -46,7 +47,7 @@
             <br><br>
         </ul>
     </nav>
-    <button aria-label="Open/Close navbar" class="hamburger">
+<!--     <button aria-label="Open/Close navbar" class="hamburger">
         <img src="imgs/icons/hamburger_icon.svg" alt="" height="30px" width="auto">
     </button>
     <button class="close">
@@ -54,7 +55,7 @@
             <path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                 d="m16 16l-4-4m0 0L8 8m4 4l4-4m-4 4l-4 4" />
         </svg>
-    </button>
+    </button> -->
 
     <main>
         <section class="cover">
