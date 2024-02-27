@@ -38,8 +38,9 @@
             <li><a href="#time-tracking" class="caption">7. Time tracking</a></li>
             <li><a href="#getting-paid" class="caption">8. Getting paid</a></li>
             <li><a href="#time-off" class="caption">9. Time off</a></li>
-            <li><a href="#branding-workflow" class="caption">10. Branding workflow</a></li>
-            <li><a href="#development-workflow" class="caption">11. Development workflow</a></li>
+            <li><a href="#google-drive" class="caption">10. Google Drive</a></li>
+            <li><a href="#branding-workflow" class="caption">11. Branding workflow</a></li>
+            <li><a href="#development-workflow" class="caption">12. Development workflow</a></li>
             <br><br>
         </ul>
     </nav>
@@ -95,13 +96,17 @@
         <?php include 'content/time-off.php';?>
         <!-- INCLUDE VACATIONS-HOLIDAYS-AND-DAYS-OFF.PHP end -->
         <hr>
-        <!-- INCLUDE X.PHP start -->
-        <?php include 'content/branding-workflow.php';?>
-        <!-- INCLUDE X.PHP end -->
+        <!-- INCLUDE GOOGLE-DRIVE.PHP start -->
+        <?php include 'content/google-drive.php';?>
+        <!-- INCLUDE GOOGLE-DRIVE.PHP end -->
         <hr>
-        <!-- INCLUDE X.PHP start -->
+        <!-- INCLUDE BRANDING-WORKFLOW.PHP start -->
+        <?php include 'content/branding-workflow.php';?>
+        <!-- INCLUDE BRANDING-WORKFLOW.PHP end -->
+        <hr>
+        <!-- INCLUDE DEVELOPMENT-WORKFLOW.PHP start -->
         <?php include 'content/development-workflow.php';?>
-        <!-- INCLUDE X.PHP end -->
+        <!-- INCLUDE DEVELOPMENT-WORKFLOW.PHP end -->
         <hr>
     </main>
 </body>

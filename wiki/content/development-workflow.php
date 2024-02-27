@@ -1,5 +1,5 @@
 <section id="development-workflow">
-    <h2 class="heading-1">11. Development Workflow</h2>
+    <h2 class="heading-1">12. Development Workflow</h2>
     <p>Website project set-up:</p>
     <ol class="hanging-list">
         <li>Create Github repository</li>
