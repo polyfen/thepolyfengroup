@@ -41,6 +41,7 @@
             <li><a href="#google-drive" class="caption">10. Google Drive</a></li>
             <li><a href="#branding-workflow" class="caption">11. Branding workflow</a></li>
             <li><a href="#development-workflow" class="caption">12. Development workflow</a></li>
+            <li><a href="#accounting-workflow" class="caption">13. Accounting workflow</a></li>
             <br><br>
         </ul>
     </nav>
@@ -107,6 +108,10 @@
         <!-- INCLUDE DEVELOPMENT-WORKFLOW.PHP start -->
         <?php include 'content/development-workflow.php';?>
         <!-- INCLUDE DEVELOPMENT-WORKFLOW.PHP end -->
+        <hr>
+        <!-- INCLUDE ACCOUNTING-WORKFLOW.PHP start -->
+        <?php include 'content/accounting-workflow.php';?>
+        <!-- INCLUDE ACCOUNTING-WORKFLOW.PHP end -->
         <hr>
     </main>
 </body>
