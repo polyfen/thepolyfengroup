@@ -7,8 +7,8 @@
     <h3 class="heading-2">3.3. Flexibility</h3>
     <p>Fully-remote since 2018. We can't compete with the comp packages of big tech companies. But where we can compete and win, is in flexibility. That allows us to have the best talent in the world at a sustainable cost.</p>
     <h3 class="heading-2">3.4. Transparency</h3>
-    <p>Transparency is in our DNA. Our Business Plan and Team Wiki are just some of our documentation that is publically available. We also contribute to the open-source software engineering community with public code repositories in <a href="https://github.com/orgs/polyfen/repositories" rel="nofollow" target="_blank">Github</a>. We believe that the world of business could learn from the practices of the open-source community. Sharing our work allows us to:</p>
-    <ul class="hanging-list">
+    <p>Transparency is in our DNA. Our Business Plan and <a href="/wiki">Team Wiki</a> are just some of our documentation that is publically available. We also contribute to the open-source software community with public code repositories in <a href="https://github.com/polyfen" rel="nofollow" target="_blank">Github</a>. We believe that the world of business could learn a lot from the practices and culture of the open-source community. Sharing our work allows us to:</p>
+    <ul class="hanging-list arrow-bullet spaced-list">
         <li>Reach more people with through content marketing.</li>
         <li>Gain the interest of potential clients and talent.</li>
         <li>Document, standardize, and optimize our workflows.</li>
