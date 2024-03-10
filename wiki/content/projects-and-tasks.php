@@ -17,7 +17,9 @@
     <h3 class="heading-2" id="in-progress">6.3. In Progress</h3>
     <p>One you start work on a specific task, the first thing to do is set its status as "In Progress" to let the rest of the team know what's being worked on.</p>
     <h3 class="heading-2" id="for-review">6.4. For Review</h3>
-    <p>After you consider your task is complete, then change the task status to "For Review" and assign the task to your reporter.</p>
+    <p>After you consider your task is complete, add a comment with the total amount of hours worked on the task, then change the task status to "For Review" and assign the task to your reporter.</p>
     <h3 class="heading-2" id="complete">6.5. Complete</h3>
     <p>After your task is reviewed by a Reporter and approved it will be moved to the "Complete" column.</p>
+    <h3 class="heading-2" id="archived">6.6. Archived</h3>
+    <p>Once a week, when doing the transition between Sprint cycles, the tasks that are in the "Complete" column will be archived.</p>
 </section>

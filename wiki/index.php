@@ -34,6 +34,7 @@
                 <li><a href="#in-progress" class="caption">6.3. In Progress</a></li>
                 <li><a href="#for-review" class="caption">6.4. For Review</a></li>
                 <li><a href="#complete" class="caption">6.5. Complete</a></li>
+                <li><a href="#archived" class="caption">6.6. Archived</a></li>
             </ul>
             <li><a href="#time-tracking" class="caption">7. Time tracking</a></li>
             <li><a href="#getting-paid" class="caption">8. Getting paid</a></li>
