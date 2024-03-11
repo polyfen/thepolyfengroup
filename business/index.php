@@ -23,10 +23,10 @@
             <li><a href="#purpose" class="caption">2. Purpose</a></li>
             <li><a href="#values" class="caption">3. Values</a></li>
             <ul>
-                <li><a href="" class="caption">3.1. Education</a></li>
-                <li><a href="" class="caption">3.2. Collaboration</a></li>
-                <li><a href="" class="caption">3.3. Flexibility</a></li>
-                <li><a href="" class="caption">3.4. Transparency</a></li>
+                <li><a href="#education" class="caption">3.1. Education</a></li>
+                <li><a href="#collaboration" class="caption">3.2. Collaboration</a></li>
+                <li><a href="#flexibility" class="caption">3.3. Flexibility</a></li>
+                <li><a href="#transparency" class="caption">3.4. Transparency</a></li>
             </ul>
             <li><a href="#mantra" class="caption">4. Mantra</a></li>
             <li><a href="#family-of-brands" class="caption">5. Family of Brands</a></li>
@@ -46,8 +46,10 @@
             </ul>
             <li><a href="#differential" class="caption">7. Differential</a></li>
             <ul>
-                <li><a href="#cost-efficient" class="caption">7.1. Cost-efficient</a></li>
-                <li><a href="#owner-managed" class="caption">7.2. Owner-managed</a></li>
+                <li><a href="#low-cost-high-value" class="caption">7.1. Low cost, high vlaue</a></li>
+                <li><a href="#wealth-of-experience" class="caption">7.2. Wealth of experience</a></li>
+                <li><a href="#end-to-end-service" class="caption">7.3. End-to-End Service</a></li>
+                <li><a href="#fast-track-kick-off" class="caption">7.4. Fast-track Kick-off</a></li>
             </ul>
             <li><a href="#target" class="caption">8. Target</a></li>
             <br><br>
