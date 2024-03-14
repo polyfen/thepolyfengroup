@@ -110,3 +110,51 @@ div.swatch-container {
 a.link-logo:hover::before {
     content: none;
 }
+
+.slack-logo {
+    width: 20px;
+    height: auto;
+    margin-right: 2px;
+}
+
+/*
+ul.arrow-bullet li[data-icon="slack"] {
+    list-style-image: url('data:image/svg+xml,<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20px" height="20px" viewBox="0 0 255 255" enable-background="new 0 0 255 255" xml:space="preserve"><g><g><path fill="%23E01E5A" d="M53.51,160.948c0,14.726-12.029,26.756-26.756,26.756C12.029,187.704,0,175.674,0,160.948s12.029-26.756,26.755-26.756H53.51V160.948z"/><path fill="%23E01E5A" d="M66.992,160.948c0-14.726,12.03-26.756,26.756-26.756s26.756,12.03,26.756,26.756v66.992c0,14.727-12.03,26.756-26.756,26.756s-26.756-12.029-26.756-26.756V160.948z"/></g><g><path fill="%2336C5F0" d="M93.748,53.512c-14.726,0-26.756-12.03-26.756-26.756S79.022,0,93.748,0s26.756,12.03,26.756,26.756v26.756H93.748z"/><path fill="%2336C5F0" d="M93.748,66.993c14.726,0,26.756,12.029,26.756,26.755c0,14.727-12.03,26.756-26.756,26.756H26.755C12.029,120.504,0,108.475,0,93.748c0-14.726,12.029-26.755,26.755-26.755H93.748z"/></g><g><path fill="%232EB67D" d="M201.185,93.748c0-14.726,12.029-26.755,26.755-26.755c14.727,0,26.756,12.029,26.756,26.755c0,14.727-12.029,26.756-26.756,26.756h-26.755V93.748z"/><path fill="%232EB67D" d="M187.704,93.748c0,14.727-12.03,26.756-26.756,26.756s-26.756-12.029-26.756-26.756V26.756C134.192,12.031,146.222,0,160.948,0s26.756,12.03,26.756,26.756V93.748z"/></g><g><path fill="%23ECB22E" d="M160.948,201.186c14.726,0,26.756,12.029,26.756,26.755c0,14.727-12.03,26.756-26.756,26.756s-26.756-12.029-26.756-26.756v-26.755H160.948z"/><path fill="%23ECB22E" d="M160.948,187.704c-14.726,0-26.756-12.03-26.756-26.756s12.03-26.756,26.756-26.756h66.992c14.727,0,26.756,12.03,26.756,26.756s-12.029,26.756-26.756,26.756H160.948z"/></g></g></svg>')
+}
+li[data-icon="slack"]::marker {
+    line-height: 0;
+}
+*/
+
+
+ul.arrow-bullet li[data-icon="clockify"] {
+    list-style-image: url(../imgs/icons/bullets/clockify.svg); }
+
+ul.arrow-bullet li[data-icon="slack"] {
+    list-style-image: url(../imgs/icons/bullets/slack.svg);
+}
+ul.arrow-bullet li[data-icon="drive"] {
+    list-style-image: url(../imgs/icons/bullets/drive.svg);
+}
+ul.arrow-bullet li[data-icon="figma"] {
+    list-style-image: url(../imgs/icons/bullets/figma.svg);
+}
+ul.arrow-bullet li[data-icon="github"] {
+    list-style-image: url(../imgs/icons/bullets/github.svg);
+}
+ul.arrow-bullet li[data-icon="namecheap"] {
+    list-style-image: url(../imgs/icons/bullets/namecheap.svg);
+}
+ul.arrow-bullet li[data-icon="freshbooks"] {
+    list-style-image: url(../imgs/icons/bullets/freshbooks.svg);
+}
+ul.arrow-bullet li[data-icon="asana"] {
+    list-style-image: url(../imgs/icons/bullets/asana.svg);
+}
+ul.arrow-bullet li[data-icon="wise"] {
+    list-style-image: url(../imgs/icons/bullets/wise.svg);
+}
+ul.arrow-bullet li[data-icon="1password"] {
+    list-style-image: url(../imgs/icons/bullets/1password.svg);
+}
+

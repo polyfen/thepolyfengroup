@@ -3,7 +3,8 @@
 <h3 class="heading-2">4.1. House Rules</h3>
 <ol class="hanging-list">
     <li>Be respectful and considerate.</li>
-    <li>Use appropriate channels. If you don't know where to post a message, then you can ask anyone for clarification via DM (direct message) or you can post your question in our #help channel.</li>
+    <li>Use appropriate channels. If you don't know where to post a message, then you can ask anyone for clarification via DM (direct message) 
+        or you can post your question in our <img class="slack-logo" src="/imgs/icons/bullets/slack.svg">help channel.</li>
     <li>When discussing times and dates be sure to clarify which timezone you're referring to.</li>
     <li>If you have any suggestions for our rules we encourage you to participate and let us know how we can make this better for everyone.</li>
 </ol>
