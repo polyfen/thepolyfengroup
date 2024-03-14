@@ -58,6 +58,8 @@ header nav a.external-url {
     flex-direction: row;
 }
 
+header
+
 header img.external-url-icon {
     height: 16px;
     margin-right: 6px;
@@ -291,6 +293,10 @@ h2.title-2 {
         margin-top: 30px;
         margin-bottom: 40px;
         align-items: flex-start;
+    }
+
+    #navbar li {
+        line-height: 1;
     }
 
     /* issue to talk, this is not mobile first polykit*/
