@@ -252,6 +252,7 @@ h2.title-2 {
 .heading-4 {
     font-size: 25.5px;
     line-height: 34px;
+    padding-bottom: 10px;
 }
 
 .current-page {
