@@ -1,5 +1,5 @@
-<section>
-<h2 id="brand-strategy" class="heading-1">3. Brand Strategy</h2>
+<section id="brand-strategy">
+<h2 class="heading-1">3. Brand Strategy</h2>
 <h3 id="keywords" class="heading-2">3.1. Keywords</h3>
 <ul class="hanging-list arrow-bullet">
     <li>Radical</li>

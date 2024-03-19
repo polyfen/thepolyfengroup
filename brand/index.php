@@ -16,7 +16,6 @@
             <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="The Polyfen Group" height="40px" width="auto">
         </a>
         <h2 class="caption">Brand Guidelines</h2>
-        <div>
             <ul>
                 <li><a href="#download-assets" class="caption">1. Download assets</a></li>
                 <li><a href="#market-research" class="caption">2. Market research</a></li>
@@ -65,7 +64,6 @@
                 </ul>
             </ul>
             <br><br>
-        </div>
     </nav>
     <button aria-label="Open/Close navbar" class="hamburger">
         <img src="imgs/icons/hamburger_icon.svg" alt="" height="30px" width="auto">
