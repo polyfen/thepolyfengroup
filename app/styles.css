@@ -137,6 +137,10 @@ a {
     width: max-content;
 }
 
+a img {
+    display: inherit;
+}
+
 a::before {
     content: '';
     position: absolute;
