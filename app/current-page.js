@@ -10,8 +10,8 @@ document.addEventListener("DOMContentLoaded", function () {
     })
 });
 
-
-// hello-nav position  when scrolling down
+// planeo remplazar con sticky
+/* // hello-nav position  when scrolling down
 document.addEventListener('DOMContentLoaded', function () {
     let nav = document.querySelector("#navbar");
     let navHamb = document.querySelector('.nav-hamburger');
@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
         let scroll = window.scrollY;
 
             if (scroll >= 60) {
-                nav.style.top = '-45px';
+                nav.style.top = '-30px';
                 navHamb.style.top = '15px';
                 navcloser.style.top = '15px';
                 navLinks.style.paddingTop = '90px';
@@ -34,5 +34,5 @@ document.addEventListener('DOMContentLoaded', function () {
             }
     });
 });
-
+ */
 console.log('current-page.js loaded!!')

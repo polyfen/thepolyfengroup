@@ -15,18 +15,6 @@
         document.getElementById('tpg-wordmark').style.transform = 'rotate(' + theta + 'rad)';
     }
     </script>
-    <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        let currentPage = window.location.pathname;
-        /* console.log(currentPage); */
-        let navLinks = document.querySelectorAll('header nav a');
-        navLinks.forEach(link => {
-            if (link.getAttribute('href') === currentPage) {
-                link.classList.add('current-page');
-            }
-        })
-    });
-    </script>
 
     <!-- Google Tag Manager -->
     <script>
@@ -60,12 +48,6 @@
     <header>
         <img src="imgs/the-polyfen-group-ideogram.svg" id="tpg-ideogram" alt="">
         <img src="imgs/the-polyfen-group-wordmark.svg" id="tpg-wordmark" alt="">
-        <nav>
-            <a href="/">Home</a>
-            <a href="/business/">Business Plan</a>
-            <a href="/wiki/">Team Wiki</a>
-            <a href="/brand/">Brand Guidelines</a>
-        </nav>
     </header>
     <main>
         <section id="cover">

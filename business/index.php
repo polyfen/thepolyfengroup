@@ -11,8 +11,9 @@
 </head>
 
 <body>
+    <!-- INCLUDE HELLO-SOCIAL start -->
     <?php include '../includes/hello-social.php';?>
-    <?php include '../includes/hello-nav.php';?>
+    <!-- INCLUDE HELLO-SOCIAL end -->
     <nav id="navbar">
     <a href="/" rel="dofollow" class="link-logo">
         <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="The Polyfen Group" height="40px" width="auto">

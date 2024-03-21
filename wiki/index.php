@@ -11,8 +11,13 @@
 </head>
 
 <body>
+    <!-- INCLUDE HELLO-SOCIAL start -->
     <?php include '../includes/hello-social.php';?>
-    <?php include '../includes/hello-nav.php';?>
+    <!-- INCLUDE HELLO-SOCIAL end -->
+        <!-- INCLUDE HELLO-SOCIAL start -->
+        <?php include '../includes/hello-nav.php';?>
+    <!-- INCLUDE HELLO-SOCIAL end -->
+
     <nav id="navbar">
     <a href="/" rel="dofollow" class="link-logo">
         <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="The Polyfen group" height="40px" width="auto">
@@ -57,7 +62,7 @@
         </svg>
     </button> -->
 
-    <main>
+    <main class="container-750 sub-sitio">
         <section class="cover">
             <img src="imgs/videogame-illustratrion.svg" alt="Videogame Illustration" height="200px" width="auto">
             <h1 class="title-2">Team Wiki</h1>

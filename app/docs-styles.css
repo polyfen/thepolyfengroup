@@ -3,10 +3,6 @@ body {
     background: #ecf0f3;
 }
 
-body {
-    border-top: 12px solid #7637f9;
-}
-
 * {
     font-family: BiotifMedium;
 }
@@ -122,7 +118,7 @@ body nav {
     height: 50px;
     align-items: center;
     justify-content: center;
-    display: none;
+    display: flex;
 }
 
 .open-nav {
@@ -186,7 +182,6 @@ main section.cover {
     display: flex;
     flex-direction: column;
     gap: 40px;
-    align-items: flex-start;
 }
 
 /* main div#cover div#cover-image {
@@ -214,7 +209,7 @@ nav ul li a {
         align-self: flex-start;
         width: 77%;
     }
-    .hamburger, .nav-close {
+    .hamburger, .close {
         top: 47px;
     }
 }
@@ -230,23 +225,22 @@ nav ul li a {
         flex-direction: column;
         gap: 0;
         padding: 20px;
-        background-color: white;
         width: 300px;
         height: 100vh;
         top: 12px;
         right: unset;
     }
 
-    body main {
+/*     body main {
         width: 760px;
         left: 400px;
         position: absolute;
         padding-top: 60px;
         margin-inline:unset;
 
-    }
+    } */
 
-    body > button.hamburger,body > button.close {
+    button.hamburger, button.close {
         display: none;
     }
 
