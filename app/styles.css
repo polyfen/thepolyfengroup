@@ -264,10 +264,6 @@ h2.title-2 {
 .current-page {
     opacity: 0.4;
 }
-.current-page:hover {
-    opacity: 0.4;
-    color:#ffffffc8;
-}
 
 /*///////////Media queries///////////*/
 
