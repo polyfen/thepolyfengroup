@@ -245,6 +245,10 @@ section#cover p {
 .sub-brand p { grid-area: texts;}
 .sub-brand .links { grid-area: links;}
 .sub-brand .screen { grid-area: screens;}
+
+a.screen {
+    width: unset;
+}
 /* end grid for sub-brands */
 
 /* issue to talk, this is not mobile first polykit*/
