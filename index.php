@@ -44,10 +44,9 @@
 
     <!-- INCLUDE HELLO's start -->
     <?php include 'includes/hello-social.php';?>
-    
+    <?php include 'includes/hello-nav.php';?>
     <!-- INCLUDE HELLO's end -->
     <div class="home-container">
-    <?php include 'includes/hello-nav.php';?>
         <header class="home">
             <!-- <div class="logo-container"> -->
                 <img src="imgs/the-polyfen-group-ideogram.svg" id="tpg-ideogram" alt="">

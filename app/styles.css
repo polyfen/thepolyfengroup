@@ -294,7 +294,6 @@ a.screen {
     padding-block: 7px;
     background-color: #1d272c;;
     border-bottom: 8px solid #7637f9;
-   /*  padding-inline: 25px; */
 
 }
 
@@ -318,14 +317,13 @@ a.screen {
 
 .hello-nav {
     position: absolute;
-    top: 90px;
-    right: 0;
-    display: flex;
-    justify-content:center;
-    gap: 1rem;
+    top: 55px;
+    right: 15px;
     padding-block: 1rem;
     background-color: #1d272c;
+    border-radius: 10px;
     z-index: 100;
+    padding: 10px;
 }
 
 .hello-nav a {
@@ -342,14 +340,10 @@ a.screen {
 
 .nav-links {
     position: fixed;
-    height: 100vh;
-    padding-inline: 44px;
-    padding-top: 135px;
-    top: 0;
-    right: 0;
     display: flex;
     flex-direction: column;
     justify-content:flex-start;
+    height: fit-content;
     gap: 1rem;
     background-color: #1d272c;;
 }
@@ -411,12 +405,8 @@ a.screen {
         display: flex;
     }
     .nav-links {
-        position: sticky;
         height: fit-content;
-        padding-inline: 44px;
         padding-top: unset;
-        top: 100;
-        right: 0;
         display: flex;
         flex-direction: row;
         justify-content:flex-start;
