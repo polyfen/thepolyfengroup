@@ -42,10 +42,12 @@
             style="display:none; visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <!-- INCLUDE HELLO-SOCIAL start -->
+    <!-- INCLUDE HELLO's start -->
     <?php include 'includes/hello-social.php';?>
-    <!-- INCLUDE HELLO-SOCIAL end -->
+    
+    <!-- INCLUDE HELLO's end -->
     <div class="home-container">
+    <?php include 'includes/hello-nav.php';?>
         <header class="home">
             <!-- <div class="logo-container"> -->
                 <img src="imgs/the-polyfen-group-ideogram.svg" id="tpg-ideogram" alt="">
