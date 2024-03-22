@@ -58,12 +58,35 @@ img.web-icon {
     margin-top: -2px;
 }
 
+.home-container {
+    display: grid;
+    align-items: start;
+    justify-items: center;
+    grid-template-areas:
+    'header'
+    'main';
+    padding-inline: auto;
+    margin-inline: 20px;
+}
+
+@media (min-width: 768px) {
+    .home-container {
+        justify-items: unset;
+        grid-template-columns: 280px 1fr;
+        grid-template-rows: auto;
+        grid-template-areas:
+        'header main'
+    }
+}
+
+header.home { grid-area: header;}
+main.home { grid-area: main;}
+
+
+
+
 header {
     display: flex;
-    flex-direction: column;
-    position: relative;
-    grid-column: 1/2;
-    grid-row: 1/2;
 }
 
 header img {
@@ -88,10 +111,26 @@ hr {
     margin: 45px auto;
 }
 
+header.home {
+position: relative;
+top: 0;
+display: flex;
+padding: 20px;
+margin-top: 60px;
+}
+
+@media (min-width: 768px) {
+    header.home {
+        position: sticky;
+    }
+}
+main.home {
+    padding-left: 1px;
+}
+
 main.sub-sitio {
-    margin-top: 150px;
-    margin-top: 121px;
-    margin-left: 383px;
+    margin-top: 1px;
+    margin-left: 3px;
 
 }
 
@@ -99,14 +138,15 @@ main section.sub-brands-container {
     max-width: 600px;
 }
 
-section#cover {
+section#home-cover {
     max-width: 990px;
     padding-top: 1.6rem;
     padding-bottom: 4rem;
     border-bottom: 2px solid #0709240d;
+    padding-top: 40px;
 }
 
-section#cover p {
+section#home-cover p {
     max-width: 490px;
 }
 
@@ -235,6 +275,10 @@ a img.web-icon {
 .sub-brand p { grid-area: texts;}
 .sub-brand .links { grid-area: links;}
 .sub-brand .screen { grid-area: screens;}
+
+a.screen {
+    width: unset;
+}
 /* end grid for sub-brands */
 
 /* hello social media */
@@ -394,6 +438,7 @@ a img.web-icon {
     }
 }
 
+/* table x  */
 th, td, th p, td p {
     font-size: 1rem;
     font-family: Anonymous, monospace;
@@ -419,6 +464,9 @@ table.buyer-persona tr:hover {
 table.buyer-persona tr:hover td, table.buyer-persona tr:hover th, table.buyer-persona tr:hover td p {
     color: black;
 }
+
+/* end table x  */
+
 
 div.preview {
     padding:24px;
@@ -455,12 +503,13 @@ a.link-logo:hover::before {
     content: none;
 }
 
+
+/* hashtag for help channel */
 .slack-logo {
     width: 20px;
     height: auto;
     margin-right: 2px;
 }
-
 
 /* li icons for team-wiki */
 li[data-icon="clockify"] {
@@ -498,7 +547,7 @@ li[data-icon="1password"] {
 
 @media (max-width: 768px) {
     body > nav, body > .hamburger, body > .close {
-        display: none;
+        display: unset;
     }
 
 }

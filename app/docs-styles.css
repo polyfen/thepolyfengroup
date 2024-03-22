@@ -184,11 +184,6 @@ main section.cover {
     gap: 40px;
 }
 
-/* main div#cover div#cover-image {
-    display: flex;
-    align-items: center;
-} */
-
 nav ul li a {
     font-family: BiotifMedium;
     text-transform: none !important;
