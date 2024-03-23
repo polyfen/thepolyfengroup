@@ -51,7 +51,8 @@
                 <li><a href="#wealth-of-experience" class="caption">7.3. High-Performance</a></li>
                 <li><a href="#end-to-end-service" class="caption">7.4. End-to-End Service</a></li>
                 <li><a href="#fast-track-kick-off" class="caption">7.5. Fast-track Kick-off</a></li>
-                <li><a href="#fast-track-kick-off" class="caption">7.5. Socially-cohesive Team</a></li>
+                <li><a href="#fast-track-kick-off" class="caption">7.6. Socially-cohesive Team</a></li>
+                <li><a href="#fast-track-kick-off" class="caption">7.7. Near-shore Availability</a></li>
             </ul>
             <li><a href="#target" class="caption">8. Target</a></li>
             <br><br>
