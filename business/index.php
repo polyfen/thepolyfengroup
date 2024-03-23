@@ -28,7 +28,7 @@
                 <li><a href="#flexibility" class="caption">3.3. Flexibility</a></li>
                 <li><a href="#transparency" class="caption">3.4. Transparency</a></li>
             </ul>
-            <li><a href="#mantra" class="caption">4. Motto</a></li>
+            <li><a href="#motto" class="caption">4. Motto</a></li>
             <li><a href="#family-of-brands" class="caption">5. Family of Brands</a></li>
             <ul>
                 <li><a href="#polyfen" class="caption">5.1. Polyfen</a></li>
