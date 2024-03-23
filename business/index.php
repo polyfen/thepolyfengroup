@@ -83,7 +83,7 @@
         <!-- INCLUDE OUR-GOAL.PHP end -->
         <hr>
         <!-- INCLUDE OUR-VALUES.PHP start -->
-        <?php include 'content/mantra.php';?>
+        <?php include 'content/motto.php';?>
         <!-- INCLUDE OUR-VALUES.PHP end -->
         <hr>
         <!-- INCLUDE OUR-VALUES.PHP start -->

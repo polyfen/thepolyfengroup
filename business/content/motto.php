@@ -3,5 +3,5 @@
     <div class="preview">
         <h3 class="heading-2">Create. Collaborate. Shine.</h3>
     </div>
-    <p>Our Motto distills the spirit of our Purpose and Core Values into a concrete few words.</p>
+    <p>Our Motto distills the spirit of our Purpose and Core Values into a few concrete words.</p>
 </section>
