@@ -1,6 +1,6 @@
 <section id="services">
     <h2 class="heading-1">6. Services</h2>
-    <p>These are the Services </p>
+    <p>These are the Services we offer through our primary brand <a href="https://polyfen.com">Polyfen</a>, a creative and software boutique.</p>
     <h3 id="end-to-end-projects" class="heading-2">6.1. End-to-End Projects</h3>
     <h4 class="heading-3">Brand Revamp</h4>
     <h5 class="heading-4">$3,900</h5>

@@ -10,5 +10,7 @@
     <p>We've got you covered next time you encounter any new requirements in the area of business development, marketing, design, or tech. Our growing list of satisfied customers is testimony that we go above and beyond to help your business grow and to develop a long-lasting and solid partnership.</p>
     <h3 id="fast-track-kick-off" class="heading-2">7.5. Fast-track kick-off</h3>
     <p>Our standardized and automated workflows ensure that no time is wasted. Send us an enquiry and we'll promptly engage in understanding your requirements, proposing a solution detailed in a comprehensive agreement, and prepare for a prompt project kick-off.</p>
+    <h3 id="fast-track-kick-off" class="heading-2">7.6. Socially-cohesive team</h3>
+    <p>This very same Business Plan being in existance and easily accessible along with our Team Wiki all work together as tools to (A) qualify the cultural fit of potential candidates, (B) have a swift and succesful onboarding of new hires, (C) define a common language to nurture collaboration and promote feedback and new ideas.</p>
 </section>
 
