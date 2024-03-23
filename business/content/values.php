@@ -26,6 +26,7 @@
     <p>Our Business Plan and <a href="/wiki">Team Wiki</a> are just some of our documentation that is publically available. We also contribute to the open-source software community with public code repositories in <a href="https://github.com/polyfen" rel="nofollow" target="_blank">Github</a>. We believe that the world of business could learn a lot from the practices and culture of the open-source community. Sharing our work allows us to:</p>
     <ul class="hanging-list arrow-bullet spaced-list">
         <li>Reach more people with through content marketing.</li>
+        <li>Make accessible educational resources for free to students starting out in a new career as well as well-stablished professionals looking to grow.</li>
         <li>Gain the interest of potential clients and talent.</li>
         <li>Document, standardize, and optimize our workflows.</li>
         <li>Give our team-members an accessible framework to provide feedback, share ideas, and have more participation in the direction of our team culture.</li>
