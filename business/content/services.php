@@ -2,9 +2,9 @@
     <h2 class="heading-1">6. Services</h2>
     <p>These are the Services we offer through our primary brand <a href="https://polyfen.com">Polyfen</a>, a creative and software boutique.</p>
     <h3 id="build" class="heading-2">6.1. Build</h3>
-    <h4 class="heading-3">Brand Revamp</h4>
-    <h5 class="heading-4">$3,900</h5>
-    <h5 class="heading-4">2-3 weeks</h5>
+    <h4 class="heading-3">Brand Identity</h4>
+    <h5 class="heading-4">$7,600</h5>
+    <h5 class="heading-4">2-6 weeks</h5>
     <ul class="hanging-list arrow-bullet">
       <li>Brand audit</li>
       <li>Market research</li>
@@ -18,7 +18,7 @@
       <li>Social media profiles</li>
       <li>Brand guidelines</li>
     </ul>
-    <h4 class="heading-3">Web Revamp</h4>
+    <h4 class="heading-3">Institutional Website</h4>
     <h5 class="heading-4">$7,800</h5>
     <h5 class="heading-4">3-6 weeks</h5>
     <ul class="hanging-list arrow-bullet">
@@ -36,6 +36,9 @@
       <li>Deployment</li>
       <li>Walkthrough</li>
     </ul>
+    <h4 class="heading-3">Web/Mobile App</h4>
+    <h5 class="heading-4">$39,000</h5>
+    <h5 class="heading-4">2-6 months</h5>
     <h3 id="hourly-services" class="heading-2">6.2. Hourly Services</h3>
     <h4 class="heading-4">$65/hr</h4>
     <h4 class="heading-4">Net-14 Billing</h4>
