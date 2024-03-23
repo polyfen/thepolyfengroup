@@ -12,5 +12,7 @@
     <p>Our standardized and automated workflows ensure that no time is wasted. Send us an enquiry and we'll promptly engage in understanding your requirements, proposing a solution detailed in a comprehensive agreement, and prepare for a prompt project kick-off.</p>
     <h3 id="fast-track-kick-off" class="heading-2">7.6. Socially-cohesive team</h3>
     <p>This very same Business Plan being in existence and easily accessible along with our <a href="/wiki">Team Wiki</a> all work together as tools to (A) qualify the cultural fit of potential candidates, (B) have a swift and succesful onboarding of new hires, (C) define a common language to nurture collaboration and promote feedback and new ideas.</p>
+    <h3 class="heading-2">7.7. Near-shore availability</h3>
+    <p>The market of remote services for US clients is very competitive. The same technology that allows our business to operate remotely and sell services to US clients is the same toolset that allows other remote businesses from lower-cost countries to compete with us. However, we bring a near-shore service in US timezone with most of our talent being based in Latin America, specifically Argentina, with senior-level engineers up to date with the most adavanced industry standards.</p>
 </section>
 
