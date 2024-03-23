@@ -1,8 +1,8 @@
 <section id="overview">
 <h2 class="heading-1">1. Overview</h2>
-<div class="preview">
-  <h3 class="heading-3">We explore new ways of using tech in creative projects.</h3>
-</div>
+  <div class="preview">
+    <h3 class="heading-3">We explore new ways of using tech in creative projects</h3>
+  </div>
   <p><strong>The Polyfen Group LLC</strong> is a fully-remote, US based company parent to multiple brands in the creative and software engineering industries.</p>
   <p>The most significant brand we operate is <strong><a href="https://polyfen.com" target="_blank" rel="follow">Polyfen</a></strong>. A fully-remote creative & software boutique offering design, marketing, and engineering services for US businesses.</p>
   <p>The company was founded on March 23rd, 2018 by <a href="https://boris.hr" target="_blank">Boris Hrn&ccaron;i&cacute;</a> &mdash;Argentinian-Croatian, art director &amp; product designer&mdash; with the support of colleagues sharing the same passion for building something that we can be proud of.</p>
