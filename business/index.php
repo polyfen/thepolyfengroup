@@ -23,7 +23,7 @@
         <ul>
             <li><a href="#overview" class="caption">1. Overview</a></li>
             <li><a href="#purpose" class="caption">2. Purpose</a></li>
-            <li><a href="#values" class="caption">3. Values</a></li>
+            <li><a href="#values" class="caption">3. Core Values</a></li>
             <ul>
                 <li><a href="#education" class="caption">3.1. Education</a></li>
                 <li><a href="#collaboration" class="caption">3.2. Collaboration</a></li>
