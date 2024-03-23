@@ -8,7 +8,6 @@
     <li data-icon="figma"><a href="https://www.figma.com/files/team/1000803827296184844/Polyfen?fuid=796391753668574031" target="_blank">Figma</a></li>
     <li data-icon="github"><a href="https://github.com/polyfen" target="_blank">Github</a></li>
     <li data-icon="namecheap"><a href="https://namecheap.com" target="_blank">Namecheap</a></li>
-    <li data-icon="freshbooks"><a href="https://www.freshbooks.com" target="_blank">Freshbooks</a></li>
     <li data-icon="wise" class="wise"><a href="https://wise.com" target="_blank">Wise</a></li>
     <li data-icon="1password"><a href="https://1password.polyfen.com" target="_blank">1Password</a></li>
 </ul>
