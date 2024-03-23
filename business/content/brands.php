@@ -1,6 +1,12 @@
 <section id="family-of-brands">
     <h2 class="heading-1">5. Family of Brands</h2>
-    <p>Our Family of Brands answer to the "What?" in Simon Sinek's equation. An array of products, services, and other ventures all leveraging the marketing synergy and resources of The Polyfen Group as a parent brand.</p>
+    <p>Our Family of Brands answers to the "What?" in Simon Sinek's equation. An array of products, services, and other ventures all leveraging the marketing synergy and resources of The Polyfen Group as a parent brand.</p>
+    <p>What sets our business model a part is the possibility to explore and pivot into new technologies and niches as the market demands, as well as fostering an innovative and passion-driven culture within our company.</p>
+    <div class="preview">
+    <blockquote><p class="align-left" style="font-style: italic;">A good start-up should have the potential for great scale built into its first design.<br>
+  Peter Thiel — Zero to One</p></blockquote>
+    </div>
+<hr>
     <section id="polyfen">
       <h3 class="--sub-brand polyfen">
         <a href="https://polyfen.com" rel="dofollow" target="_blank" class="web-url">5.1. Polyfen<span></span></a>
