@@ -31,4 +31,9 @@
         <li>Document, standardize, and optimize our workflows.</li>
         <li>Give our team-members an accessible framework to provide feedback, share ideas, and have more participation in the direction of our team culture.</li>
     </ul>
+    <p>We don't perceive the idea of anyone "copying" us as a threat, because we value the innovative potential of our team miles ahead of any individual idea that we might've had and shared.</p>
+    <p>Wired's documentary of Shenzen, China, the hardware capital of the world shines a light on the philosophy that if somebody tries to copy your work and ends up doing better, it's because your results where lacking and the market recognized the value of a more capable competitor.</p>
+    <div class="align-center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/SGJ5cZnoodY?si=sXImDazLStw5tC6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
 </section>
