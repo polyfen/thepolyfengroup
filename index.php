@@ -79,8 +79,7 @@
                 <a class="screen" href="https://polyfen.com" target="_blank" rel="dofollow">
                     <img src="imgs/sub-brands/polyfen-screen.webp" alt="Polyfen screenshot">
                 </a>
-                <p>Creative agency offering design, marketing, and software development services for new and emerging
-                    businesses.</p>
+                <p>Fully-remote Creative &amp; Software boutique offering design, marketing, and engineering services for US businesses.</p>
                 <a href="https://polyfen.com" target="_blank" class="links web-url" rel="dofollow"><img src="imgs/icons/globe.svg"
                         class="web-icon" alt="">polyfen.com</a>
             </section>
