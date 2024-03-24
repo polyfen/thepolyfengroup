@@ -40,8 +40,8 @@
             </ul>
             <li><a href="#services" class="caption">5. Services</a></li>
             <ul>
-                <li><a href="#end-to-end-projects" class="caption">5.1. Build</a></li>
-                <li><a href="#hourly-services" class="caption">5.2. Hire</a></li>
+                <li><a href="#build" class="caption">5.1. Build</a></li>
+                <li><a href="#hire" class="caption">5.2. Hire</a></li>
             </ul>
             <li><a href="#differential" class="caption">6. Differential</a></li>
             <ul>
