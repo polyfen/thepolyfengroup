@@ -12,7 +12,7 @@
 <body>
     <?php include '../includes/hello-nav.php';?>
     <nav id="navbar">
-        <a href="https://thepolyfengroup.com" rel="dofollow" class="link-logo">
+        <a href="/" rel="dofollow" class="link-logo">
             <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="The Polyfen Group" height="40px" width="auto">
         </a>
         <h2 class="caption">Brand Guidelines</h2>
