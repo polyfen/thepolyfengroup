@@ -630,3 +630,8 @@ img.window-frame {
     margin-left: -1px;
     margin-right: -1px;
 }
+
+.sub-brands-container h2.heading-1 {
+    margin-top: 6rem !important;
+    margin-bottom: -2rem !important;
+}
