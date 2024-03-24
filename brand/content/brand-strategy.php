@@ -42,4 +42,9 @@ This is how the team sometimes refers to the brand name internally.</p>
 <img src="imgs/brand-architecture.png" alt="Brand Architecture" height="auto" width="100%">
 <h3 id="voice" class="heading-2">3.6. Voice</h3>
 <p>The content expressed by our brand must be informative and engaging, proactive in the design and development community with free and fully-accessible educational content in tutorials and open-source software.</p>
+<h3 id="motto" class="heading-2">3.7. Motto</h3>
+<div class="preview">
+    <h4 class="heading-3">Create. Collaborate. Shine.</h4>
+</div>
+<p>Our Motto distills the spirit of our Purpose and Core Values into a few concrete words.</p>
 </section>

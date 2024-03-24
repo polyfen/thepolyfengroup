@@ -1,5 +1,5 @@
-<section id="values">
-    <h2 id="core-values" class="heading-1">3. Core values</h2>
+<section id="core-values">
+    <h2 class="heading-1">3. Core values</h2>
     <p>Our Core values are the "How" in Simon Sinek's Golden Circle. They are the medium through which we translate our Purpose into amazing products and services.</p>
     <div class="align-center">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/dR-ZT8mhfJ4?si=WP74uy1EEWn87xB6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

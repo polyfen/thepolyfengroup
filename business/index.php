@@ -23,40 +23,39 @@
         <ul>
             <li><a href="#overview" class="caption">1. Overview</a></li>
             <li><a href="#purpose" class="caption">2. Purpose</a></li>
-            <li><a href="#values" class="caption">3. Core Values</a></li>
+            <li><a href="#core-values" class="caption">3. Core Values</a></li>
             <ul>
                 <li><a href="#education" class="caption">3.1. Education</a></li>
                 <li><a href="#collaboration" class="caption">3.2. Collaboration</a></li>
                 <li><a href="#flexibility" class="caption">3.3. Flexibility</a></li>
                 <li><a href="#transparency" class="caption">3.4. Transparency</a></li>
             </ul>
-            <li><a href="#motto" class="caption">4. Motto</a></li>
-            <li><a href="#family-of-brands" class="caption">5. Family of Brands</a></li>
+            <li><a href="#family-of-brands" class="caption">4. Family of Brands</a></li>
             <ul>
-                <li><a href="#polyfen" class="caption">5.1. Polyfen</a></li>
-                <li><a href="#poly-atlas" class="caption">5.2. Poly Atlas</a></li>
-                <li><a href="#poly-cookies" class="caption">5.3. Poly Cookies</a></li>
-                <li><a href="#poly-qwerty" class="caption">5.4. Poly Qwerty</a></li>
-                <li><a href="#polykit" class="caption">5.5. Polykit</a></li>
-                <li><a href="#polypress" class="caption">5.6. Polypress</a></li>
-                <li><a href="#poly-forum" class="caption">5.7. Poly Forum</a></li>
+                <li><a href="#polyfen" class="caption">4.1. Polyfen</a></li>
+                <li><a href="#poly-atlas" class="caption">4.2. Poly Atlas</a></li>
+                <li><a href="#poly-cookies" class="caption">4.3. Poly Cookies</a></li>
+                <li><a href="#poly-qwerty" class="caption">4.4. Poly Qwerty</a></li>
+                <li><a href="#polykit" class="caption">4.5. Polykit</a></li>
+                <li><a href="#polypress" class="caption">4.6. Polypress</a></li>
+                <li><a href="#poly-forum" class="caption">4.7. Poly Forum</a></li>
             </ul>
-            <li><a href="#services" class="caption">6. Services</a></li>
+            <li><a href="#services" class="caption">5. Services</a></li>
             <ul>
-                <li><a href="#end-to-end-projects" class="caption">6.1. End-to-End Projects</a></li>
-                <li><a href="#hourly-services" class="caption">6.2. Hourly Services</a></li>
+                <li><a href="#end-to-end-projects" class="caption">5.1. Build</a></li>
+                <li><a href="#hourly-services" class="caption">5.2. Hire</a></li>
             </ul>
-            <li><a href="#differential" class="caption">7. Differential</a></li>
+            <li><a href="#differential" class="caption">6. Differential</a></li>
             <ul>
-                <li><a href="#low-cost-high-value" class="caption">7.1. Low cost, High vlaue</a></li>
-                <li><a href="#wealth-of-experience" class="caption">7.2. Wealth of Experience</a></li>
-                <li><a href="#high-performance" class="caption">7.3. High-Performance</a></li>
-                <li><a href="#end-to-end-service" class="caption">7.4. End-to-End Service</a></li>
-                <li><a href="#fast-track-kick-off" class="caption">7.5. Fast-track Kick-off</a></li>
-                <li><a href="#fast-track-kick-off" class="caption">7.6. Socially-cohesive Team</a></li>
-                <li><a href="#fast-track-kick-off" class="caption">7.7. Near-shore Availability</a></li>
+                <li><a href="#low-cost-high-value" class="caption">6.1. Low cost, High vlaue</a></li>
+                <li><a href="#wealth-of-experience" class="caption">6.2. Wealth of Experience</a></li>
+                <li><a href="#high-performance" class="caption">6.3. High-Performance</a></li>
+                <li><a href="#end-to-end-service" class="caption">6.4. End-to-End Service</a></li>
+                <li><a href="#fast-track-kick-off" class="caption">6.5. Fast-track Kick-off</a></li>
+                <li><a href="#fast-track-kick-off" class="caption">6.6. Socially-cohesive Team</a></li>
+                <li><a href="#fast-track-kick-off" class="caption">6.7. Near-shore Availability</a></li>
             </ul>
-            <li><a href="#target" class="caption">8. Target</a></li>
+            <li><a href="#target" class="caption">7. Target</a></li>
             <br><br>
         </ul>
     </nav>
@@ -86,10 +85,6 @@
         <!-- INCLUDE OUR-GOAL.PHP start -->
         <?php include 'content/values.php';?>
         <!-- INCLUDE OUR-GOAL.PHP end -->
-        <hr>
-        <!-- INCLUDE OUR-VALUES.PHP start -->
-        <?php include 'content/motto.php';?>
-        <!-- INCLUDE OUR-VALUES.PHP end -->
         <hr>
         <!-- INCLUDE OUR-VALUES.PHP start -->
         <?php include 'content/brands.php';?>
