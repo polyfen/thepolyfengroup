@@ -108,7 +108,7 @@
                     <img src="imgs/window-frame.svg" alt="" class="window-frame">
                     <img src="imgs/sub-brands/polyqwerty-screen.webp" alt="Polyqwerty screenshot" class="web-screenshot">
                 </a>
-                <p>Your keyboard's assistant. Click on a character to copy it.</p>
+                <p>Your keyboard's assistant. Click on a character to copy it. Easily find the right emoji, punctuation signs, and other symbols.</p>
                 <a href="https://polyqwerty.com" target="_blank" class="links web-url" rel="dofollow"><img src="imgs/icons/globe.svg"
                         class="web-icon" alt="">polyqwerty.com</a>
             </section>
