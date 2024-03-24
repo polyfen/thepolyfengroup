@@ -1,11 +1,11 @@
 <section id="market-research">
 <h2 id="market-research" class="heading-1">2. Market Research</h2>
-<h3 id="business-analysis" class="heading-2">2.1. Business Analysis</h3>
-<h4 id="overview" class="heading-3">Overview</h4>
-<p>The Polyfen Group LLC is a small company parent of multiple brands related to software development and the creative industry.</p>
-<p>Our main brand is "Polyfen", a creative and development agency helping businesses reach their customers with data-driven research and strategic storytelling.</p>
-<h4 id="business-model" class="heading-3">Business Model</h4>
-<img src="imgs/polyfen-product-canvas.png" alt="Polyfen Product Canvas">
+<h3 id="business-analysis" class="heading-2">2.1. Business Overview</h3>
+<div class="preview">
+    <h3 class="heading-3">We explore new ways of using tech in creative projects</h3>
+  </div>
+  <p><strong>The Polyfen Group LLC</strong> is a fully-remote, US based company parent to multiple brands in the creative and software engineering industries.</p>
+  <p>The most significant brand we operate is <strong><a href="https://polyfen.com" target="_blank" rel="follow">Polyfen</a></strong>. A fully-remote creative & software boutique offering design, marketing, and engineering services for US businesses.</p>
 <h3 id="industry-analysis" class="heading-2">2.2. Industry Analysis</h3>
 <h3 id="target-analysis" class="heading-2">2.3. Target Analysis</h3>
 <table class="buyer-persona" id="end-to-end-project">

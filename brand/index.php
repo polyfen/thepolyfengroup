@@ -20,11 +20,7 @@
                 <li><a href="#download-assets" class="caption">1. Download assets</a></li>
                 <li><a href="#market-research" class="caption">2. Market research</a></li>
                 <ul>
-                    <li><a href="#business-analysis" class="caption">2.1. Business analysis</a></li>
-                    <ul>
-                        <li><a href="#overview" class="caption">2.1.1. Overview</a></li>
-                        <li><a href="#business-model" class="caption">2.1.2. Business model</a></li>
-                    </ul>
+                    <li><a href="#business-analysis" class="caption">2.1. Business overview</a></li>
                     <li><a href="#industry-analysis" class="caption">2.2. Industry analysis</a></li>
                     <li><a href="#target-analysis" class="caption">2.3. Target analysis</a></li>
                     <ul>
