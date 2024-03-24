@@ -1,7 +1,7 @@
 <section id="services">
-    <h2 class="heading-1">6. Services</h2>
+    <h2 class="heading-1">5. Services</h2>
     <p>These are the Services we offer through our primary brand <a href="https://polyfen.com">Polyfen</a>, a creative and software boutique.</p>
-    <h3 id="build" class="heading-2">6.1. Build</h3>
+    <h3 id="build" class="heading-2">5.1. Build</h3>
     <h4 class="heading-3">Brand Identity</h4>
     <h5 class="heading-4">$7,600</h5>
     <h5 class="heading-4">2-6 weeks</h5>
@@ -40,85 +40,51 @@
     <h5 class="heading-4">$39,000</h5>
     <h5 class="heading-4">4-6 months</h5>
     <ul>
-    <li>Discovery Phase:
-        <ul>
-            <li>Initial consultation</li>
-            <li>Requirement gathering</li>
-            <li>User stories/Use case development</li>
-            <li>Project kickoff meeting</li>
-        </ul>
-    </li>
-
-    <li>Design Phase:
-        <ul>
-            <li>Wireframing</li>
-            <li>User interface (UI) design</li>
-            <li>User experience (UX) design</li>
-            <li>Prototyping</li>
-            <li>Iterative design reviews</li>
-        </ul>
-    </li>
-
-    <li>Development Phase:
-        <ul>
-            <li>Frontend development</li>
-            <li>Backend development</li>
-            <li>Database design and development</li>
-            <li>Integration of third-party APIs</li>
-            <li>Continuous integration/Continuous deployment (CI/CD) setup</li>
-        </ul>
-    </li>
-
-    <li>Testing Phase:
-        <ul>
-            <li>Unit testing</li>
-            <li>Integration testing</li>
-            <li>User acceptance testing (UAT)</li>
-            <li>Bug fixing and issue resolution</li>
-        </ul>
-    </li>
-
-    <li>Deployment Phase:
-        <ul>
-            <li>Deployment planning</li>
-            <li>Server setup and configuration</li>
-            <li>App deployment to production environment</li>
-            <li>Post-deployment testing</li>
-        </ul>
-    </li>
-
-    <li>Maintenance and Support:
-        <ul>
-            <li>Monitoring and performance optimization</li>
-            <li>Regular updates and patches</li>
-            <li>Technical support and troubleshooting</li>
-            <li>Feature enhancements and iterations</li>
-        </ul>
-    </li>
-</ul>
-    <h3 id="hourly-services" class="heading-2">6.2. Hourly Services</h3>
+        <li>Discovery Phase
+            <ul>
+                <li>Initial consultation</li>
+                <li>Requirement gathering</li>
+                <li>User stories/Use case development</li>
+                <li>Project kickoff meeting</li>
+            </ul>
+        </li>
+        <li>Design Phase
+            <ul>
+                <li>Wireframing</li>
+                <li>User interface (UI) design</li>
+                <li>User experience (UX) design</li>
+                <li>Prototyping</li>
+                <li>Iterative design reviews</li>
+            </ul>
+        </li>
+        <li>Development Phase
+            <ul>
+                <li>Frontend development</li>
+                <li>Backend development</li>
+                <li>Database design and development</li>
+                <li>Integration of third-party APIs</li>
+                <li>Continuous integration/Continuous deployment (CI/CD) setup</li>
+            </ul>
+        </li>
+        <li>Testing Phase
+            <ul>
+                <li>Unit testing</li>
+                <li>Integration testing</li>
+                <li>User acceptance testing (UAT)</li>
+                <li>Bug fixing and issue resolution</li>
+            </ul>
+        </li>
+        <li>Deployment Phase
+            <ul>
+                <li>Deployment planning</li>
+                <li>Server setup and configuration</li>
+                <li>App deployment to production environment</li>
+                <li>Post-deployment testing</li>
+            </ul>
+        </li>
+    </ul>
+    <h3 id="hourly-services" class="heading-2">5.2. Hire</h3>
     <h4 class="heading-4">$65/hr</h4>
     <h4 class="heading-4">Net-14 Billing</h4>
-    <ul class="hanging-list arrow-bullet">
-      <li>Brand Audit</li>
-      <li>Market Research</li>
-      <li>Brand &amp; Marketing Strategy</li>
-      <li>Naming</li>
-      <li>Logo Design</li>
-      <li>Visual Identity</li>
-      <li>Packaging</li>
-      <li>UX Audit</li>
-      <li>UX/UI Design</li>
-      <li>Software &amp; Web Development</li>
-      <li>Pitch Decks &amp; Presentations</li>
-      <li>Social Media Marketing</li>
-      <li>Email Marketing</li>
-      <li>Landing Pages</li>
-      <li>Lead Generation</li>
-      <li>SEO Audit</li>
-      <li>SEO Strategy</li>
-      <li>W3C &amp; WACCAG Conformity</li>
-      <li>GDPR &amp; Privacy Protection Compliance</li>
-    </ul>
 </section>
 
