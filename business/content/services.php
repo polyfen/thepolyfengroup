@@ -83,7 +83,7 @@
             </ul>
         </li>
     </ul>
-    <h3 id="hourly-services" class="heading-2">5.2. Hire</h3>
+    <h3 id="hire" class="heading-2">5.2. Hire</h3>
     <h4 class="heading-3">Sr UX Designer</h4>
     <h4 class="heading-4">$45/hr</h4>
     <h4 class="heading-3">Sr Software Engineer</h4>
