@@ -635,3 +635,7 @@ img.window-frame {
     margin-top: 6rem !important;
     margin-bottom: -2rem !important;
 }
+
+img.web-screenshot {
+    border-radius: 0 0 4px 4px;
+}
