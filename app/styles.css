@@ -35,7 +35,7 @@ main {
 }
 
 main section.sub-brands-container {
-    max-width: 600px;
+    max-width: 800px;
 }
 
 header img {
@@ -216,7 +216,7 @@ section#cover p {
     'screens'
     'texts'
     'links';
-    gap: 1rem;
+    gap: 2rem 3rem;
 }
 
 .sub-brand p {
@@ -229,7 +229,7 @@ section#cover p {
     }
     .sub-brand {
         grid-template-areas:
-        'logos logos'
+        'screens logos'
         'screens texts'
         'screens links';
     }
@@ -237,7 +237,7 @@ section#cover p {
         margin-top: unset;
         aspect-ratio: 4/3;
         width: 100%;
-        max-width: 210px;
+        max-width: 420px;
     }
 }
 
