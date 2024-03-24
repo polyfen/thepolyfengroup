@@ -74,7 +74,7 @@
             <section class="sub-brand">
                 <a class="screen" href="https://polyfen.com" target="_blank" rel="dofollow">
                     <img src="imgs/window-frame.svg" alt="" class="window-frame">
-                    <img src="imgs/sub-brands/polyfen-screen.webp" alt="Polyfen screenshot">
+                    <img src="imgs/sub-brands/polyfen-screen.webp" alt="Polyfen screenshot" class="web-screenshot">
                 </a>
                 <h3 class="polyfen --sub-brand">
                     <a href="https://polyfen.com" target="_blank" class="web-url" rel="dofollow">Polyfen<span></span></a>
@@ -90,7 +90,7 @@
                 </h3>
                 <a class="screen" href="https://polyatlas.wiki" target="_blank" rel="dofollow">
                     <img src="imgs/window-frame.svg" alt="" class="window-frame">
-                    <img src="imgs/sub-brands/polyatlas-screen.webp" alt="Polyatlas screenshot">
+                    <img src="imgs/sub-brands/polyatlas-screen.webp" alt="Polyatlas screenshot" class="web-screenshot">
                 </a>
                 <p>Open-source step-by-step guide to the Branding process, including practical tips, case studies,
                     template files, and many other useful resources.</p>
@@ -104,7 +104,7 @@
                 </h3>
                 <a class="screen" href="https://polycookies.com" target="_blank" rel="dofollow">
                     <img src="imgs/window-frame.svg" alt="" class="window-frame">
-                    <img src="imgs/sub-brands/polycookies-screen.webp" alt="Polycookies screenshot">
+                    <img src="imgs/sub-brands/polycookies-screen.webp" alt="Polycookies screenshot" class="web-screenshot">
                 </a>
                 <p>Open-source solution to privacy policy implementing a cookie consent banner with Google Tag Manager.
                 </p>
@@ -118,7 +118,7 @@
                 </h3>
                 <a class="screen" href="https://polyqwerty.com" target="_blank" rel="dofollow">
                     <img src="imgs/window-frame.svg" alt="" class="window-frame">
-                    <img src="imgs/sub-brands/polyqwerty-screen.webp" alt="Polyqwerty screenshot">
+                    <img src="imgs/sub-brands/polyqwerty-screen.webp" alt="Polyqwerty screenshot" class="web-screenshot">
                 </a>
                 <p>Your keyboard's assistant. Click on a character to copy it.</p>
                 <a href="https://polyqwerty.com" target="_blank" class="links web-url" rel="dofollow"><img src="imgs/icons/globe.svg"
@@ -131,7 +131,7 @@
                 </h3>
                 <a class="screen" href="https://polykit.xyz" target="_blank" rel="dofollow">
                     <img src="imgs/window-frame.svg" alt="" class="window-frame">
-                    <img src="imgs/sub-brands/polykit-screen.webp" alt="Polikit screenshot">
+                    <img src="imgs/sub-brands/polykit-screen.webp" alt="Polikit screenshot" class="web-screenshot">
                 </a>
                 <p><small class="caption" style="opacity: 0.6;">// Work in Progress //</small><br><br>Open-source design system for User Interfaces with CSS code for developers and Figma library for
                     designers.
