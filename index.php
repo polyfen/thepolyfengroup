@@ -116,9 +116,8 @@
                 <a class="screen" href="https://polykit.xyz" target="_blank" rel="dofollow">
                     <img src="imgs/sub-brands/polykit-screen.webp" alt="Polikit screenshot">
                 </a>
-                <p>Open-source design system for User Interfaces with CSS code for developers and Figma library for
+                <p><small class="caption" style="opacity: 0.6;">// Work in Progress //</small><br><br>Open-source design system for User Interfaces with CSS code for developers and Figma library for
                     designers.
-                    <small class="caption" style="opacity: 0.6;"><br>// Work in Progress //</small>
                 </p>
                 <a href="https://polykit.xyz" target="_blank" class="links web-url" rel="dofollow"><img src="imgs/icons/globe.svg"
                         class="web-icon" alt="">polykit.xyz</a>

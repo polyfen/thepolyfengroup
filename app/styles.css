@@ -306,8 +306,8 @@ a img.web-icon {
 .sub-brand {
     display: grid;
     grid-template-areas:
-    'logos'
     'screens'
+    'logos'
     'texts'
     'links';
     gap: 2rem 3rem;
@@ -336,7 +336,7 @@ a img.web-icon {
 }
 
 .--sub-brand { grid-area: logos;}
-.sub-brand p { grid-area: texts;}
+.sub-brand p { grid-area: texts;color:#4f4f58;}
 .sub-brand .links { grid-area: links;}
 .sub-brand .screen { grid-area: screens;}
 
@@ -608,3 +608,18 @@ li[data-icon="1password"] {
 
 
 /*************************** end sub-styles *************************************/
+    /* issue to talk, this is not mobile first polykit*/
+    section#cover {
+        padding-top: 1.6rem;
+    }
+    
+    h2.title-2 {
+        margin-top: 1rem;
+        padding-top: 2rem;
+    }
+    
+    
+section.sub-brands-container hr {
+    margin: 6rem 0;
+    max-width: 100%;
+}
