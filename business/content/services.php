@@ -5,7 +5,7 @@
     <h4 class="heading-3">Brand Identity</h4>
     <h5 class="heading-4">$7,600</h5>
     <h5 class="heading-4">2-6 weeks</h5>
-    <ul class="hanging-list arrow-bullet">
+    <ul class="hanging-list arrow-bullet d-none">
       <li>Brand audit</li>
       <li>Market research</li>
       <li>Brand strategy</li>
@@ -21,7 +21,7 @@
     <h4 class="heading-3">Institutional Website</h4>
     <h5 class="heading-4">$7,800</h5>
     <h5 class="heading-4">3-6 weeks</h5>
-    <ul class="hanging-list arrow-bullet">
+    <ul class="hanging-list arrow-bullet d-none">
       <li>SEO audit</li>
       <li>UX audit</li>
       <li>Info architecture</li>
@@ -39,7 +39,7 @@
     <h4 class="heading-3">Web/Mobile App</h4>
     <h5 class="heading-4">$39,000</h5>
     <h5 class="heading-4">4-6 months</h5>
-    <ul>
+    <ul class="d-none">
         <li>Discovery Phase
             <ul>
                 <li>Initial consultation</li>
@@ -84,7 +84,11 @@
         </li>
     </ul>
     <h3 id="hourly-services" class="heading-2">5.2. Hire</h3>
-    <h4 class="heading-4">$65/hr</h4>
-    <h4 class="heading-4">Net-14 Billing</h4>
+    <h4 class="heading-3">Sr UX Designer</h4>
+    <h4 class="heading-4">$45/hr</h4>
+    <h4 class="heading-3">Sr Software Engineer</h4>
+    <h4 class="heading-4">$45/hr</h4>
+    <h4 class="heading-3">Sr Scrum Master</h4>
+    <h4 class="heading-4">$35/hr</h4>
 </section>
 
