@@ -89,10 +89,7 @@
 <img src="imgs/illustrations-original.png" style="height:400px; width:auto;">
 </figure>
 <p>Our Brand's illustrations uses the <a href="https://ui8.net/vectorly-space/products/retro-cartoon-illustrations" target="_blank">Retro Dudes</a> set by <a href="https://ui8.net/vectorly-space/products" target="_blank">Vectorly Space
-</a> as a base. However, for illustrations in <a href="https://polyfen.com" target="_blank">polyfen.com</a> we've taken the time to customize the illustrations adjusting some details and apply an additional layer of gradients and noise textures to incorporate them seamlessly with the rest of our visual language.</p>
-<figure>
-<img src="imgs/illustrations-custom.png" style="height:400px; width:auto;">
-</figure>
+</a>.</p>
 <h4 class="heading-3">Pearls</h4>
 <figure>
 <img src="imgs/pearls.png" style="height:400px; width:auto;">
