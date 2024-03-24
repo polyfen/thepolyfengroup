@@ -212,8 +212,8 @@ section#cover p {
 .sub-brand {
     display: grid;
     grid-template-areas:
-    'logos'
     'screens'
+    'logos'
     'texts'
     'links';
     gap: 2rem 3rem;
@@ -242,7 +242,7 @@ section#cover p {
 }
 
 .--sub-brand { grid-area: logos;}
-.sub-brand p { grid-area: texts;}
+.sub-brand p { grid-area: texts;color:#4f4f58;}
 .sub-brand .links { grid-area: links;}
 .sub-brand .screen { grid-area: screens;}
 
@@ -318,4 +318,9 @@ h2.title-2 {
     }
     
     
+}
+
+section.sub-brands-container hr {
+    margin: 6rem 0;
+    max-width: 100%;
 }
