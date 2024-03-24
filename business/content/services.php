@@ -38,7 +38,64 @@
     </ul>
     <h4 class="heading-3">Web/Mobile App</h4>
     <h5 class="heading-4">$39,000</h5>
-    <h5 class="heading-4">2-6 months</h5>
+    <h5 class="heading-4">4-6 months</h5>
+    <ul>
+    <li>Discovery Phase:
+        <ul>
+            <li>Initial consultation</li>
+            <li>Requirement gathering</li>
+            <li>User stories/Use case development</li>
+            <li>Project kickoff meeting</li>
+        </ul>
+    </li>
+
+    <li>Design Phase:
+        <ul>
+            <li>Wireframing</li>
+            <li>User interface (UI) design</li>
+            <li>User experience (UX) design</li>
+            <li>Prototyping</li>
+            <li>Iterative design reviews</li>
+        </ul>
+    </li>
+
+    <li>Development Phase:
+        <ul>
+            <li>Frontend development</li>
+            <li>Backend development</li>
+            <li>Database design and development</li>
+            <li>Integration of third-party APIs</li>
+            <li>Continuous integration/Continuous deployment (CI/CD) setup</li>
+        </ul>
+    </li>
+
+    <li>Testing Phase:
+        <ul>
+            <li>Unit testing</li>
+            <li>Integration testing</li>
+            <li>User acceptance testing (UAT)</li>
+            <li>Bug fixing and issue resolution</li>
+        </ul>
+    </li>
+
+    <li>Deployment Phase:
+        <ul>
+            <li>Deployment planning</li>
+            <li>Server setup and configuration</li>
+            <li>App deployment to production environment</li>
+            <li>Post-deployment testing</li>
+        </ul>
+    </li>
+
+    <li>Maintenance and Support:
+        <ul>
+            <li>Monitoring and performance optimization</li>
+            <li>Regular updates and patches</li>
+            <li>Technical support and troubleshooting</li>
+            <li>Feature enhancements and iterations</li>
+        </ul>
+    </li>
+</ul>
     <h3 id="hourly-services" class="heading-2">6.2. Hourly Services</h3>
     <h4 class="heading-4">$65/hr</h4>
     <h4 class="heading-4">Net-14 Billing</h4>
