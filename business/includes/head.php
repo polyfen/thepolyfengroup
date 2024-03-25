@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="https://polykit.xyz/polynucleus/theme/docs-theme-v2.css" type="text/css">
 <link rel="stylesheet" href="../app/sub-styles.css" type="text/css">
 <!-- scripts -->
-<script defer src="https://polykit.xyz/polynucleus/theme/docs-mobile-nav-v2.js"></script>
+<script defer src="../app/docs-mobile-nav-v2-local.js"></script>
 <script defer src="../app/current-page.js"></script>
 <!-- FONTS -->
 <!--

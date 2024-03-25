@@ -1,5 +1,5 @@
 <section id="differential">
-    <h2 class="heading-1">7. Differential</h2>
+    <h2 class="heading-1">6. Differential</h2>
     <h3 id="low-cost-high-value" class="heading-2">7.1. Low cost, high value</h3>
     <p>Our cost-efficient, fully-remote business model offers services from top-tier professionals around the world at a small fraction of the price from our competitors in the US.</p>
     <h3 id="wealth-of-experience" class="heading-2">7.2. Wealth of experience</h3>

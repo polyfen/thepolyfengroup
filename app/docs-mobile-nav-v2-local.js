@@ -1,4 +1,4 @@
-console.log("Soy el docs-mobile-nav-v2.js");
+console.log("Soy el docs-mobile-nav-v2-local.js");
 
 /* Mobile nav */
 
