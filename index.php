@@ -60,7 +60,7 @@
             <h2 class="heading-1">Family of Brands</h2>
             <hr>
             <section class="sub-brand">
-                <a class="screen" href="https://polyfen.com" target="_blank" rel="dofollow">
+                <a class="screen" href="https://polyfen.com" target="_blank" rel="dofollow" title="polyfen.com">
                     <img src="imgs/window-frame.svg" alt="" class="window-frame">
                     <img src="imgs/sub-brands/polyfen-screen.webp" alt="Polyfen screenshot" class="web-screenshot">
                 </a>
@@ -76,7 +76,7 @@
                 <h3 class="polyatlas --sub-brand">
                     <a href="https://polyatlas.wiki" target="_blank" class="web-url" rel="dofollow">Polyatlas<span></span></a>
                 </h3>
-                <a class="screen" href="https://polyatlas.wiki" target="_blank" rel="dofollow">
+                <a class="screen" href="https://polyatlas.wiki" target="_blank" rel="dofollow" title="polyatlas.wiki">
                     <img src="imgs/window-frame.svg" alt="" class="window-frame">
                     <img src="imgs/sub-brands/polyatlas-screen.webp" alt="Polyatlas screenshot" class="web-screenshot">
                 </a>
@@ -90,7 +90,7 @@
                 <h3 class="polycookies --sub-brand">
                     <a href="https://polycookies.com" target="_blank" class="web-url" rel="dofollow">Polycookies<span></span></a>
                 </h3>
-                <a class="screen" href="https://polycookies.com" target="_blank" rel="dofollow">
+                <a class="screen" href="https://polycookies.com" target="_blank" rel="dofollow" title="polycookies.com">
                     <img src="imgs/window-frame.svg" alt="" class="window-frame">
                     <img src="imgs/sub-brands/polycookies-screen.webp" alt="Polycookies screenshot" class="web-screenshot">
                 </a>
@@ -104,7 +104,7 @@
                 <h3 class="polyqwerty --sub-brand">
                     <a href="https://polyqwerty.com" target="_blank" class="web-url" rel="dofollow">polyqwerty<span></span></a>
                 </h3>
-                <a class="screen" href="https://polyqwerty.com" target="_blank" rel="dofollow">
+                <a class="screen" href="https://polyqwerty.com" target="_blank" rel="dofollow" title="polyqwerty.com">
                     <img src="imgs/window-frame.svg" alt="" class="window-frame">
                     <img src="imgs/sub-brands/polyqwerty-screen.webp" alt="Polyqwerty screenshot" class="web-screenshot">
                 </a>
@@ -117,7 +117,7 @@
                 <h3 class="polykit --sub-brand">
                     <a href="https://polykit.xyz" target="_blank" class="web-url" rel="dofollow">polykit<span></span></a>
                 </h3>
-                <a class="screen" href="https://polykit.xyz" target="_blank" rel="dofollow">
+                <a class="screen" href="https://polykit.xyz" target="_blank" rel="dofollow" title="polykit.xyz">
                     <img src="imgs/window-frame.svg" alt="" class="window-frame">
                     <img src="imgs/sub-brands/polykit-screen.webp" alt="Polikit screenshot" class="web-screenshot">
                 </a>
