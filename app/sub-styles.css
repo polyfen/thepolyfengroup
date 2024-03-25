@@ -155,3 +155,8 @@ ul.arrow-bullet li[data-icon="1password"] {
     list-style-image: url(../imgs/icons/bullets/1password.svg);
 }
 
+.heading-4 {
+    font-size: 25.5px;
+    line-height: 34px;
+    padding-bottom: 10px;
+}
