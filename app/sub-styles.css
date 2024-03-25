@@ -160,3 +160,129 @@ ul.arrow-bullet li[data-icon="1password"] {
     line-height: 34px;
     padding-bottom: 10px;
 }
+
+
+/* family-of-brands component, temporalmente lo pongo en sub-styles.css, ya esta en styles.css */
+
+a img {
+    display: inherit;
+}
+
+/* en styles.css esta llamando dentro de *main section.sub-brands...* */
+section.sub-brands-container {
+    max-width: 800px;
+}
+
+section.sub-brand {
+    margin-bottom: 2rem;
+}
+
+/* h1 with images ///////////////////////*/
+.--sub-brand a::before { content: none;}
+.polyfen a { width:153px; height:50px;}
+.polyatlas a { width:175px; height:50px;}
+.polycookies a { width:206px; height:50px;}
+.polyforum a { width:194px; height:50px;}
+.polyqwerty a { width:223px; height:50px;}
+.polykit a { width:207px; height:50px;}
+.polypress a { width:223px; height:50px;}
+.--sub-brand a span {
+    display:block;
+    position:absolute;
+    width:100%;
+    height:100%;
+    z-index:9;
+    background-size: contain !important;
+}
+
+.polyfen a span { background:#ecf0f3 url(../imgs/sub-brands/polyfen-logo.svg) no-repeat left top;}
+.polyatlas a span { background:#ecf0f3 url(../imgs/sub-brands/poly-atlas-logo.svg) no-repeat left top;}
+.polycookies a span { background:#ecf0f3 url(../imgs/sub-brands/poly-cookies-logo.svg) no-repeat left top;}
+.polyforum a span { background:#ecf0f3 url(../imgs/sub-brands/poly-forum-logo.svg) no-repeat left top;}
+.polyqwerty a span { background:#ecf0f3 url(../imgs/sub-brands/poly-qwerty-logo.svg) no-repeat left top;}
+.polykit a span { background:#ecf0f3 url(../imgs/sub-brands/polykit-logo.svg) no-repeat left top;}
+.polypress a span { background:#ecf0f3 url(../imgs/sub-brands/polypress-logo.svg) no-repeat left top;}
+
+/* grid for sub-brands */
+.sub-brand {
+    display: grid;
+    grid-template-areas:
+    'logos'
+    'screens'
+    'texts'
+    'links';
+    gap: 2rem 3rem;
+}
+
+.sub-brand p {
+    margin-bottom: unset;
+    padding-top: unset;
+}
+@media (min-width: 768px) {
+    .sub-brands-container {
+        padding-inline: 20px;
+    }
+    .sub-brand {
+        grid-template-areas:
+        'screens logos'
+        'screens texts'
+        'screens links';
+        justify-content: start;
+        padding-top: 10px;
+    }
+    .sub-brand .screen {
+        margin-top: unset;
+        aspect-ratio: 4/3;
+        width: 100%;
+        width: 299px;
+    }
+}
+
+.--sub-brand { grid-area: logos;}
+.sub-brand p { grid-area: texts;color:#4f4f58;}
+.sub-brand .links { grid-area: links;}
+.sub-brand .screen { grid-area: screens;}
+
+a.screen {
+    width: unset;
+}
+
+section.sub-brands-container hr {
+    margin: 6rem 0;
+    max-width: 100%;
+}
+
+img.window-frame {
+    min-width: calc(100% + 2px);
+    margin-bottom: -2px;
+    margin-left: -1px;
+    margin-right: -1px;
+}
+
+.sub-brands-container h2.heading-1 {
+    margin-top: 6rem !important;
+    margin-bottom: -2rem !important;
+}
+
+img.web-screenshot {
+    border-radius: 0 0 4px 4px;
+}
+
+/*extra para los links*/
+a::before {
+    content: none;
+}
+a:not(:has(img))::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    border-radius: 2px;
+    background-color: #7537f8;
+    bottom: 0px;
+    left: 0;
+    transform-origin: right;
+    transform: scaleX(0);
+    transition: transform .3s ease-in-out;
+}
+/* family-of-brands component */
