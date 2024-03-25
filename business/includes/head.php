@@ -14,6 +14,7 @@
 <!-- <script defer src="https://polykit.xyz/polynucleus/theme/docs-mobile-nav-v2.js"></script> -->
 <!-- <script defer src="../app/docs-mobile-nav-v2-local.js"></script> -->
 <script defer src="../app/docs-nav-v3.js"></script>
+<script defer src="../app/docs-mobile-nav-v2-local.js"></script>
 <script defer src="../app/current-page.js"></script>
 <!-- FONTS -->
 <!--
