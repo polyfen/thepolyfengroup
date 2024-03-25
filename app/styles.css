@@ -33,8 +33,7 @@ main {
     left: 280px;
  */
 }
-
-main section.sub-brands-container {
+section.sub-brands-container {
     max-width: 800px;
 }
 
@@ -306,8 +305,8 @@ a img.web-icon {
 .sub-brand {
     display: grid;
     grid-template-areas:
-    'screens'
     'logos'
+    'screens'
     'texts'
     'links';
     gap: 2rem 3rem;
@@ -326,12 +325,13 @@ a img.web-icon {
         'screens logos'
         'screens texts'
         'screens links';
+        justify-content: start;
     }
     .sub-brand .screen {
         margin-top: unset;
         aspect-ratio: 4/3;
         width: 100%;
-        max-width: 420px;
+        width: 299px;
     }
 }
 
@@ -343,6 +343,15 @@ a img.web-icon {
 a.screen {
     width: unset;
 }
+
+/* hide sub-brands from home page*/
+main #polyforum, main #polypress {
+    display: none;
+}
+main .sub-brands-container hr:nth-last-child(-n+3) {
+    display: none;
+}
+/*end hide sub-brands*/
 /* end grid for sub-brands */
 
 /* hello social media */

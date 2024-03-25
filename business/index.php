@@ -33,12 +33,12 @@
             <li><a href="#family-of-brands" class="caption">4. Family of Brands</a></li>
             <ul>
                 <li><a href="#polyfen" class="caption">4.1. Polyfen</a></li>
-                <li><a href="#poly-atlas" class="caption">4.2. Poly Atlas</a></li>
-                <li><a href="#poly-cookies" class="caption">4.3. Poly Cookies</a></li>
-                <li><a href="#poly-qwerty" class="caption">4.4. Poly Qwerty</a></li>
+                <li><a href="#polyatlas" class="caption">4.2. Poly Atlas</a></li>
+                <li><a href="#polycookies" class="caption">4.3. Poly Cookies</a></li>
+                <li><a href="#polyqwerty" class="caption">4.4. Poly Qwerty</a></li>
                 <li><a href="#polykit" class="caption">4.5. Polykit</a></li>
                 <li><a href="#polypress" class="caption">4.6. Polypress</a></li>
-                <li><a href="#poly-forum" class="caption">4.7. Poly Forum</a></li>
+                <li><a href="#polyforum" class="caption">4.7. Poly Forum</a></li>
             </ul>
             <li><a href="#services" class="caption">5. Services</a></li>
             <ul>
