@@ -11,10 +11,12 @@
 </head>
 
 <body>
-    <!-- INCLUDE HELLO-SOCIAL start -->
+    <!-- INCLUDE HELLO's start -->
     <?php include '../includes/hello-social.php';?>
-    <!-- INCLUDE HELLO-SOCIAL end -->
-    <nav id="navbar">
+    <?php include '../includes/hello-nav.php';?>
+    <!-- INCLUDE HELLO's end -->
+    <div class="sub-sites-container">
+    <nav id="navbar" class="sub-sites">
     <a href="/" rel="dofollow" class="link-logo">
         <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="The Polyfen Group" height="40px" width="auto">
     </a>
@@ -68,7 +70,7 @@
                 d="m16 16l-4-4m0 0L8 8m4 4l4-4m-4 4l-4 4" />
         </svg>
     </button> -->
-    <main>
+    <main class="sub-sites"> 
         <section class="cover">
             <img src="imgs/folder-illustration.svg" alt="Folder Illustration" height="200px" width="auto" >
             <h1 class="title-2">Business Plan</h1>
@@ -103,6 +105,7 @@
         <!-- INCLUDE OUR-VALUES.PHP end -->
         <hr>
     </main>
+</div>
 </body>
 
 </html>

@@ -11,14 +11,13 @@
 </head>
 
 <body>
-    <!-- INCLUDE HELLO-SOCIAL start -->
+    <!-- INCLUDE HELLO's start -->
     <?php include '../includes/hello-social.php';?>
-    <!-- INCLUDE HELLO-SOCIAL end -->
-        <!-- INCLUDE HELLO-SOCIAL start -->
-        <?php include '../includes/hello-nav.php';?>
-    <!-- INCLUDE HELLO-SOCIAL end -->
+    <?php include '../includes/hello-nav.php';?>
+    <!-- INCLUDE HELLO's end -->
 
-    <nav id="navbar">
+    <div class="sub-sites-container">
+    <nav id="navbar" class="sub-sites">
     <a href="/" rel="dofollow" class="link-logo">
         <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="The Polyfen group" height="40px" width="auto">
     </a>
@@ -62,7 +61,7 @@
         </svg>
     </button> -->
 
-    <main class="container-750 sub-sitio">
+    <main class="sub-sites"> 
         <section class="cover">
             <img src="imgs/videogame-illustratrion.svg" alt="Videogame Illustration" height="200px" width="auto">
             <h1 class="title-2">Team Wiki</h1>
@@ -121,6 +120,7 @@
         <!-- INCLUDE ACCOUNTING-WORKFLOW.PHP end -->
         <hr>
     </main>
+    </div>
 </body>
 
 </html>

@@ -1,56 +1,6 @@
-html,
-body {
-    background: #ecf0f3;
-}
-
-* {
-    font-family: BiotifMedium;
-}
-
-.BiotifMedium {
-    font-family: BiotifMedium;
-}
-
-.BiotifBold {
-    font-family: BiotifBold;
-}
-
-.BiotifExtraBold {
-    font-family: BiotifExtraBold;
-}
-
-* {
-    color: #4f4f58;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-strong {
-    color: #12123a;
-}
-
-p,
-p a,
-li,
-li a,
-p strong,
-p span,
-li strong {
-    font-family: 'freight-text-pro', serif;
-}
-
 p strong,
 li strong {
     font-family: 'FreightTextProSemibold', serif;
-}
-
-a {
-    color: #4f4f58;
-    position: relative;
-    width: max-content;
 }
 
 a::before {
@@ -66,12 +16,6 @@ a::before {
     transform: scaleX(0);
     transition: transform .3s ease-in-out;
 }
-
-a:hover::before {
-    transform-origin: left;
-    transform: scaleX(1);
-}
-
 body nav {
     position: fixed;
     /* display: flex; */
@@ -79,15 +23,15 @@ body nav {
     flex-direction: column;
     gap: 20px;
     padding: 20px;
-    background-color: white;
     width: 240px;
     height: 100vh;
     top: 12px;
     right: 0px;
     transition: right .3s ease-in-out;
     z-index: 350;
-    overflow-y: auto;
 }
+
+
 
 .hamburger {
     z-index: 400;
@@ -156,28 +100,6 @@ ul.arrow-bullet {
     list-style-image: url(../../imgs/arrow-right.svg);
 }
 
-a.web-url {
-    display: flex;
-    align-items: center;
-    flex-direction: row;
-}
-
-img.web-icon {
-    height: 25px;
-    margin-right: 8px;
-    margin-top: -2px;
-}
-
-a img.external-url-icon,
-a img.web-icon {
-    opacity: 0.6;
-}
-
-a:hover img.external-url-icon,
-a:hover img.web-icon {
-    opacity: 1;
-}
-
 main section.cover {
     display: flex;
     flex-direction: column;
@@ -225,15 +147,6 @@ nav ul li a {
         top: 12px;
         right: unset;
     }
-
-/*     body main {
-        width: 760px;
-        left: 400px;
-        position: absolute;
-        padding-top: 60px;
-        margin-inline:unset;
-
-    } */
 
     button.hamburger, button.close {
         display: none;

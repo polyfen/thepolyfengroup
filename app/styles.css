@@ -3,15 +3,6 @@ body {
     background: #ecf0f3;
 }
 
-body {
-    border-top: 12px solid #7637f9;
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: auto auto;
-    justify-items: center;
-    padding-inline: 25px;
-}
-
 header {
     display: flex;
     flex-direction: column;
@@ -128,8 +119,6 @@ img.web-icon {
     grid-template-areas:
     'header'
     'main';
-    padding-inline: auto;
-    margin-inline: 20px;
 }
 
 @media (min-width: 768px) {
@@ -195,10 +184,6 @@ main.sub-sitio {
     margin-top: 1px;
     margin-left: 3px;
 
-}
-
-main section.sub-brands-container {
-    max-width: 600px;
 }
 
 section#home-cover {
@@ -271,6 +256,11 @@ a:not(.current-page):hover {
 a img.external-url-icon,
 a img.web-icon {
     opacity: 0.6;
+}
+
+a:hover img.external-url-icon,
+a:hover img.web-icon {
+    opacity: 1;
 }
 
 /* h1 with images -seo- ///////////////////////*/
@@ -488,7 +478,36 @@ main .sub-brands-container hr:nth-last-child(-n+3) {
     }
 }
 
-/* sub-sites */
+/*************************** sub-styles *************************************/
+.sub-sites-container {
+    display: grid;
+    align-items: start;
+    justify-items: center;
+    grid-template-areas:
+    'header'
+    'main';
+}
+
+@media (min-width: 768px) {
+    .sub-sites-container {
+        justify-items: unset;
+        grid-template-columns: 400px 1fr;
+        grid-template-rows: auto;
+        grid-template-areas:
+        'header main'
+    }
+}
+
+nav.sub-sites { grid-area: header;}
+
+main.sub-sites {
+    grid-area: main;
+    width: 760px;
+    padding-top: 60px;
+    margin-inline: unset;
+}
+
+
 
 #navbar li {
     line-height: 1;
@@ -496,6 +515,7 @@ main .sub-brands-container hr:nth-last-child(-n+3) {
 /* espacio al final de las tablas de contenido */
 ul.toc {
     padding-bottom: 80px;
+    overflow-y: auto;
 }
 
 /*///////////Media queries///////////*/
@@ -623,6 +643,8 @@ li[data-icon="1password"] {
 
 
 /*************************** end sub-styles *************************************/
+
+
     /* issue to talk, this is not mobile first polykit*/
     section#cover {
         padding-top: 1.6rem;
