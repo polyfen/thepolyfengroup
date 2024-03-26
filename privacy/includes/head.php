@@ -11,6 +11,7 @@
 <!-- scripts -->
 <script defer src="https://polykit.xyz/polynucleus/theme/docs-mobile-nav-v2.js"></script>
 <script defer src="app/privacy-scroll.js"></script>
+
 <!-- FONTS -->
 <!--
 /**
