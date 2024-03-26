@@ -48,7 +48,6 @@
             <li><a href="#branding-workflow" class="caption">11. Branding workflow</a></li>
             <li><a href="#development-workflow" class="caption">12. Development workflow</a></li>
             <li><a href="#accounting-workflow" class="caption">13. Accounting workflow</a></li>
-            <br><br>
         </ul>
     </nav>
 <!--     <button aria-label="Open/Close navbar" class="hamburger">

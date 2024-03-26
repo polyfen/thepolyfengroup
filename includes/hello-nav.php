@@ -1,4 +1,4 @@
-<div class="hello-nav">
+<nav class="hello-nav">
     <div class="nav-links">
         <a href="/">Home</a>
         <a href="/business/">Business Plan</a>
@@ -16,4 +16,4 @@
             </svg>
         </button>
     </div>
-</div>
+</nav>

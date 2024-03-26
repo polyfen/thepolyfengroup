@@ -8,8 +8,8 @@
 <link rel="stylesheet" href="https://polykit.xyz/polynucleus/polynucleus.css" type="text/css">
 <link rel="stylesheet" href="app/styles.css" type="text/css">
 <link rel="stylesheet" href="app/cookies.css" type="text/css">
-<!-- <link rel="stylesheet" href="app/sub-styles.css" type="text/css"> -->
-
+<script defer src="../app/docs-nav-v3.js"></script>
+<script defer src="../app/current-page.js"></script>
 <!-- FONTS -->
 <!--
 /**

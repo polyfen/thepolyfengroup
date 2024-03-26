@@ -24,6 +24,7 @@ main {
     left: 280px;
  */
 }
+
 section.sub-brands-container {
     max-width: 800px;
 }
@@ -48,9 +49,7 @@ header nav a.external-url {
     flex-direction: row;
 }
 
-header
-
-header img.external-url-icon {
+header header img.external-url-icon {
     height: 16px;
     margin-right: 6px;
     margin-top: -3px;
@@ -117,8 +116,8 @@ img.web-icon {
     align-items: start;
     justify-items: center;
     grid-template-areas:
-    'header'
-    'main';
+        'header'
+        'main';
 }
 
 @media (min-width: 768px) {
@@ -127,12 +126,17 @@ img.web-icon {
         grid-template-columns: 280px 1fr;
         grid-template-rows: auto;
         grid-template-areas:
-        'header main'
+            'header main'
     }
 }
 
-header.home { grid-area: header;}
-main.home { grid-area: main;}
+header.home {
+    grid-area: header;
+}
+
+main.home {
+    grid-area: main;
+}
 
 
 
@@ -164,11 +168,10 @@ hr {
 }
 
 header.home {
-position: relative;
-top: 0;
-display: flex;
-padding: 20px;
-margin-top: 60px;
+    position: relative;
+    top: 0;
+    display: flex;
+    padding: 20px;
 }
 
 @media (min-width: 768px) {
@@ -176,6 +179,7 @@ margin-top: 60px;
         position: sticky;
     }
 }
+
 main.home {
     padding-left: 1px;
 }
@@ -264,29 +268,77 @@ a:hover img.web-icon {
 }
 
 /* h1 with images -seo- ///////////////////////*/
-.polyfen a { width:153px; height:50px;}
-.polyatlas a { width:175px; height:50px;}
-.polycookies a { width:206px; height:50px;}
-.polyforum a { width:194px; height:50px;}
-.polyqwerty a { width:223px; height:50px;}
-.polykit a { width:207px; height:50px;}
-.polypress a { width:223px; height:50px;}
+.polyfen a {
+    width: 153px;
+    height: 50px;
+}
+
+.polyatlas a {
+    width: 175px;
+    height: 50px;
+}
+
+.polycookies a {
+    width: 206px;
+    height: 50px;
+}
+
+.polyforum a {
+    width: 194px;
+    height: 50px;
+}
+
+.polyqwerty a {
+    width: 223px;
+    height: 50px;
+}
+
+.polykit a {
+    width: 207px;
+    height: 50px;
+}
+
+.polypress a {
+    width: 223px;
+    height: 50px;
+}
+
 .--sub-brand a span {
-    display:block;
-    position:absolute;
-    width:100%;
-    height:100%;
-    z-index:9;
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
     background-size: contain !important;
 }
 
-.polyfen a span { background:#ecf0f3 url(../imgs/sub-brands/polyfen-logo.svg) no-repeat left top;}
-.polyatlas a span { background:#ecf0f3 url(../imgs/sub-brands/poly-atlas-logo.svg) no-repeat left top;}
-.polycookies a span { background:#ecf0f3 url(../imgs/sub-brands/poly-cookies-logo.svg) no-repeat left top;}
-.polyforum a span { background:#ecf0f3 url(../imgs/sub-brands/poly-forum-logo.svg) no-repeat left top;}
-.polyqwerty a span { background:#ecf0f3 url(../imgs/sub-brands/poly-qwerty-logo.svg) no-repeat left top;}
-.polykit a span { background:#ecf0f3 url(../imgs/sub-brands/polykit-logo.svg) no-repeat left top;}
-.polypress a span { background:#ecf0f3 url(../imgs/sub-brands/polypress-logo.svg) no-repeat left top;}
+.polyfen a span {
+    background: #ecf0f3 url(../imgs/sub-brands/polyfen-logo.svg) no-repeat left top;
+}
+
+.polyatlas a span {
+    background: #ecf0f3 url(../imgs/sub-brands/poly-atlas-logo.svg) no-repeat left top;
+}
+
+.polycookies a span {
+    background: #ecf0f3 url(../imgs/sub-brands/poly-cookies-logo.svg) no-repeat left top;
+}
+
+.polyforum a span {
+    background: #ecf0f3 url(../imgs/sub-brands/poly-forum-logo.svg) no-repeat left top;
+}
+
+.polyqwerty a span {
+    background: #ecf0f3 url(../imgs/sub-brands/poly-qwerty-logo.svg) no-repeat left top;
+}
+
+.polykit a span {
+    background: #ecf0f3 url(../imgs/sub-brands/polykit-logo.svg) no-repeat left top;
+}
+
+.polypress a span {
+    background: #ecf0f3 url(../imgs/sub-brands/polypress-logo.svg) no-repeat left top;
+}
 
 /* end h1 with images -seo- ///////////////////////*/
 
@@ -295,10 +347,10 @@ a:hover img.web-icon {
 .sub-brand {
     display: grid;
     grid-template-areas:
-    'logos'
-    'screens'
-    'texts'
-    'links';
+        'logos'
+        'screens'
+        'texts'
+        'links';
     gap: 2rem 3rem;
 }
 
@@ -306,17 +358,20 @@ a:hover img.web-icon {
     margin-bottom: unset;
     padding-top: unset;
 }
+
 @media (min-width: 768px) {
     .sub-brands-container {
         padding-inline: 20px;
     }
+
     .sub-brand {
         grid-template-areas:
-        'screens logos'
-        'screens texts'
-        'screens links';
+            'screens logos'
+            'screens texts'
+            'screens links';
         justify-content: start;
     }
+
     .sub-brand .screen {
         margin-top: unset;
         aspect-ratio: 4/3;
@@ -325,46 +380,62 @@ a:hover img.web-icon {
     }
 }
 
-.--sub-brand { grid-area: logos;}
-.sub-brand p { grid-area: texts;color:#4f4f58;}
-.sub-brand .links { grid-area: links;}
-.sub-brand .screen { grid-area: screens;}
+.--sub-brand {
+    grid-area: logos;
+}
+
+.sub-brand p {
+    grid-area: texts;
+    color: #4f4f58;
+}
+
+.sub-brand .links {
+    grid-area: links;
+}
+
+.sub-brand .screen {
+    grid-area: screens;
+}
 
 a.screen {
     width: unset;
 }
 
 /* hide sub-brands from home page*/
-main #polyforum, main #polypress {
+main #polyforum,
+main #polypress {
     display: none;
 }
+
 main .sub-brands-container hr:nth-last-child(-n+3) {
     display: none;
 }
+
 /*end hide sub-brands*/
 /* end grid for sub-brands */
 
 /* hello social media */
 .hello-social {
-    position: absolute;
-    top: 0;
-    left: 0;
+    position: relative;
     width: 100%;
     display: flex;
-    justify-content:center;
+    justify-content: center;
     gap: 1rem;
     padding-inline: 0;
     padding-block: 7px;
-    background-color: #1d272c;;
+    background-color: #1d272c;
+    ;
     border-bottom: 8px solid #7637f9;
 
 }
 
-.hello-social a::before {
+.hello-social a::before,
+.hello-nav a::before {
     content: none;
 }
 
-.icon-social svg, .icon-social {
+.icon-social svg,
+.icon-social {
     width: 20px;
     height: 20px;
     fill: #ffffffad;
@@ -374,11 +445,13 @@ main .sub-brands-container hr:nth-last-child(-n+3) {
 .icon-social svg:hover {
     fill: #ffffff;
 }
+
 /* end hello social media */
 
-/* hello nav */
 
-.hello-nav {
+/* start hello nav */
+
+/* .hello-nav {
     position: absolute;
     top: 55px;
     right: 15px;
@@ -476,7 +549,9 @@ main .sub-brands-container hr:nth-last-child(-n+3) {
         gap: 1rem;
         background-color: #1d272c;;
     }
-}
+} */
+
+/* end old hello-nav */
 
 /*************************** sub-styles *************************************/
 .sub-sites-container {
@@ -484,8 +559,8 @@ main .sub-brands-container hr:nth-last-child(-n+3) {
     align-items: start;
     justify-items: center;
     grid-template-areas:
-    'header'
-    'main';
+        'header'
+        'main';
 }
 
 @media (min-width: 768px) {
@@ -494,11 +569,13 @@ main .sub-brands-container hr:nth-last-child(-n+3) {
         grid-template-columns: 400px 1fr;
         grid-template-rows: auto;
         grid-template-areas:
-        'header main'
+            'header main'
     }
 }
 
-nav.sub-sites { grid-area: header;}
+nav.sub-sites {
+    grid-area: header;
+}
 
 main.sub-sites {
     grid-area: main;
@@ -512,6 +589,7 @@ main.sub-sites {
 #navbar li {
     line-height: 1;
 }
+
 /* espacio al final de las tablas de contenido */
 ul.toc {
     padding-bottom: 80px;
@@ -520,15 +598,11 @@ ul.toc {
 
 /*///////////Media queries///////////*/
 
-@media (min-width: 768px) {
-    body nav {
-        margin-top: 30px;
-        background: none;
-    }
-}
-
 /* table x  */
-th, td, th p, td p {
+th,
+td,
+th p,
+td p {
     font-size: 1rem;
     font-family: Anonymous, monospace;
 }
@@ -541,7 +615,8 @@ table.buyer-persona th {
     text-align: left;
 }
 
-table.buyer-persona td, table.buyer-persona th {
+table.buyer-persona td,
+table.buyer-persona th {
     padding: 8px;
     border-top: 1px solid #1d272c1a;
 }
@@ -550,7 +625,9 @@ table.buyer-persona tr:hover {
     background-color: #1d272c1a;
 }
 
-table.buyer-persona tr:hover td, table.buyer-persona tr:hover th, table.buyer-persona tr:hover td p {
+table.buyer-persona tr:hover td,
+table.buyer-persona tr:hover th,
+table.buyer-persona tr:hover td p {
     color: black;
 }
 
@@ -558,7 +635,7 @@ table.buyer-persona tr:hover td, table.buyer-persona tr:hover th, table.buyer-pe
 
 
 div.preview {
-    padding:24px;
+    padding: 24px;
     background: #1d272c0b;
     text-align: center;
 }
@@ -602,32 +679,41 @@ a.link-logo:hover::before {
 
 /* li icons for team-wiki */
 li[data-icon="clockify"] {
-    list-style-image: url(../imgs/icons/bullets/clockify.svg); }
+    list-style-image: url(../imgs/icons/bullets/clockify.svg);
+}
 
 li[data-icon="slack"] {
     list-style-image: url(../imgs/icons/bullets/slack.svg);
 }
+
 li[data-icon="drive"] {
     list-style-image: url(../imgs/icons/bullets/drive.svg);
 }
+
 li[data-icon="figma"] {
     list-style-image: url(../imgs/icons/bullets/figma.svg);
 }
+
 li[data-icon="github"] {
     list-style-image: url(../imgs/icons/bullets/github.svg);
 }
+
 li[data-icon="namecheap"] {
     list-style-image: url(../imgs/icons/bullets/namecheap.svg);
 }
+
 li[data-icon="freshbooks"] {
     list-style-image: url(../imgs/icons/bullets/freshbooks.svg);
 }
+
 li[data-icon="asana"] {
     list-style-image: url(../imgs/icons/bullets/asana.svg);
 }
+
 li[data-icon="wise"] {
     list-style-image: url(../imgs/icons/bullets/wise.svg);
 }
+
 li[data-icon="1password"] {
     list-style-image: url(../imgs/icons/bullets/1password.svg);
 }
@@ -635,7 +721,10 @@ li[data-icon="1password"] {
 /* Quitando el nav en mobile */
 
 @media (max-width: 768px) {
-    body > nav, body > .hamburger, body > .close {
+
+    body>nav,
+    body>.hamburger,
+    body>.close {
         display: unset;
     }
 
@@ -645,17 +734,17 @@ li[data-icon="1password"] {
 /*************************** end sub-styles *************************************/
 
 
-    /* issue to talk, this is not mobile first polykit*/
-    section#cover {
-        padding-top: 1.6rem;
-    }
-    
-    h2.title-2 {
-        margin-top: 1rem;
-        padding-top: 2rem;
-    }
-    
-    
+/* issue to talk, this is not mobile first polykit*/
+section#cover {
+    padding-top: 1.6rem;
+}
+
+h2.title-2 {
+    margin-top: 1rem;
+    padding-top: 2rem;
+}
+
+
 section.sub-brands-container hr {
     margin: 6rem 0;
     max-width: 100%;
@@ -690,3 +779,138 @@ a.screen figure:hover {
     transform: scale(1.025);
     box-shadow: 0 2px 6px #0908233b;
 }
+
+
+/* traido de polyfen */
+/* The navigation bar ------------------ */
+
+/*agregado*/
+
+.hello-nav button {
+    border: none;
+    /* Elimina el borde por defecto */
+    background: none;
+    /* Elimina el fondo por defecto */
+    padding: 0;
+    /* Elimina el espacio interno por defecto */
+    font: inherit;
+    /* Utiliza la fuente del elemento contenedor */
+    cursor: pointer;
+    /* Muestra el cursor como puntero */
+    outline: none;
+    /* Elimina el contorno por defecto al enfocar */
+}
+
+/* end agregado */
+
+
+.hello-nav div {
+    text-align: right;
+}
+
+.position-fixed a {
+    color: white;
+}
+
+.nav-links.position-fixed,
+.nav-buttons {
+    position: fixed;
+    right: 25px;
+    top: 20px;
+    background: #070924a8;
+    padding: 7px 8px 2px;
+    border-radius: 18px;
+    backdrop-filter: blur(20px);
+    z-index: 90;
+}
+
+.nav-links.position-fixed:hover {
+    border-color: rgba(255, 255, 255, 0.35);
+}
+
+.nav-links a {
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+
+/* desktop */
+@media (min-width: 768px) {
+    .nav-buttons {
+        display: none;
+    }
+
+    .nav-links {
+        position: absolute;
+        right: 30px;
+        top: 60px;
+        padding-block: 10px;
+    }
+
+    .nav-close {
+        display: none;
+    }
+
+    .nav-links.position-fixed,
+    .nav-buttons {
+        padding: 15px 8px 10px;
+        border-radius: 200px;
+    }
+}
+
+/* mobile */
+@media (max-width: 768px) {
+    .nav-links {
+        display: none;
+        position: fixed;
+        background-color: rgba(0, 0, 0, 0.723);
+        backdrop-filter: blur(7px);
+        top: 0;
+        right: 0px;
+        padding-top: 100px;
+        padding-bottom: 100vh;
+        width: 100%;
+        z-index: 80;
+        display: none;
+        text-align: left;
+        font-family: 'BiotifBold', helvetica, arial, sans-serif;
+        font-weight: 700;
+    }
+
+    .hamburger svg {
+        fill: white;
+    }
+
+    .nav-hamburger {
+        display: flex;
+    }
+
+    .nav-links a {
+        padding-left: 20px;
+        font-size: 45px;
+    }
+
+    .nav-close {
+        z-index: 667;
+        position: fixed;
+        right: 10px;
+        top: 20px;
+        display: none;
+    }
+
+    .nav-links.open-nav {
+        display: grid !important;
+    }
+
+    .nav-close.open-nav {
+        display: block !important;
+    }
+
+    .nav-links.open-nav+nav.hamburger {
+        display: none;
+    }
+}
+
+/* END of navigation bar ----------------- */

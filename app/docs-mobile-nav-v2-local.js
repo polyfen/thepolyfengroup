@@ -52,25 +52,3 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-/* Mobile nav Scroll observer for nav-title active */
-const menuItems = document.querySelectorAll('#navbar ul li a');
-const observer = new IntersectionObserver((entries) => {
-	entries.forEach((entry) => {
-		const targetId = entry.target.getAttribute('id');
-		if (entry.isIntersecting) {
-			menuItems.forEach((menuItem) => {
-				menuItem.classList.remove('active');
-				if (menuItem.getAttribute('href') === `#${targetId}`) {
-					menuItem.classList.add('active');
-				}
-			});
-		}
-	});
-}, {
-	threshold: 0.1
-});
-
-const sections = document.querySelectorAll('section:not(:first-of-type)');
-sections.forEach((section) => {
-	observer.observe(section);
-});
