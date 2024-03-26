@@ -493,6 +493,12 @@ main .sub-brands-container hr:nth-last-child(-n+3) {
 #navbar li {
     line-height: 1;
 }
+/* espacio al final de las tablas de contenido */
+ul.toc {
+    padding-bottom: 80px;
+}
+
+/*///////////Media queries///////////*/
 
 @media (min-width: 768px) {
     body nav {
