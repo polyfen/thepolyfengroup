@@ -286,3 +286,8 @@ a:not(:has(img))::before {
     transition: transform .3s ease-in-out;
 }
 /* family-of-brands component */
+
+/* espacio al final de las tablas de contenido */
+ul.toc {
+    padding-bottom: 80px;
+}

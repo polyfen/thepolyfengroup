@@ -17,7 +17,7 @@
         <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="The Polyfen group" height="40px" width="auto">
     </a>
         <h2 class="caption">Team Wiki</h2>
-        <ul>
+        <ul class="toc">
             <li><a href="#tech-stack" class="caption">1. Tech stack</a></li>
             <li><a href="#sprints" class="caption">2. Sprints</a></li>
             <li><a href="#retro" class="caption">3. Retro</a></li>

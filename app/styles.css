@@ -286,6 +286,11 @@ h2.title-2 {
     opacity: 0.4;
 }
 
+/* espacio al final de las tablas de contenido */
+ul.toc {
+    padding-bottom: 80px;
+}
+
 /*///////////Media queries///////////*/
 
 @media (min-width: 768px) {

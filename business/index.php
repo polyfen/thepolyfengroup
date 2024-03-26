@@ -18,7 +18,7 @@
     </a>
         <h2 class="caption">Business Plan</h2>
 
-        <ul>
+        <ul class="toc">
             <li><a href="#overview" class="caption">1. Overview</a></li>
             <li><a href="#purpose" class="caption">2. Purpose</a></li>
             <li><a href="#core-values" class="caption">3. Core Values</a></li>

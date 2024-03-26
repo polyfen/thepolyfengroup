@@ -16,7 +16,7 @@
       <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="The Polyfen group" height="40px" width="auto">
     </a>
       <h2 class="caption">Privacy Policy</h2>
-      <ul>
+      <ul class="toc">
         <li><a href="#definitions-and-key-terms" class="caption">1. Definitions &amp; Key Terms</a></li>
         <li><a href="#information-we-collect" class="caption">2. Information We Collect</a></li>
         <li><a href="#how-we-use-your-information" class="caption">3. How We Use Your Information</a></li>
