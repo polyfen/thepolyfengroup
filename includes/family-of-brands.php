@@ -26,7 +26,7 @@
     <p>Open-source step-by-step guide to the Branding process, including practical tips, case studies,
         template files, and many other useful resources.</p>
     <a href="https://polyatlas.wiki" target="_blank" class="links web-url" rel="dofollow"><img
-            src="imgs/icons/globe.svg" class="web-icon" alt="">polyatlas.wiki</a>
+            src="/imgs/icons/globe.svg" class="web-icon" alt="">polyatlas.wiki</a>
 </section>
 <hr>
 <section id="polycookies" class="sub-brand">
@@ -42,7 +42,7 @@
     <p>Open-source solution to privacy policy implementing a cookie consent banner with Google Tag Manager.
     </p>
     <a href="https://polycookies.com" target="_blank" class="links web-url" rel="dofollow"><img
-            src="imgs/icons/globe.svg" class="web-icon" alt="">polycookies.com</a>
+            src="/imgs/icons/globe.svg" class="web-icon" alt="">polycookies.com</a>
 </section>
 <hr>
 <section id="polyqwerty" class="sub-brand">
@@ -58,7 +58,7 @@
     <p>Your keyboard's assistant. Click on a character to copy it. Easily find the right emoji, punctuation signs, and
         other symbols.</p>
     <a href="https://polyqwerty.com" target="_blank" class="links web-url" rel="dofollow"><img
-            src="imgs/icons/globe.svg" class="web-icon" alt="">polyqwerty.com</a>
+            src="/imgs/icons/globe.svg" class="web-icon" alt="">polyqwerty.com</a>
 </section>
 <hr>
 <section id="polykit" class="sub-brand">
