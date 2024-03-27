@@ -141,9 +141,7 @@ nav ul li a {
         right: unset;
     }
 
-    button.hamburger, button.close {
-        display: none;
-    }
+
 
     main section.cover {
         display: grid;

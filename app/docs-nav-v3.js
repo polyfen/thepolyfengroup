@@ -1,6 +1,6 @@
 console.log("Soy el docs-nav-v3.js");
 
-/* mobil nav */
+/* eventListener para el hello-nav para manejar el display con clases */
 
 const navOpener = document.querySelector('.nav-hamburger')
 const navCloser = document.querySelector('.nav-close')
@@ -8,25 +8,25 @@ const navLinks = document.querySelector('.nav-links')
 
 navOpener.addEventListener('click', () => {
     navLinks.classList.add('open-nav')
-    navCloser.classList.add('open-nav')
-    navOpener.classList.add('close-nav')
+/*     navCloser.classList.add('open-nav') */
+    /* navOpener.classList.add('close-nav') */
 })
 navCloser.addEventListener('click', () => {
     navLinks.classList.remove('open-nav')
-    navCloser.classList.remove('open-nav')
-    navOpener.classList.remove('close-nav')
+/*     navCloser.classList.remove('open-nav')
+    navOpener.classList.remove('close-nav') */
 })
 
-/* position fixed on nav */
+/* Agrega el .position-fixed al nav */
 
 document.addEventListener("DOMContentLoaded", function () {
     let nav = document.querySelector(".nav-links");
-    let hamburger = document.querySelector(".nav-hamburger");
+    let buttons = document.querySelector(".nav-buttons");
 
     window.addEventListener("scroll", function () {
         let scroll = window.scrollY;
 
-        if (window.innerWidth > 768) { // Verifica el ancho de la ventana
+        if (window.innerWidth > 768) {
             if (scroll >= 60) {
                 nav.classList.add("position-fixed");
             } else {
@@ -35,9 +35,9 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         if (scroll >= 60) {
-            hamburger.style.top = '18px';
+            buttons.style.top = '18px';
         } else {
-            hamburger.style.top = '168px';
+            buttons.style.top = '55px';
         }
     });
 });

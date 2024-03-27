@@ -4,14 +4,14 @@
 <h4 id="symbol" class="heading-3">Symbol</h4>
 <div class="preview">
     <figure>
-    <img src="imgs/_IDEOGRAM_PLFN_Grid.png" style="height:400px; width:auto;">
+    <img src="imgs/_IDEOGRAM_PLFN_Grid.png" style="max-height:400px; width:auto;">
     </figure>
 </div>
 <p>The Symbol expresses Polyfen's brand in its most essential, visual form. It represents the coming together of the (A) logical and (B) creative.</p>
 <h4 id="logotype" class="heading-2">Logotype</h4>
 <div class="preview">
     <figure>
-    <img src="imgs/the-polyfen-group-logo.svg" style="height:160px; width:auto;">
+    <img src="imgs/the-polyfen-group-logo.svg" style="max-height:160px; width:auto;">
     </figure>
 </div>
 <p>The Logotype is made up of two parts: (1) the Symbol and (2) the Brand Name.</p>
@@ -19,7 +19,7 @@
 <h4 id="family" class="heading-2">Family</h4>
 <div class="preview">
     <figure>
-    <img src="imgs/logo-family.png" style="height:160px; width:auto;">
+    <img src="imgs/logo-family.png" style="max-height:160px; width:auto;">
     </figure>
 </div>
 <h3 class="heading-2">4.2. Color scheme</h3>
@@ -80,19 +80,19 @@
 <h3 class="heading-2">4.3. Visual Language</h3>
 <h4 class="heading-3">Icons</h4>
 <figure>
-<img src="imgs/icons.png" style="height:200px; width:auto;">
+<img src="imgs/icons.png" style="max-height:200px; width:auto;">
 </figure>
 <p>All icons in Polyfen's touchpoints &amp; communications should correspond to the Iconography set we've selected for our Brand, <a href="https://phosphoricons.com/" target="_blank">Phospor</a>.</p>
 <p>Phospor's line-icons are meant only for use at large sizes accross Polyfen's Brand, while for smaller sizes the fill-icons are preferred to ensure accessible legibility.</p>
 <h4 class="heading-3">Illustrations</h4>
 <figure>
-<img src="imgs/illustrations-original.png" style="height:400px; width:auto;">
+<img src="imgs/illustrations-original.png" style="max-height:400px; width:auto;">
 </figure>
 <p>Our Brand's illustrations uses the <a href="https://ui8.net/vectorly-space/products/retro-cartoon-illustrations" target="_blank">Retro Dudes</a> set by <a href="https://ui8.net/vectorly-space/products" target="_blank">Vectorly Space
 </a>.</p>
 <h4 class="heading-3">Pearls</h4>
 <figure>
-<img src="imgs/pearls.png" style="height:400px; width:auto;">
+<img src="imgs/pearls.png" style="max-height:400px; width:auto;">
 </figure>
 <p>The Pearls are part of our visual dictoniary which we use to give plain backgrounds a bit more depth.</p>
 </section>
