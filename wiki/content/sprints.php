@@ -1,6 +1,6 @@
 <section id="sprints">
 <h2 class="heading-1">2. Sprints</h2>
-<p>We organize our tasks in time <strong>cycles of 1 week</sprint> called a “Sprint”.</p>
+<p>We organize our tasks in time <strong>cycles of 1 week</strong> called a “Sprint”.</p>
 
 <p>We schedule a call every Tuesday with the following agenda structure:</p>
 

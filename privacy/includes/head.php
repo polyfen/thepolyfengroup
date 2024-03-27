@@ -11,6 +11,7 @@
 <!-- scripts -->
 <script defer src="https://polykit.xyz/polynucleus/theme/docs-mobile-nav-v2.js"></script>
 <script defer src="app/privacy-scroll.js"></script>
+
 <!-- FONTS -->
 <!--
 /**
@@ -29,8 +30,7 @@
 */
 -->
 <link rel="stylesheet" type="text/css" href="app/fonts/Biotif.css">
-<link rel="stylesheet" href="https://use.typekit.net/aba8ecz.css">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
 
 <!-- FAVICON -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

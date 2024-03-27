@@ -1,7 +1,7 @@
 <section id="polyfen" class="sub-brand">
     <a class="screen" href="https://polyfen.com" target="_blank" rel="dofollow" title="polyfen.com">
         <figure>
-            <img src="/imgs/window-frame.svg" alt="" class="window-frame">
+            <img src="/imgs/window-frame-tide.svg" alt="" class="window-frame">
             <img src="/imgs/sub-brands/polyfen-screen.webp" alt="Polyfen screenshot" class="web-screenshot">
         </figure>
     </a>
@@ -19,7 +19,7 @@
     </h3>
     <a class="screen" href="https://polyatlas.wiki" target="_blank" rel="dofollow" title="polyatlas.wiki">
         <figure>
-            <img src="/imgs/window-frame.svg" alt="" class="window-frame">
+            <img src="/imgs/window-frame-tide.svg" alt="" class="window-frame">
             <img src="/imgs/sub-brands/polyatlas-screen.webp" alt="Polyatlas screenshot" class="web-screenshot">
         </figure>
     </a>
@@ -35,7 +35,7 @@
     </h3>
     <a class="screen" href="https://polycookies.com" target="_blank" rel="dofollow" title="polycookies.com">
         <figure>
-            <img src="/imgs/window-frame.svg" alt="" class="window-frame">
+            <img src="/imgs/window-frame-tide.svg" alt="" class="window-frame">
             <img src="/imgs/sub-brands/polycookies-screen.webp" alt="Polycookies screenshot" class="web-screenshot">
         </figure>
     </a>
@@ -51,7 +51,7 @@
     </h3>
     <a class="screen" href="https://polyqwerty.com" target="_blank" rel="dofollow" title="polyqwerty.com">
         <figure>
-            <img src="/imgs/window-frame.svg" alt="" class="window-frame">
+            <img src="/imgs/window-frame-tide.svg" alt="" class="window-frame">
             <img src="/imgs/sub-brands/polyqwerty-screen.webp" alt="Polyqwerty screenshot" class="web-screenshot">
         </figure>
     </a>
@@ -67,7 +67,7 @@
     </h3>
     <a class="screen" href="https://polykit.xyz" target="_blank" rel="dofollow" title="polykit.xyz">
         <figure>
-            <img src="/imgs/window-frame.svg" alt="" class="window-frame">
+            <img src="/imgs/window-frame-tide.svg" alt="" class="window-frame">
             <img src="/imgs/sub-brands/polykit-screen.webp" alt="Polikit screenshot" class="web-screenshot">
         </figure>
     </a>
@@ -86,7 +86,7 @@
     </h3>
     <a class="screen" href="https://polyforum.org/" target="_blank" rel="dofollow" title="polyforum.org">
         <figure>
-            <img src="/imgs/window-frame.svg" alt="" class="window-frame">
+            <img src="/imgs/window-frame-tide.svg" alt="" class="window-frame">
             <img src="/imgs/sub-brands/polyforum-screen.webp" alt="Poliforum screenshot" class="web-screenshot">
         </figure>
     </a>
@@ -102,7 +102,7 @@
     </h3>
     <a class="screen" href="https://polypress.xyz" target="_blank" rel="dofollow" title="polypress.xyz">
         <figure>
-            <img src="/imgs/window-frame.svg" alt="" class="window-frame">
+            <img src="/imgs/window-frame-tide.svg" alt="" class="window-frame">
             <img src="/imgs/sub-brands/polypress-screen.webp" alt="Polipress screenshot" class="web-screenshot">
         </figure>
     </a>

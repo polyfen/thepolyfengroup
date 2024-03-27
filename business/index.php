@@ -11,8 +11,12 @@
 </head>
 
 <body>
+    <!-- INCLUDE HELLO's start -->
+    <?php include '../includes/hello-social.php';?>
     <?php include '../includes/hello-nav.php';?>
-    <nav id="navbar">
+    <!-- INCLUDE HELLO's end -->
+    <div class="sub-sites-container">
+    <nav id="navbar" class="sub-sites">
     <a href="/" rel="dofollow" class="link-logo">
         <img class="plfn-logo" src="imgs/the-polyfen-group-logo.svg" alt="The Polyfen Group" height="40px" width="auto">
     </a>
@@ -57,16 +61,8 @@
             <br><br>
         </ul>
     </nav>
-    <button aria-label="Open/Close navbar" class="hamburger">
-        <img src="imgs/icons/hamburger_icon.svg" alt="" height="30px" width="auto">
-    </button>
-    <button class="close">
-        <svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 24 24">
-            <path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                d="m16 16l-4-4m0 0L8 8m4 4l4-4m-4 4l-4 4" />
-        </svg>
-    </button>
-    <main>
+
+    <main class="sub-sites"> 
         <section class="cover">
             <img src="imgs/folder-illustration.svg" alt="Folder Illustration" height="200px" width="auto" >
             <h1 class="title-2">Business Plan</h1>
@@ -101,6 +97,7 @@
         <!-- INCLUDE OUR-VALUES.PHP end -->
         <hr>
     </main>
+</div>
 </body>
 
 </html>

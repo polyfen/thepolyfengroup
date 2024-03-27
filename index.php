@@ -15,18 +15,6 @@
         document.getElementById('tpg-wordmark').style.transform = 'rotate(' + theta + 'rad)';
     }
     </script>
-    <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        let currentPage = window.location.pathname;
-        /* console.log(currentPage); */
-        let navLinks = document.querySelectorAll('header nav a');
-        navLinks.forEach(link => {
-            if (link.getAttribute('href') === currentPage) {
-                link.classList.add('current-page');
-            }
-        })
-    });
-    </script>
 
     <!-- Google Tag Manager -->
     <script>
@@ -51,31 +39,35 @@
 <body>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PBRK5MR5" height="0" width="0"
-            style="display:none;visibility:hidden"></iframe></noscript>
+            style="display:none; visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <header>
-        <img src="imgs/the-polyfen-group-ideogram.svg" id="tpg-ideogram" alt="">
-        <img src="imgs/the-polyfen-group-wordmark.svg" id="tpg-wordmark" alt="">
-        <nav>
-            <a href="/">Home</a>
-            <a href="/business/">Business Plan</a>
-            <a href="/wiki/">Team Wiki</a>
-            <a href="/brand/">Brand Guidelines</a>
-        </nav>
-    </header>
-    <main>
-        <section id="cover">
-            <h1 class="title-2">We explore new ways of using tech in creative projects.</h1>
-            <p><strong>The Polyfen Group LLC</strong> is a fully-remote, US based company parent to multiple brands in the creative and software engineering industries.</p>
-        </section>
-        <section class="sub-brands-container">
-            <h2 class="heading-1">Family of Brands</h2>
-            <hr>
-            <?php include './includes/family-of-brands.php'; ?>
-            <hr>
-        </section>
-    </main>
 
+    <!-- INCLUDE HELLO's start -->
+    <?php include 'includes/hello-social.php';?>
+    <?php include 'includes/hello-nav.php';?>
+    <!-- INCLUDE HELLO's end -->
+    <div class="home-container">
+        <header class="home">
+            <!-- <div class="logo-container"> -->
+                <img src="imgs/the-polyfen-group-ideogram.svg" id="tpg-ideogram" alt="">
+                <img src="imgs/the-polyfen-group-wordmark.svg" id="tpg-wordmark" alt="">
+            <!-- </div> -->
+        </header>
+        <main class="home">
+            <section id="home-cover">
+                <h1 class="title-2">We explore new ways of using tech in creative projects.</h1>
+                <p>The Polyfen Group LLC is a small company parent of multiple brands related to software development
+                    and
+                    the creative industry.</p>
+            </section>
+            <section class="sub-brands-container">
+                <h2 class="heading-1">Family of Brands</h2>
+                <hr>
+                <?php include './includes/family-of-brands.php'; ?>
+                <hr>
+            </section>
+        </main>
+    </div>
 </body>
 
 </html>
