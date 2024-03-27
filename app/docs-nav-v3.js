@@ -1,4 +1,4 @@
-console.log("Soy el docs-nav-v3.js");
+console.log("docs-nav3 & new staging!");
 
 /* eventListener para el hello-nav para manejar el display con clases */
 
