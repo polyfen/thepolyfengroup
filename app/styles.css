@@ -151,7 +151,8 @@ header nav {
 }
 
 iframe {
-    width: auto;
+    max-width: 100%;
+    
 }
 
 hr {
