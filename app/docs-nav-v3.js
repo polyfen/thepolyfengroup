@@ -71,40 +71,22 @@ sections.forEach((section) => {
 });
 /* END mobile nav scroll observer for nat-title active */
 
+/* ACCORDEON */
 
-
-
-
-
-
-/* if (window.innerWidth <= 768) {
-    navItems.forEach(item => {
-        item.addEventListener('click', () => {
-            nav.classList.remove('open-nav');
-            closer.classList.remove('open-nav');
-            opener.classList.remove('close-nav');
-        });
-    });
-} */
-
-/* hamburger menu scroll obdserver */
-/* document.addEventListener("DOMContentLoaded", function() {
-    let navHamburger = document.querySelector(".nav-hamburger");
-    let close = document.querySelector(".nav-close");
-
-    window.addEventListener("scroll", function() {
-        let scroll = window.scrollY || document.documentElement.scrollTop;
-
-        if (window.innerWidth < 426) {
-            if (scroll >= 40) {
-                console.log("scroll");
-                hamburger.style.top = "12px";
-                close.style.top = "12px";
-            } else {
-                hamburger.style.top = "47px";
-                close.style.top = "47px";
-            }
+let acc = document.getElementsByClassName("acc-button");
+let i;
+for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        let panel = this.nextElementSibling;
+        if (panel.style.maxHeight) {
+            panel.style.maxHeight = null;
         }
+        else {
+            panel.style.maxHeight = panel.scrollHeight + "px";
+        }
+
     });
-});
- */
+}
+
+console.log("accordion.js loaded");
