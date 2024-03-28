@@ -10,15 +10,15 @@
 </ol>
 <h3 class="heading-2">4.2. Channels</h3>
 <p style="margin-bottom: 0;"><strong>General:</strong></p>
-<ul class="hanging-list arrow-bullet">
+<ul class="wiki-team_messaging-general hanging-list arrow-bullet">
     <li><strong>#announcements</strong><br>
-    📣 Company highlights and workspace-wide updates.</li>
+    Company highlights and workspace-wide updates.</li>
     <li><strong>#help</strong><br>
-    🙋 Looking for an answer and not sure where to get it from? Look no further! You've found the right place.</li>
+    Looking for an answer and not sure where to get it from? Look no further! You've found the right place.</li>
     <li><strong>#offtopic-chatter</strong><br>
-    🌴 Non-work banter and water cooler conversation.</li>
+    Non-work banter and water cooler conversation.</li>
     <li><strong>#coworking</strong><br>
-    🧑‍💻 Here's a space to narrow the breach in remote work by sharing what you're working on and getting some live feedback.</li>
+    Here's a space to narrow the breach in remote work by sharing what you're working on and getting some live feedback.</li>
 </ul>
 
 <!--
@@ -54,11 +54,11 @@
 </ul>
 
 <p style="margin-bottom: 0;"><strong>Education:</strong></p>
-<ul class="hanging-list arrow-bullet">
+<ul class="wiki-team_messaging-education hanging-list arrow-bullet">
     <li><strong>#design-education</strong><br>
-    🎨 Typography, UX, UI, Motion, Branding.</li>
+    Typography, UX, UI, Motion, Branding.</li>
     <li><strong>#engineering-education</strong><br>
-    📐 HTML, CSS, Front-end and Back-end Software Engineering.</li>
+    HTML, CSS, Front-end and Back-end Software Engineering.</li>
 </ul>
 
 </section>
