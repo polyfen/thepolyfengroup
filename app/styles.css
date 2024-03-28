@@ -671,7 +671,6 @@ table.buyer-persona tr:hover th,
 table.buyer-persona tr:hover td p {
     color: black;
 }
-
 /* end table  */
 
 
@@ -679,6 +678,23 @@ div.preview {
     padding: 24px;
     background: #1d272c0b;
     text-align: center;
+}
+
+
+div.swatch-container {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    flex-wrap: wrap;
+}
+
+div.color-swatch-wrapper {
+    font-family: Anonymous, monospace;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    flex-basis: 310px;
+    flex-grow: 1;
 }
 
 div.color-swatch {
@@ -692,24 +708,9 @@ div.color-swatch {
     align-items: center;
 }
 
-div.color-swatch-wrapper {
-    font-family: Anonymous, monospace;
-    display: flex;
-    flex-direction: row;
-    gap: 12px;
-}
-
-div.swatch-container {
-    display: flex;
-    flex-direction: row;
-    gap: 24px;
-    flex-wrap: wrap;
-}
-
 a.link-logo:hover::before {
     content: none;
 }
-
 
 /* hashtag for help channel */
 .slack-logo {
