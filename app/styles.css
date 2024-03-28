@@ -363,18 +363,12 @@ a:hover img.web-icon {
 .nav-links.position-fixed,
 .nav-buttons {
     position: fixed;
-    background: #070924a8;
-    backdrop-filter: blur(20px);
+    background: #ecf0f37d;
+    backdrop-filter: blur(10px);
     z-index: 90;
+    border: 1px solid #4f4f581f;
 }
 
-.position-fixed a {
-    color: white;
-}
-
-.nav-links.position-fixed:hover {
-    border-color: rgba(255, 255, 255, 0.35);
-}
 
 .nav-links a {
     text-decoration: none;
@@ -393,7 +387,7 @@ a:hover img.web-icon {
         padding-block: 10px;
         display: flex;
         gap: 15px;
-        padding: 15px 18px;
+        padding: 15px 28px;
         border-radius: 200px;
     }
     .nav-links.position-fixed {
@@ -410,8 +404,7 @@ a:hover img.web-icon {
     .nav-links {
         display: none;
         position: fixed;
-        background-color: rgba(0, 0, 0, 0.723);
-        backdrop-filter: blur(7px);
+        backdrop-filter: blur(10px);
         top: 0;
         right: 0px;
         padding-top: 100px;
@@ -422,6 +415,7 @@ a:hover img.web-icon {
         text-align: left;
         font-family: 'BiotifBold', helvetica, arial, sans-serif;
         font-weight: 700;
+        background-color: #ecf0f37d;
     }
     .nav-buttons {
         padding: 7px 8px;
@@ -431,7 +425,7 @@ a:hover img.web-icon {
     }
 
     .hamburger svg {
-        fill: white;
+        fill: #1d272c;
     }
 
     .nav-hamburger {
@@ -441,8 +435,8 @@ a:hover img.web-icon {
     .nav-links a {
         padding-left: 20px;
         font-size: 8vw;
-        color: #FFFFFF88;
         padding: 14px 16px;
+        color: #12123a;
     }
 
     .nav-close {
