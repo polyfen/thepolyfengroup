@@ -529,11 +529,11 @@ a.screen {
 }
 
 /* hide sub-brands from home page*/
-main :is(#polyforum, #polypress) {
+main.home :is(#polyforum, #polypress) {
     display: none;
 }
 
-.sub-brands-container hr:nth-last-of-type(-n+2) {
+main.home .sub-brands-container hr:nth-last-of-type(-n+2) {
     display: none;
 }
 
