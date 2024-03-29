@@ -3,7 +3,7 @@ li strong {
     font-family: 'FreightTextProSemibold', serif;
 }
 
-a::before {
+/* a::before {
     content: '';
     position: absolute;
     width: 100%;
@@ -15,7 +15,8 @@ a::before {
     transform-origin: right;
     transform: scaleX(0);
     transition: transform .3s ease-in-out;
-}
+} */
+
 nav.sub-sites {
     position: fixed;
     /* display: flex; */

@@ -218,7 +218,7 @@ a img {
     display: inherit;
 }
 
-a:not(:has(img))::before {
+/* a:not(:has(img))::before {
     content: '';
     position: absolute;
     width: 100%;
@@ -237,13 +237,18 @@ a:hover::before {
     transform: scaleX(1);
 }
 
+a.current-page:hover::before,
+a.web-url::before,
+div#cookies-title a::before {
+    content: none;
+}
+ */
+ 
 .current-page {
     opacity: 0.4;
 }
 
-a.current-page:hover::before {
-    content: none;
-}
+
 
 a:not(.current-page):hover {
     color: #000000;
@@ -552,9 +557,11 @@ main.home .sub-brands-container hr:nth-last-of-type(-n+2) {
 }
 
 .hello-social a::before,
-.hello-nav a::before {
+.hello-nav a::before,
+.link-logo:hover::before {
     content: none;
 }
+
 
 .icon-social svg,
 .icon-social {
@@ -702,9 +709,7 @@ div.color-swatch {
     align-items: center;
 }
 
-a.link-logo:hover::before {
-    content: none;
-}
+
 
 /* hashtag for help channel */
 .slack-logo {
