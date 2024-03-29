@@ -885,3 +885,11 @@ div.accordions-container {
   
   /*Accordion end*/
 
+
+  /* Alambre */
+@media (min-width: 1200px) {
+  li a {
+    font-size: 22px;
+    font-family: 'freight-text-pro', serif;
+  }
+}
