@@ -880,10 +880,9 @@ div.accordions-container {
   
   .acc-button:after {
     content: '\002B';
-    float: right;
-    /* margin-left: 5px; */
-    margin-left: 5px;
-    font-size: 2rem;
+    margin-left: 4px;
+    margin-bottom: 12px;
+    font-size: 14px;
   }
   
   .acc-button.active:after {

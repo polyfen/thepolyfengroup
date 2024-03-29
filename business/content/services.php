@@ -7,7 +7,7 @@
     <h5 class="heading-4">2-6 weeks</h5>
     <div class="accordion">
             <div class="acc-button">
-                <h6 class="heading-3">Learn more</h6>
+                <h6 class="caption">Learn more</h6>
             </div>
             <div class="acc-panel">
                 <ul class="hanging-list arrow-bullet">
@@ -30,7 +30,7 @@
     <h5 class="heading-4">3-6 weeks</h5>
     <div class="accordion">
             <div class="acc-button">
-                <h6 class="heading-3">Learn more</h6>
+                <h6 class="caption">Learn more</h6>
             </div>
             <div class="acc-panel">
                 <ul class="hanging-list arrow-bullet">
@@ -55,7 +55,7 @@
     <h5 class="heading-4">4-6 months</h5>
     <div class="accordion">
             <div class="acc-button">
-                <h6 class="heading-3">Learn more</h6>
+                <h6 class="caption">Learn more</h6>
             </div>
             <div class="acc-panel">
                 <ul>
