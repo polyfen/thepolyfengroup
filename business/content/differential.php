@@ -3,7 +3,7 @@
     <h3 id="low-cost-high-value" class="heading-2">7.1. Low cost, high value</h3>
     <p>Our cost-efficient, fully-remote business model offers services from top-tier professionals around the world at a small fraction of the price from our competitors in the US.</p>
     <h3 id="wealth-of-experience" class="heading-2">7.2. Wealth of experience</h3>
-    <p>Founder &amp; Art Director <a href="https://boris.hr" rel="follow" target="_blank">Boris Hrnčić</a> brings to the table 10+ years of experience in design, development, and marketing. Vetted in the top 3% of designers worldwide by <a href="https://toptal.com" rel="nofollow" target="_blank">Toptal</a> in 2017. Led high-performing teams for small start-ups and big enterprises in Croatia, Argentina, and the US.</p>
+    <p>Founder &amp; Art Director <a href="https://boris.hr" rel="follow" target="_blank">Boris Hrnčić</a> brings to the table 10+ years of experience in design, development, and marketing. Vetted in the top 3% of designers worldwide by <a data-emoji="link" href="https://toptal.com" rel="nofollow" target="_blank">Toptal</a> in 2017. Led high-performing teams for small start-ups and big enterprises in Croatia, Argentina, and the US.</p>
     <h3 id="wealth-of-experience" class="heading-2">7.3. High-performance</h3>
     <p>We rely on a healthy cadeance of communication and Scrum practices with efficiently ran Sprint plannings and retros to ensure growth on a weekly cycle.</p>
     <h3 id="end-to-end-service" class="heading-2">7.4. End-to-end service</h3>

@@ -5,13 +5,13 @@
     <p>To facilitate our organization and file naming we create a 2-4 letters shortcode to reference each client.</p>
     <p>All internal projects are referenced with Client Codes as well:</p>
     <ul class="hanging-list arrow-bullet" >
-        <li>The Polyfen Group › <strong>TPG</strong></li>
-        <li>Polyfen › <strong>PLFN</strong></li>
-        <li>Poly Atlas › <strong>PLAT</strong></li>
-        <li>Poly Cookies › <strong>PLCK</strong></li>
-        <li>Poly Qwerty › <strong>PLQR</strong></li>
-        <li>Polykit › <strong>PLKT</strong></li>
-        <li>Polypress › <strong>PLPR</strong></li>
+        <li data-marker="plfn">The Polyfen Group › <strong>TPG</strong></li>
+        <li data-marker="plfn">Polyfen › <strong>PLFN</strong></li>
+        <li data-marker="plat">Poly Atlas › <strong>PLAT</strong></li>
+        <li data-marker="plck">Poly Cookies › <strong>PLCK</strong></li>
+        <li data-marker="plqr">Poly Qwerty › <strong>PLQR</strong></li>
+        <li data-marker="plkt">Polykit › <strong>PLKT</strong></li>
+        <li data-marker="plpr">Polypress › <strong>PLPR</strong></li>
     </ul>
     <h3 class="heading-2" id="project-types">5.2. Project Types</h3>
     <ul class="hanging-list arrow-bullet">
