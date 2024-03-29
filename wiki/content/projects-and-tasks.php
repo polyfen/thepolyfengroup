@@ -1,6 +1,6 @@
 <section id="projects-and-tasks">
     <h2 class="heading-1">6. Projects &amp; Tasks</h2>
-    <p>Asana and Clockify projects follow the convention <a data-emoji="anchor" href="#client-code">[Client Code]</a> › <a data-emoji="anchor" href="#project-type">[Project Type]</a>.</p>
+    <p>Asana and Clockify projects follow the convention <a data-emoji="anchor" href="#client-codes">[Client Code]</a> › <a data-emoji="anchor" href="#project-types">[Project Type]</a>.</p>
     
     <p>There are 5 stages in the workflow of any task.</p>
     <h3 class="heading-2" id="backlog">6.1. Backlog</h3>
