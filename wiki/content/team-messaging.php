@@ -9,7 +9,7 @@
     <li>If you have any suggestions for our rules we encourage you to participate and let us know how we can make this better for everyone.</li>
 </ol>
 <h3 class="heading-2">4.2. Channels</h3>
-<p style="margin-bottom: 0;"><strong>General:</strong></p>
+<h4 class="heading-3">General</h4>
 <ul class="wiki-team_messaging-general hanging-list arrow-bullet">
     <li><strong>#announcements</strong><br>
     Company highlights and workspace-wide updates.</li>
@@ -19,6 +19,8 @@
     Non-work banter and water cooler conversation.</li>
     <li><strong>#coworking</strong><br>
     Here's a space to narrow the breach in remote work by sharing what you're working on and getting some live feedback.</li>
+    <li><strong>#changelog</strong><br>
+    Product development updates about all our brands, sites, and projects. | <a href="https://log.thepolyfengroup.com" target="_blank" rel="nofollow">log.thepolyfengroup.com</a></li>
 </ul>
 
 <!--
@@ -39,7 +41,7 @@
 </ul>
 -->
 
-<p style="margin-bottom: 0;"><strong>Divisions:</strong></p>
+<h4 class="heading-3">Brands</h4>
 <ul class="hanging-list arrow-bullet">
     <li data-marker="plfn"><strong>#polyfen</strong><br>
     All about <a href="https://polyfen.com" target="_blank">polyfen.com</a> | Creative &amp; Software Development Agency.</li>
@@ -53,7 +55,7 @@
     All about <a href="https://polykit.xyz" target="_blank">polykit.xyz</a> | Design System.</li>
 </ul>
 
-<p style="margin-bottom: 0;"><strong>Education:</strong></p>
+<h4 class="heading-3">Education</h4>
 <ul class="wiki-team_messaging-education hanging-list arrow-bullet">
     <li><strong>#design-education</strong><br>
     Typography, UX, UI, Motion, Branding.</li>

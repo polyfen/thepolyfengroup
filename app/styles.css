@@ -787,6 +787,9 @@ div.color-swatch {
 .wiki-team_messaging-general li:nth-of-type(4)::marker {
     content: "👨‍💻";
 }
+.wiki-team_messaging-general li:nth-of-type(5)::marker {
+    content: "🚀";
+}
 /*education*/
 .wiki-team_messaging-education li:nth-of-type(1)::marker {
     content: "🎨";
