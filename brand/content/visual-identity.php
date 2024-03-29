@@ -88,7 +88,7 @@
 <figure>
 <img src="imgs/illustrations-original.png" style="max-height:400px; width:auto;">
 </figure>
-<p>Our Brand's illustrations uses the <a href="https://ui8.net/vectorly-space/products/retro-cartoon-illustrations" target="_blank">Retro Dudes</a> set by <a href="https://ui8.net/vectorly-space/products" target="_blank">Vectorly Space
+<p>Our Brand's illustrations uses the <a data-emoji="link" href="https://ui8.net/vectorly-space/products/retro-cartoon-illustrations" target="_blank">Retro Dudes</a> set by <a data-emoji="link" href="https://ui8.net/vectorly-space/products" target="_blank">Vectorly Space
 </a>.</p>
 <h4 class="heading-3">Pearls</h4>
 <figure>

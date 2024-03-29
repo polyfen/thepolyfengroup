@@ -718,36 +718,39 @@ div.color-swatch {
     margin-right: 2px;
 }
 
+
+ /* data icons => data-icon | data-emoji<⚓> | data-marker | data-before<span>
+
 /* li icons for team-wiki */
-li[data-icon="clockify"] {
+[data-icon="clockify"] {
     list-style-image: url(../imgs/icons/bullets/clockify.svg);
 }
 
-li[data-icon="slack"] {
+[data-icon="slack"] {
     list-style-image: url(../imgs/icons/bullets/slack.svg);
 }
 
-li[data-icon="drive"] {
+[data-icon="drive"] {
     list-style-image: url(../imgs/icons/bullets/drive.svg);
 }
 
-li[data-icon="figma"] {
+[data-icon="figma"] {
     list-style-image: url(../imgs/icons/bullets/figma.svg);
 }
 
-li[data-icon="github"] {
+[data-icon="github"] {
     list-style-image: url(../imgs/icons/bullets/github.svg);
 }
 
-li[data-icon="namecheap"] {
+[data-icon="namecheap"] {
     list-style-image: url(../imgs/icons/bullets/namecheap.svg);
 }
 
-li[data-icon="freshbooks"] {
+[data-icon="freshbooks"] {
     list-style-image: url(../imgs/icons/bullets/freshbooks.svg);
 }
 
-li[data-icon="asana"] {
+[data-icon="asana"] {
     list-style-image: url(../imgs/icons/bullets/asana.svg);
 }
 
@@ -759,9 +762,20 @@ li[data-icon="asana"] {
     list-style-image: url(../imgs/icons/bullets/1password.svg);
 }
 
+/* data-types para poner EMOJIS en elementos (<span> || <a>)::before */
+
+[data-emoji="anchor"]::before {content: "⚓"; display: inline-block; text-decoration: none;}     
+[data-emoji="link"]::before {content: "🔗"; display: inline-block; text-decoration: none;}  
+[data-emoji="megaphone"]::before {content: "📣"; display: inline-block; text-decoration: none;}  
+
+
 /* bullets icons for 4.2 channels on teamwiki */
+
+/* li{list-style-type:"🌴" == li:market{content:"🌴" */
+
 /*general*/
 .wiki-team_messaging-general li:nth-of-type(1)::marker {
+    /*data-marker="megaphone"*/
     content: "📣";
 }
 .wiki-team_messaging-general li:nth-of-type(2)::marker {
@@ -780,6 +794,41 @@ li[data-icon="asana"] {
 .wiki-team_messaging-education li:nth-of-type(2)::marker {
     content: "📐";
 }
+
+
+ /* data-types para poner .SVG::before a elementos (<span> || <a>) */
+ [data-before="plfn"]::before {
+    content: "";
+    display: inline-block;
+    position: relative;
+    top: 4px;
+    text-decoration: none;
+    height:25px;
+    width:27px;
+    background-size: contain;
+    background-image: url(../imgs/icons/brand-icons/polyfen-icon.svg);
+    background-repeat: no-repeat;
+  }
+
+  [data-before="plkt"]::before {
+    content: "";
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    height:25px;
+    width:27px;
+    background-size: contain;
+    background-image: url(../imgs/icons/brand-icons/polykit-icon.svg);
+    background-repeat: no-repeat;
+}
+
+/* data-types para poner .SVG::marker en los <li> */
+[data-marker="plfn"] {list-style-image: url(../imgs/icons/brand-icons/polyfen-icon.svg);}
+[data-marker="plat"] {list-style-image: url(../imgs/icons/brand-icons/polyatlas-icon.svg);}
+[data-marker="plqr"] {list-style-image: url(../imgs/icons/brand-icons/polyqwerty-icon.svg);}
+[data-marker="plck"] {list-style-image: url(../imgs/icons/brand-icons/polycookies-icon.svg);}
+[data-marker="plkt"] {list-style-image: url(../imgs/icons/brand-icons/polykit-icon.svg);}
+[data-marker="plpr"] {list-style-image: url(../imgs/icons/brand-icons/polypress-icon.svg);}
 
 
 /*************************** end sub-styles *************************************/
@@ -829,3 +878,4 @@ a.screen figure:hover {
 
 
 
+ 
