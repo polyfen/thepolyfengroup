@@ -3,7 +3,8 @@ li strong {
     font-family: 'FreightTextProSemibold', serif;
 }
 
-a::before {
+a:not(:has(img))::before,
+:not(h3.sub-brand) a::before {
     content: '';
     position: absolute;
     width: 100%;
