@@ -13,7 +13,7 @@
         <li><strong>Time-bound</strong></li>
     </ul>
     <h3 class="heading-2" id="to-do">6.2. To Do</h3>
-    <p>All backlog tasks that were selected for the present <a data-emoji="anchor"> href="#sprints">Sprint</a>.</p>
+    <p>All backlog tasks that were selected for the present <a data-emoji="anchor" href="#sprints">Sprint</a>.</p>
     <h3 class="heading-2" id="in-progress">6.3. In Progress</h3>
     <p>One you start work on a specific task, the first thing to do is set its status as "In Progress" to let the rest of the team know what's being worked on.</p>
     <h3 class="heading-2" id="for-review">6.4. For Review</h3>
