@@ -114,7 +114,7 @@ img.web-icon {
 @media (min-width: 768px) {
     .home-container {
         justify-items: unset;
-        grid-template-columns: minmax(190px, 280px) 1fr;
+        grid-template-columns: minmax(190px, 220px) 1fr;
         grid-template-rows: auto;
         grid-template-areas:
             'header main'
