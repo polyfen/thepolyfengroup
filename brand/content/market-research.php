@@ -5,8 +5,8 @@
     <h3 class="heading-3">We explore new ways of using tech in creative projects</h3>
   </div>
   <p><strong>The Polyfen Group LLC</strong> is a fully-remote, US based company parent to multiple brands in the creative and software engineering industries.</p>
-  <p>The most significant brand we operate is <strong><a data-before="polyfen" href="https://polyfen.com" target="_blank" rel="follow">Polyfen</a></strong>. A fully-remote creative & software boutique offering design, marketing, and engineering services for US businesses.</p>
-    <p>Further information about the business can be found in our <a data-before="polyfen" href="/business">Business plan</a>.</p>
+  <p>The most significant brand we operate is <strong><a data-before="plfn" href="https://polyfen.com" target="_blank" rel="follow">Polyfen</a></strong>. A fully-remote creative & software boutique offering design, marketing, and engineering services for US businesses.</p>
+    <p>Further information about the business can be found in our <a data-before="plfn" href="/business">Business plan</a>.</p>
 <h3 id="industry-analysis" class="heading-2">2.2. Industry Analysis</h3>
 <h3 id="target-analysis" class="heading-2">2.3. Target Analysis</h3>
 <table class="buyer-persona" id="end-to-end-project">
