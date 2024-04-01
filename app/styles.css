@@ -603,7 +603,7 @@ nav.sub-sites {
 
 main.sub-sites {
     grid-area: main;
-    padding-top: 60px;
+    padding-top: 80px;
     margin-inline: unset;
     padding-right: 10px;
 }
