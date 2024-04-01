@@ -1,6 +1,6 @@
 <section id="projects-and-tasks">
     <h2 class="heading-1">6. Projects &amp; Tasks</h2>
-    <p>Asana and Clockify projects follow the convention <a data-emoji="anchor" href="#client-code">[Client Code]</a> › <a data-emoji="anchor" href="#project-type">[Project Type]</a>.</p>
+    <p>Asana and Clockify projects follow the convention<br> <a data-emoji="anchor" href="#client-code">[Client Code]</a> › <a data-emoji="anchor" href="#project-type">[Project Type]</a>.</p>
     
     <p>There are 5 stages in the workflow of any task.</p>
     <h3 class="heading-2" id="backlog">6.1. Backlog</h3>
@@ -13,7 +13,7 @@
         <li><strong>Time-bound</strong></li>
     </ul>
     <h3 class="heading-2" id="to-do">6.2. To Do</h3>
-    <p>All backlog tasks that were selected for the present <a data-emoji="anchor"> href="#sprints">Sprint</a>.</p>
+    <p>All backlog tasks that were selected for the present<br> <a data-emoji="anchor"> href="#sprints">Sprint</a>.</p>
     <h3 class="heading-2" id="in-progress">6.3. In Progress</h3>
     <p>One you start work on a specific task, the first thing to do is set its status as "In Progress" to let the rest of the team know what's being worked on.</p>
     <h3 class="heading-2" id="for-review">6.4. For Review</h3>

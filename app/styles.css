@@ -76,7 +76,8 @@ p a,
 li,
 p strong,
 p span,
-li strong {
+li strong,
+li span {
     font-family: 'freight-text-pro', serif;
 }
 
@@ -152,7 +153,7 @@ header nav {
 
 iframe {
     max-width: 100%;
-    
+
 }
 
 hr {
@@ -243,7 +244,7 @@ div#cookies-title a::before {
     content: none;
 }
  */
- 
+
 .current-page {
     opacity: 0.4;
 }
@@ -395,6 +396,7 @@ a:hover img.web-icon {
         padding: 15px 28px;
         border-radius: 200px;
     }
+
     .nav-links.position-fixed {
         top: 20px;
     }
@@ -406,6 +408,7 @@ a:hover img.web-icon {
         padding-top: unset;
 
     }
+
     .nav-links {
         display: none;
         position: fixed;
@@ -422,6 +425,7 @@ a:hover img.web-icon {
         font-weight: 700;
         background-color: #ecf0f37d;
     }
+
     .nav-buttons {
         padding: 7px 8px;
         border-radius: 18px;
@@ -456,13 +460,16 @@ a:hover img.web-icon {
     body:has(.nav-links.open-nav) {
         overflow: hidden;
     }
-    .nav-links.open-nav + .nav-buttons :is(.nav-hamburger) {
+
+    .nav-links.open-nav+.nav-buttons :is(.nav-hamburger) {
         display: none;
     }
-    .nav-links.open-nav + .nav-buttons :is(.nav-close) {
+
+    .nav-links.open-nav+.nav-buttons :is(.nav-close) {
         display: block;
     }
-    .nav-links.open-nav + .nav-buttons {
+
+    .nav-links.open-nav+.nav-buttons {
         background: none;
     }
 }
@@ -628,7 +635,7 @@ ul.toc {
 @media (min-width: 768px) {
     .sub-sites-container {
         justify-items: unset;
-        grid-template-columns: minmax(290px,400px) 1fr;
+        grid-template-columns: minmax(290px, 400px) 1fr;
         grid-template-rows: auto;
         grid-template-areas:
             'header main'
@@ -672,6 +679,7 @@ table.buyer-persona tr:hover th,
 table.buyer-persona tr:hover td p {
     color: black;
 }
+
 /* end table  */
 
 
@@ -719,7 +727,7 @@ div.color-swatch {
 }
 
 
- /* data icons => data-icon | data-emoji<⚓> | data-marker | data-before<span>
+/* data icons => data-icon | data-emoji<⚓> | data-marker | data-before<span>
 
 /* li icons for team-wiki */
 [data-icon="clockify"] {
@@ -764,9 +772,23 @@ div.color-swatch {
 
 /* data-types para poner EMOJIS en elementos (<span> || <a>)::before */
 
-[data-emoji="anchor"]::before {content: "⚓"; display: inline-block; text-decoration: none;}     
-[data-emoji="link"]::before {content: "🔗"; display: inline-block; text-decoration: none;}  
-[data-emoji="megaphone"]::before {content: "📣"; display: inline-block; text-decoration: none;}  
+[data-emoji="anchor"]::before {
+    content: "⚓";
+    display: inline-block;
+    text-decoration: none;
+}
+
+[data-emoji="link"]::before {
+    content: "🔗";
+    display: inline-block;
+    text-decoration: none;
+}
+
+[data-emoji="megaphone"]::before {
+    content: "📣";
+    display: inline-block;
+    text-decoration: none;
+}
 
 
 /* bullets icons for 4.2 channels on teamwiki */
@@ -778,57 +800,161 @@ div.color-swatch {
     /*data-marker="megaphone"*/
     content: "📣";
 }
+
 .wiki-team_messaging-general li:nth-of-type(2)::marker {
     content: "🙋";
 }
+
 .wiki-team_messaging-general li:nth-of-type(3)::marker {
     content: "🌴";
 }
+
 .wiki-team_messaging-general li:nth-of-type(4)::marker {
     content: "👨‍💻";
 }
+
 /*education*/
 .wiki-team_messaging-education li:nth-of-type(1)::marker {
     content: "🎨";
 }
+
 .wiki-team_messaging-education li:nth-of-type(2)::marker {
     content: "📐";
 }
 
-
- /* data-types para poner .SVG::before a elementos (<span> || <a>) */
- [data-before="plfn"]::before {
+/* DATA-BEFORE*/
+/* data-types para poner .SVG::before a elementos (<span> || <a>) */
+[data-before="plfn"]::before {
     content: "";
     display: inline-block;
     position: relative;
     top: 4px;
     text-decoration: none;
-    height:25px;
-    width:27px;
+    height: 25px;
+    width: 27px;
     background-size: contain;
     background-image: url(../imgs/icons/brand-icons/polyfen-icon.svg);
     background-repeat: no-repeat;
-  }
+}
 
-  [data-before="plkt"]::before {
+[data-before="plkt"]::before {
     content: "";
     display: inline-block;
     position: relative;
     text-decoration: none;
-    height:25px;
-    width:27px;
+    height: 25px;
+    width: 27px;
     background-size: contain;
     background-image: url(../imgs/icons/brand-icons/polykit-icon.svg);
     background-repeat: no-repeat;
 }
 
+[data-before="plqr"]::before {
+    content: "";
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    height: 25px;
+    width: 27px;
+    background-size: contain;
+    background-image: url(../imgs/icons/brand-icons/polyqwerty-icon.svg);
+    background-repeat: no-repeat;
+}
+
+[data-before="plat"]::before {
+    content: "";
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    height: 25px;
+    width: 27px;
+    background-size: contain;
+    background-image: url(../imgs/icons/brand-icons/polyatlas-icon.svg);
+    background-repeat: no-repeat;
+}
+
+[data-before="plck"]::before {
+    content: "";
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    height: 25px;
+    width: 27px;
+    background-size: contain;
+    background-image: url(../imgs/icons/brand-icons/polycookies-icon.svg);
+    background-repeat: no-repeat;
+}
+/* others */
+[data-before="github"]::before {
+    content: "";
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    height: 25px;
+    width: 27px;
+    background-size: contain;
+    background-image: url(../imgs/icons/bullets/github.svg);
+    background-repeat: no-repeat;
+}
+[data-before="slack"]::before {
+    content: "";
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    height: 25px;
+    width: 27px;
+    background-size: contain;
+    background-image: url(../imgs/icons/bullets/slack.svg);
+    background-repeat: no-repeat;
+}
+[data-before="wise"]::before {
+    content: "";
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    height: 25px;
+    width: 27px;
+    background-size: contain;
+    background-image: url(../imgs/icons/bullets/wise.svg);
+    background-repeat: no-repeat;
+}
+[data-before="drive"]::before {
+    content: "";
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    height: 25px;
+    width: 27px;
+    background-size: contain;
+    background-image: url(../imgs/icons/bullets/drive.svg);
+    background-repeat: no-repeat;
+}
+
+
 /* data-types para poner .SVG::marker en los <li> */
-[data-marker="plfn"] {list-style-image: url(../imgs/icons/brand-icons/polyfen-icon.svg);}
-[data-marker="plat"] {list-style-image: url(../imgs/icons/brand-icons/polyatlas-icon.svg);}
-[data-marker="plqr"] {list-style-image: url(../imgs/icons/brand-icons/polyqwerty-icon.svg);}
-[data-marker="plck"] {list-style-image: url(../imgs/icons/brand-icons/polycookies-icon.svg);}
-[data-marker="plkt"] {list-style-image: url(../imgs/icons/brand-icons/polykit-icon.svg);}
-[data-marker="plpr"] {list-style-image: url(../imgs/icons/brand-icons/polypress-icon.svg);}
+[data-marker="plfn"] {
+    list-style-image: url(../imgs/icons/brand-icons/polyfen-icon.svg);
+}
+
+[data-marker="plat"] {
+    list-style-image: url(../imgs/icons/brand-icons/polyatlas-icon.svg);
+}
+
+[data-marker="plqr"] {
+    list-style-image: url(../imgs/icons/brand-icons/polyqwerty-icon.svg);
+}
+
+[data-marker="plck"] {
+    list-style-image: url(../imgs/icons/brand-icons/polycookies-icon.svg);
+}
+
+[data-marker="plkt"] {
+    list-style-image: url(../imgs/icons/brand-icons/polykit-icon.svg);
+}
+
+[data-marker="plpr"] {
+    list-style-image: url(../imgs/icons/brand-icons/polypress-icon.svg);
+}
 
 
 /*************************** end sub-styles *************************************/
@@ -876,6 +1002,76 @@ a.screen figure:hover {
     box-shadow: 0 2px 6px #0908233b;
 }
 
+/*Accordion start*/
+/**/
+div.accordions-container {
+    padding-top: 2rem;
+}
+
+div.accordion {
+    /* border-bottom: 1px solid #7437f850; */
+    margin-bottom: 32px;
+}
+
+div.acc-button {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: black;
+}
+
+div.acc-button img {
+    margin-right: 10px;
+    margin-top: -6px;
+}
+
+.acc-button .heading-3 {
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+/**/
+.acc-panel {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+@media (min-width: 1024px) {
+    .acc-panel {
+        padding-left: 46px;
+    }
+}
+
+.acc-button {
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.acc-button:hover:after {
+    color: #7537f8
+}
+
+.acc-button:after {
+    content: '\002B';
+    margin-left: 4px;
+    margin-bottom: 12px;
+    font-size: 14px;
+}
+
+.acc-button.active:after {
+    content: "\2212";
+}
+
+/*Accordion end*/
 
 
- 
+/* Alambre */
+@media (min-width: 1200px) {
+    li a {
+        font-size: 22px;
+        font-family: 'freight-text-pro', serif;
+    }
+}
