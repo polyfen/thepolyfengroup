@@ -870,10 +870,12 @@ div.color-swatch {
 [data-before="drive"]::before {
     background-image: url(../imgs/icons/bullets/drive.svg);
 }
-
+[data-before="bh"]::before {
+    background-image: url(../imgs/icons/BH.svg);
+}
 
 /* data-types para poner .SVG 'as a ::marker' en los <li> */
-
+/* DATA-MARKER !!! */
 ul:has(li[data-marker]) {
     list-style: none;
 }
