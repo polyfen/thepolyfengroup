@@ -42,7 +42,7 @@
 -->
 
 <h4 class="heading-3">Brands</h4>
-<ul class="marker-before hanging-list">
+<ul class="hanging-list">
     <li data-marker="plfn"><strong>#polyfen</strong><br>
     All about <a href="https://polyfen.com" target="_blank">polyfen.com</a> | Creative &amp; Software Development Agency.</li>
     <li data-marker="plat"><strong>#poly-atlas</strong><br>
