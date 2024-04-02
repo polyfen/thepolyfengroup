@@ -10,7 +10,7 @@
 </ol>
 <h3 class="heading-2">4.2. Channels</h3>
 <h4 class="heading-3">General</h4>
-<ul class="wiki-team_messaging-general hanging-list arrow-bullet">
+<ul class="wiki-team_messaging-general hanging-list">
     <li><strong>#announcements</strong><br>
     Company highlights and workspace-wide updates.</li>
     <li><strong>#help</strong><br>
@@ -42,7 +42,7 @@
 -->
 
 <h4 class="heading-3">Brands</h4>
-<ul class="hanging-list arrow-bullet">
+<ul class="marker-before hanging-list">
     <li data-marker="plfn"><strong>#polyfen</strong><br>
     All about <a href="https://polyfen.com" target="_blank">polyfen.com</a> | Creative &amp; Software Development Agency.</li>
     <li data-marker="plat"><strong>#poly-atlas</strong><br>
@@ -56,7 +56,7 @@
 </ul>
 
 <h4 class="heading-3">Education</h4>
-<ul class="wiki-team_messaging-education hanging-list arrow-bullet">
+<ul class="wiki-team_messaging-education hanging-list">
     <li><strong>#design-education</strong><br>
     Typography, UX, UI, Motion, Branding.</li>
     <li><strong>#engineering-education</strong><br>

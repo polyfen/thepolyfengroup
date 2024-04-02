@@ -727,7 +727,7 @@ div.color-swatch {
 }
 
 
-/* data icons => data-icon | data-emoji<⚓> | data-marker | data-before<span>
+/* data icons => data-icon | data-emoji<⚓> | data-marker | data-before<span||a> */
 
 /* li icons for team-wiki */
 [data-icon="clockify"] {
@@ -791,13 +791,12 @@ div.color-swatch {
 }
 
 
-/* bullets icons for 4.2 channels on teamwiki */
+/* bullets markers for -"4.2 channels" on /teamwiki */
 
 /* li{list-style-type:"🌴" == li:market{content:"🌴" */
 
 /*general*/
 .wiki-team_messaging-general li:nth-of-type(1)::marker {
-    /*data-marker="megaphone"*/
     content: "📣";
 }
 
@@ -827,7 +826,7 @@ div.color-swatch {
 
 /* DATA-BEFORE*/
 /* data-types para poner .SVG::before a elementos (<span> || <a>) */
-[data-before="plfn"]::before {
+[data-before]::before {
     content: "";
     display: inline-block;
     position: relative;
@@ -836,127 +835,87 @@ div.color-swatch {
     height: 25px;
     width: 27px;
     background-size: contain;
-    background-image: url(../imgs/icons/brand-icons/polyfen-icon.svg);
     background-repeat: no-repeat;
+}
+
+[data-before="plfn"]::before {
+    background-image: url(../imgs/icons/brand-icons/polyfen-icon.svg);
 }
 
 [data-before="plkt"]::before {
-    content: "";
-    display: inline-block;
-    position: relative;
-    text-decoration: none;
-    height: 25px;
-    width: 27px;
-    background-size: contain;
     background-image: url(../imgs/icons/brand-icons/polykit-icon.svg);
-    background-repeat: no-repeat;
 }
 
 [data-before="plqr"]::before {
-    content: "";
-    display: inline-block;
-    position: relative;
-    text-decoration: none;
-    height: 25px;
-    width: 27px;
-    background-size: contain;
     background-image: url(../imgs/icons/brand-icons/polyqwerty-icon.svg);
-    background-repeat: no-repeat;
 }
 
 [data-before="plat"]::before {
-    content: "";
-    display: inline-block;
-    position: relative;
-    text-decoration: none;
-    height: 25px;
-    width: 27px;
-    background-size: contain;
     background-image: url(../imgs/icons/brand-icons/polyatlas-icon.svg);
-    background-repeat: no-repeat;
 }
 
 [data-before="plck"]::before {
-    content: "";
-    display: inline-block;
-    position: relative;
-    text-decoration: none;
-    height: 25px;
-    width: 27px;
-    background-size: contain;
     background-image: url(../imgs/icons/brand-icons/polycookies-icon.svg);
-    background-repeat: no-repeat;
 }
 /* others */
 [data-before="github"]::before {
-    content: "";
-    display: inline-block;
-    position: relative;
-    text-decoration: none;
-    height: 25px;
-    width: 27px;
-    background-size: contain;
     background-image: url(../imgs/icons/bullets/github.svg);
-    background-repeat: no-repeat;
 }
 [data-before="slack"]::before {
-    content: "";
-    display: inline-block;
-    position: relative;
-    text-decoration: none;
-    height: 25px;
-    width: 27px;
-    background-size: contain;
     background-image: url(../imgs/icons/bullets/slack.svg);
-    background-repeat: no-repeat;
 }
 [data-before="wise"]::before {
-    content: "";
-    display: inline-block;
-    position: relative;
-    text-decoration: none;
-    height: 25px;
-    width: 27px;
-    background-size: contain;
     background-image: url(../imgs/icons/bullets/wise.svg);
-    background-repeat: no-repeat;
 }
 [data-before="drive"]::before {
-    content: "";
-    display: inline-block;
+    background-image: url(../imgs/icons/bullets/drive.svg);
+}
+
+
+/* data-types para poner .SVG 'as a ::marker' en los <li> */
+/* requerimientos: class="marker-before" al <ul>*/
+
+ul.marker-before {
+    list-style: none;
+}
+ul.marker-before li {
     position: relative;
-    text-decoration: none;
+}
+
+[data-marker]::before {
+    content: "";
+    position: absolute;
+    top: 7px;
+    left: -30px;
     height: 25px;
     width: 27px;
+    text-decoration: none;
     background-size: contain;
-    background-image: url(../imgs/icons/bullets/drive.svg);
     background-repeat: no-repeat;
 }
 
-
-/* data-types para poner .SVG::marker en los <li> */
-[data-marker="plfn"] {
-    list-style-image: url(../imgs/icons/brand-icons/polyfen-icon.svg);
+[data-marker="plfn"]::before {
+    background-image: url(../imgs/icons/brand-icons/polyfen-icon.svg);
 }
 
-[data-marker="plat"] {
-    list-style-image: url(../imgs/icons/brand-icons/polyatlas-icon.svg);
+[data-marker="plat"]::before {
+    background-image: url(../imgs/icons/brand-icons/polyatlas-icon.svg);
 }
 
-[data-marker="plqr"] {
-    list-style-image: url(../imgs/icons/brand-icons/polyqwerty-icon.svg);
+[data-marker="plqr"]::before {
+    background-image: url(../imgs/icons/brand-icons/polyqwerty-icon.svg);
 }
 
-[data-marker="plck"] {
-    list-style-image: url(../imgs/icons/brand-icons/polycookies-icon.svg);
+[data-marker="plck"]::before {
+    background-image: url(../imgs/icons/brand-icons/polycookies-icon.svg);
 }
 
-[data-marker="plkt"] {
-    list-style-image: url(../imgs/icons/brand-icons/polykit-icon.svg);
+[data-marker="plkt"]::before {
+    background-image: url(../imgs/icons/brand-icons/polykit-icon.svg);
 }
 
-[data-marker="plpr"] {
-    list-style-image: url(../imgs/icons/brand-icons/polypress-icon.svg);
+[data-marker="plpr"]::before {
+    background-image: url(../imgs/icons/brand-icons/polypress-icon.svg);
 }
 
 
@@ -1074,7 +1033,8 @@ div.acc-button img {
 /* Alambre */
 @media (min-width: 1200px) {
     li a {
-        font-size: 22px;
+        font-size: 25px;
         font-family: 'freight-text-pro', serif;
     }
 }
+
