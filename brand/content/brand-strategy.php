@@ -51,4 +51,9 @@ This is how the team sometimes refers to the brand name internally.</p>
     <h4 class="heading-3">Create. Collaborate. Shine.</h4>
 </div>
 <p>Our Motto distills the spirit of our Purpose and Core Values into a few concrete words.</p>
+<h3 id="key-messages" class="heading-2">3.8. Key Messages</h3>
+<h4 id="key-messages" class="heading-3">3.8.1. Bios</h4>
+<p>Under 140 characters.</p>
+<h5 class="heading-4">Polyfen</h5>
+<p>Creative &amp; Software boutique offering design, marketing, and engineering services for US businesses.</p>
 </section>
