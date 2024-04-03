@@ -42,6 +42,11 @@ This is how the team sometimes refers to the brand name internally.</p>
 <img src="imgs/brand-architecture.png" alt="Brand Architecture" height="auto" width="100%">
 <h3 id="voice" class="heading-2">3.6. Voice</h3>
 <p>The content expressed by our brand must be informative and engaging, proactive in the design and development community with free and fully-accessible educational content in tutorials and open-source software.</p>
+<h4 id="newsletter" class="heading-3">3.6.1. Newsletter</h4>
+<p>The Newsletter is the holy grail of our content strategy. It allows us to focus on short-form content delivered directly to our subscribers in their inbox.</p>
+<p>Most Blogs out there demand a lot of resources to end up with a very long, elaborate, polished post, that none or very few people read in full. Our Newsletter prioritizes an efficient content creation workflow that results in easily degistible content published frequently and consistently.</p>
+<p>The content produced for the Newsletter is repurposed in two ways:</p>
+<p>(A) as Social Media posts in LinkedIn, and (B) kept in an online archive as a page in <a data-before="plfn" href="https://polyfen.com" target="_blank" rel="dofollow">Polyfen's</a> website.</p>
 <h3 id="motto" class="heading-2">3.7. Motto</h3>
 <div class="preview">
     <h4 class="heading-3">Create. Collaborate. Shine.</h4>
