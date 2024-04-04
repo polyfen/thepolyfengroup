@@ -8,7 +8,7 @@
     <h3 class="polyfen --sub-brand">
         <a href="https://polyfen.com" target="_blank" class="web-url" rel="dofollow">Polyfen<span></span></a>
     </h3>
-    <p>Creative &amp; Software boutique offering design, marketing, and engineering services for US businesses.</p>
+    <p>Creative &amp; software boutique empowering US businesses with design, marketing, and engineering services since 2018.</p>
     <a href="https://polyfen.com" target="_blank" class="links web-url" rel="dofollow"><img src="/imgs/icons/globe.svg"
             class="web-icon" alt="">polyfen.com</a>
 </section>
