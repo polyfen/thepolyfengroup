@@ -1040,3 +1040,9 @@ div.acc-button img {
     }
 }
 
+
+
+blockquote p {
+    font-style: italic;
+    text-align: left;
+}
