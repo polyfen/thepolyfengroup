@@ -8,5 +8,16 @@
 <h4 id="cover" class="heading-3">Cover</h4>
 <img src="imgs/social-media-cover.png" alt="">
 <h3 id="email-signature" class="heading-2">5.2. Email Signature</h3>
+<div class="preview">
+
+        <!-- INCLUDE OUR-BRANDS.PHP start -->
+        <?php include 'assets/email-signature.html';?>
+        <!-- INCLUDE OUR-BRANDS.PHP  end -->
+</div>
+<ul class="hanging-list">
+    <li>
+        <a href="assets/email-signature.html" target="_blank">email-signature.html</a>
+    </li>
+</ul>
 <h3 id="slides-template" class="heading-2">5.3. Slides Template</h3>
 </section>
