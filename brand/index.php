@@ -70,6 +70,12 @@
                         <li><a href="#pearls" class="caption">4.3.3. Pearls</a></li>
                     </ul>
                 </ul>
+                <li><a href="#brand-applications" class="caption">5. Brand Applications</a></li>
+                <ul>
+                        <li><a href="#social-media" class="caption">4.3.1. Social Media</a></li>
+                        <li><a href="#email-signature" class="caption">4.3.2. Email Signature</a></li>
+                        <li><a href="#slides-template" class="caption">4.3.3. Slides Template</a></li>
+                    </ul>
             </ul>
             <br><br>
     </nav>
@@ -102,6 +108,10 @@
         <hr>
         <!-- INCLUDE OUR-BRANDS.PHP start -->
         <?php include 'content/visual-identity.php';?>
+        <!-- INCLUDE OUR-BRANDS.PHP  end -->
+        <hr>
+        <!-- INCLUDE OUR-BRANDS.PHP start -->
+        <?php include 'content/brand-applications.php';?>
         <!-- INCLUDE OUR-BRANDS.PHP  end -->
         <hr>
     </main>
