@@ -24,7 +24,7 @@
             <img src="imgs/logo-family.png" style="max-height:160px; width:auto;">
         </figure>
     </div>
-    <h3 class="heading-2">4.2. Color scheme</h3>
+    <h3 id="color-scheme" class="heading-2">4.2. Color scheme</h3>
     <h4 class="heading-3">Accent color</h3>
         <div class="color-swatch-wrapper">
             <div class="color-swatch" style="background-color: #7E2EF5;color: white;">Indigo</div>
@@ -80,8 +80,8 @@
                     </div>
                 </div>
             </div>
-            <h3 class="heading-2">4.3. Visual Language</h3>
-            <h4 class="heading-3">Icons</h4>
+            <h3 id="visual-language" class="heading-2">4.3. Visual Language</h3>
+            <h4 id="icons" class="heading-3">Icons</h4>
             <figure>
                 <img src="imgs/icons.png" style="max-height:200px; width:auto;">
             </figure>
@@ -89,7 +89,7 @@
                 selected for our Brand, <a data-emoji="link" href="https://phosphoricons.com/" target="_blank">Phospor</a>.</p>
             <p>Phospor's line-icons are meant only for use at large sizes accross Polyfen's Brand, while for smaller
                 sizes the fill-icons are preferred to ensure accessible legibility.</p>
-            <h4 class="heading-3">Illustrations</h4>
+            <h4 id="illustrations" class="heading-3">Illustrations</h4>
             <figure>
                 <img src="imgs/illustrations-original.png" style="max-height:400px; width:auto;">
             </figure>
@@ -97,7 +97,7 @@
                     href="https://ui8.net/vectorly-space/products/retro-cartoon-illustrations" target="_blank">Retro
                     Dudes</a> set by <a data-emoji="link" href="https://ui8.net/vectorly-space/products"
                     target="_blank">Vectorly Space</a>.</p>
-            <h4 class="heading-3">Pearls</h4>
+            <h4 id="pearls" class="heading-3">Pearls</h4>
             <figure>
                 <img src="imgs/pearls.png" style="max-height:400px; width:auto;">
             </figure>
