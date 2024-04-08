@@ -48,6 +48,11 @@
                     <li><a href="#voice" class="caption">3.6. Voice</a></li>
                     <li><a href="#motto" class="caption">3.7. Motto</a></li>
                     <li><a href="#key-messages" class="caption">3.8. Key Messages</a></li>
+                    <ul>
+                        <li><a href="#tagline" class="caption">3.8.1. Tagline</a></li>
+                        <li><a href="#bio" class="caption">3.8.2. Bio</a></li>
+                        <li><a href="#extended-bio" class="caption">3.8.3. Extended Bio</a></li>
+                    </ul>
                 </ul>
                 <li><a href="#visual-identity" class="caption">4. Visual identity</a></li>
                 <ul>
