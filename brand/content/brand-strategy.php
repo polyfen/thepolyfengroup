@@ -52,19 +52,19 @@ This is how the team sometimes refers to the brand name internally.</p>
 </div>
 <p>Our Motto distills the spirit of our Purpose and Core Values into a few concrete words.</p>
 <h3 id="key-messages" class="heading-2">3.8. Key Messages</h3>
-<h4 id="tagline" class="heading-3">3.8.1. Tagline</h4>
+<h4 id="tagline" class="heading-3">Tagline</h4>
 <small class="caption">Under 30 characters<br><br></small>
 <h5 class="heading-4">Polyfen</h5>
 <div class="preview">
 <blockquote><p>Creative & Software Boutique</p></blockquote>
 </div>
-<h4 id="bio" class="heading-3">3.8.2. Bio</h4>
+<h4 id="bio" class="heading-3">Bio</h4>
 <small class="caption">Under 120 characters<br><br></small>
 <h5 class="heading-4">Polyfen</h5>
 <div class="preview">
 <blockquote><p>Creative & software boutique empowering US businesses with design, marketing, and engineering services since 2018.</p></blockquote>
 </div>
-<h4 id="extended-bio" class="heading-3">3.8.3. Extended Bio</h4>
+<h4 id="extended-bio" class="heading-3">Extended Bio</h4>
 <small class="caption">Under 3 paragraphs<br><br></small>
 <h5 class="heading-4">Polyfen</h5>
 <div class="preview">
