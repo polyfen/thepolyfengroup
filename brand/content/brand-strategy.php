@@ -13,7 +13,7 @@
 </ul>
 <h3 id="creative-concept" class="heading-2">3.2. Creative Concept</h3>
 <div class="preview">
-    <h4 class="heading-3 align-center" style="max-width:500px;margin:0 auto;padding-top:0;">Where business & creativity come together</h4>
+    <h4 class="heading-3 align-center" style="max-width:500px;margin:0 auto;padding-top:0;">Where business &amp; creativity come together</h4>
 </div>
 <p>Similar to the Keywords, but more expressive and distinctive, the Creative Concept is a word or phrase that represents the desired emotional response from the target public when interacting with the Brand.</p>
 <p>Unlike a Slogan, a Creative Concept is not necessarily developed for public use, although it can be used publicly. Its primary purpose is to be used internally as a mantra to guide the creative process when sketching a Logo, copywriting a slogan, designing an ad, or when developing any other type of Brand Communication. This ensures that all elements of the Brand will convey a consistent message.</p>
@@ -25,6 +25,7 @@
 <p>"Polyfen" is an abstraction of the term “Polyphenic trait”. A polyphenic trait is a genetic property that allows multiple observable variations on organisms of a single species.</p>
 <img src="imgs/shell-patterns.jpeg" alt="">
 <p>The different morphology and color patterns on the shells of mollusks, for instance, are a polyphenic trait.</p>
+<p>In the case of our brand, our name expresses the diversity of thought in the creative process.</p>
 <h4 id="name-architecture" class="heading-3">Name Architecture</h4>
 <p><strong>Legal Name:</strong><br>
 The Polyfen Group LLC<br/>
@@ -33,7 +34,7 @@ Preferred name for use on all official business documentation.</p>
 Polyfen<br/>
 Preferred name alternative.</p>
 <p><strong>Fallback Name:</strong><br>
-we are Polyfen<br/>
+The Polyfen Group<br/>
 Fallback alternative for brand touchpoints where the primary brand name is not available.</p>
 <p><strong>Diminutive Name:</strong><br/>
 TPG / Poly<br/>
