@@ -72,9 +72,13 @@
                 </ul>
                 <li><a href="#brand-applications" class="caption">5. Brand Applications</a></li>
                 <ul>
-                        <li><a href="#social-media" class="caption">4.3.1. Social Media</a></li>
-                        <li><a href="#email-signature" class="caption">4.3.2. Email Signature</a></li>
-                        <li><a href="#slides-template" class="caption">4.3.3. Slides Template</a></li>
+                    <li><a href="#social-media" class="caption">5.1. Social Media</a></li>
+                    <ul>
+                        <li><a href="#profile-picture" class="caption">5.1.1. Profile Picture</a></li>
+                        <li><a href="#cover" class="caption">5.1.2. Cover</a></li>
+                    </ul>
+                    <li><a href="#email-signature" class="caption">5.2. Email Signature</a></li>
+                    <li><a href="#slides-template" class="caption">5.3. Slides Template</a></li>
                     </ul>
             </ul>
             <br><br>
