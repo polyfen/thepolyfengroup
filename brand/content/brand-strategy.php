@@ -48,7 +48,7 @@ This is how the team sometimes refers to the brand name internally.</p>
 <p>The content produced for the Newsletter is repurposed in two ways. (A) as Social Media posts in LinkedIn, and (B) kept in an online archive as a page in <a data-before="plfn" href="https://polyfen.com" target="_blank" rel="dofollow">Polyfen's</a> website.</p>
 <h3 id="motto" class="heading-2">3.7. Motto</h3>
 <div class="preview">
-    <h4 class="heading-3">Create. Collaborate. Shine.</h4>
+    <h4 class="heading-3">Imagine. Build. Shine.</h4>
 </div>
 <p>Our Motto distills the spirit of our Purpose and Core Values into a few concrete words.</p>
 <h3 id="key-messages" class="heading-2">3.8. Key Messages</h3>
