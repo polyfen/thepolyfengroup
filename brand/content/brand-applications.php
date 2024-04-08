@@ -20,4 +20,10 @@
     </li>
 </ul>
 <h3 id="slides-template" class="heading-2">5.3. Slides Template</h3>
+<img src="imgs/slides-template.png" alt="">
+<ul class="hanging-list">
+    <li>
+    <a href="https://docs.google.com/presentation/d/1NKAwnisws1sQ19js8PiI-9oSwpZwxmyHNDDCuRRuzvo/edit?usp=sharing" target="_blank">SLIDES_PLFN_TEMPLATE</a>
+    </li>
+</ul>
 </section>
