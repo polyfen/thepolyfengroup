@@ -79,7 +79,15 @@
                     </ul>
                     <li><a href="#email-signature" class="caption">5.2. Email Signature</a></li>
                     <li><a href="#slides-template" class="caption">5.3. Slides Template</a></li>
-                    </ul>
+                </ul>
+                <li><a href="#web-guidelines" class="caption">6. Web Guidelines</a></li>
+                <ul>
+                    <li><a href="#info-architecture" class="caption">5.1. Info Architecture</a></li>
+                    <li><a href="#ux-writing" class="caption">5.2. UX Writing</a></li>
+                    <li><a href="#design-system" class="caption">5.3. Design System</a></li>
+                    <li><a href="#ui-design" class="caption">5.4. UI Design</a></li>
+                    <li><a href="#changelog" class="caption">5.5. Changelog</a></li>
+                </ul>
             </ul>
             <br><br>
     </nav>
@@ -116,6 +124,10 @@
         <hr>
         <!-- INCLUDE OUR-BRANDS.PHP start -->
         <?php include 'content/brand-applications.php';?>
+        <!-- INCLUDE OUR-BRANDS.PHP  end -->
+        <hr>
+        <!-- INCLUDE OUR-BRANDS.PHP start -->
+        <?php include 'content/web-guidelines.php';?>
         <!-- INCLUDE OUR-BRANDS.PHP  end -->
         <hr>
     </main>

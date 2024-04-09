@@ -1046,3 +1046,7 @@ blockquote p {
     font-style: italic;
     text-align: left;
 }
+
+span.data-span {
+    font-style: italic;
+}

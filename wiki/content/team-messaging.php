@@ -4,7 +4,7 @@
 <ol class="hanging-list">
     <li>Be respectful and considerate.</li>
     <li>Use appropriate channels. If you don't know where to post a message, then you can ask anyone for clarification via DM (direct message) 
-        or you can post your question in our <span data-before="slack">help channel</span>.</li>
+        or you can post your question in our <span data-before="slack" class="data-span">help</span> channel.</li>
     <li>When discussing times and dates be sure to clarify which timezone you're referring to.</li>
     <li>If you have any suggestions for our rules we encourage you to participate and let us know how we can make this better for everyone.</li>
 </ol>
