@@ -46,6 +46,9 @@
                     </ul>
                     <li><a href="#brand-architecture" class="caption">3.5. Brand architecture</a></li>
                     <li><a href="#voice" class="caption">3.6. Voice</a></li>
+                    <ul>
+                        <li><a href="#newsletter" class="caption">3.6.1. Newsletter</a></li>
+                    </ul>
                     <li><a href="#motto" class="caption">3.7. Motto</a></li>
                     <li><a href="#key-messages" class="caption">3.8. Key Messages</a></li>
                     <ul>
