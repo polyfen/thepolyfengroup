@@ -65,12 +65,18 @@
                         <li><a href="#logotype" class="caption">4.1.2. Logotype</a></li>
                         <li><a href="#family" class="caption">4.1.3. Family</a></li>
                     </ul>
-                    <li><a href="#color-scheme" class="caption">4.2. Color scheme</a></li>
-                    <li><a href="#visual-language" class="caption">4.3. Visual language</a></li>
+                    <li><a href="#typography" class="caption">4.2. Typography</a></li>
                     <ul>
-                        <li><a href="#icons" class="caption">4.3.1. Icons</a></li>
-                        <li><a href="#illustrations" class="caption">4.3.2. Illustrations</a></li>
-                        <li><a href="#pearls" class="caption">4.3.3. Pearls</a></li>
+                        <li><a href="#primary-selection" class="caption">4.2.1. Primary Selection</a></li>
+                        <li><a href="#secondary-selection" class="caption">4.2.2. Secondary Selection</a></li>
+                        <li><a href="#tertiary-selection" class="caption">4.2.3. Tertiary Selection</a></li>
+                    </ul>
+                    <li><a href="#color-scheme" class="caption">4.3. Color scheme</a></li>
+                    <li><a href="#visual-language" class="caption">4.4. Visual language</a></li>
+                    <ul>
+                        <li><a href="#icons" class="caption">4.4.1. Icons</a></li>
+                        <li><a href="#illustrations" class="caption">4.4.2. Illustrations</a></li>
+                        <li><a href="#pearls" class="caption">4.4.3. Pearls</a></li>
                     </ul>
                 </ul>
                 <li><a href="#brand-applications" class="caption">5. Brand Applications</a></li>
