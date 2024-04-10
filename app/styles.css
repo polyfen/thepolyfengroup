@@ -1050,3 +1050,8 @@ blockquote p {
 span.data-span {
     font-style: italic;
 }
+
+i {
+    font-family: 'freight-text-pro', serif;
+    font-style: italic;
+}
