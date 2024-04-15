@@ -1055,3 +1055,35 @@ i {
     font-family: 'freight-text-pro', serif;
     font-style: italic;
 }
+
+.preview.light-mode-signature {
+    background: white;
+}
+
+.preview.light-mode-signature .base-text {
+    color: #000000;
+}
+
+.preview.dark-mode-signature {
+    background: black;
+}
+
+.preview.preview.light-mode-signature #light-logo {
+    display: inline-block;
+}
+
+.preview.preview.light-mode-signature #dark-logo {
+    display: none;
+}
+
+.preview.dark-mode-signature .base-text {
+    color: #ffffff;
+}
+
+.preview.preview.dark-mode-signature #light-logo {
+    display: none;
+}
+
+.preview.preview.dark-mode-signature #dark-logo {
+    display: inline-block;
+}

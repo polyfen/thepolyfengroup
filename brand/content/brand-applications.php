@@ -8,7 +8,13 @@
 <h4 id="cover" class="heading-3">Cover</h4>
 <img src="imgs/social-media-cover.png" alt="">
 <h3 id="email-signature" class="heading-2">5.2. Email Signature</h3>
-<div class="preview">
+<div class="preview dark-mode-signature">
+
+        <!-- INCLUDE OUR-BRANDS.PHP start -->
+        <?php include 'assets/email-signature.html';?>
+        <!-- INCLUDE OUR-BRANDS.PHP  end -->
+</div>
+<div class="preview light-mode-signature">
 
         <!-- INCLUDE OUR-BRANDS.PHP start -->
         <?php include 'assets/email-signature.html';?>
