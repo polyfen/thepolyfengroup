@@ -8,7 +8,7 @@
 <h3 id="ux-writing" class="heading-2">6.2. UX Writing</h3>
 <img src="imgs/ux-writing.png" alt >
 <ul class="hanging-list">
-    <li data-icon="drive"><a href="https://docs.google.com/spreadsheets/d/1cycd_N_6O0twplZ8RzOInfYtivz9pSljgM6fdoaw6Nw/edit?usp=sharing" target="_blank">SHEET_PLFN_UX-Writing</a></li>
+    <li data-icon="drive"><a href="https://docs.google.com/spreadsheets/d/1DC6m8QdUMRYrjSU7E8Lto6vgDSX5ZI8H6imcBrAgtbU/edit?usp=sharing" target="_blank">SHEET_PLFN_UX-Writing</a></li>
 </ul>
 <h3 id="design-system" class="heading-2">6.3. Design System</h3>
 <img src="../imgs/sub-brands/polykit-screen.webp" alt>
