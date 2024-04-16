@@ -87,6 +87,10 @@
                         <li><a href="#cover" class="caption">5.1.2. Cover</a></li>
                     </ul>
                     <li><a href="#email-signature" class="caption">5.2. Email Signature</a></li>
+                    <ul>
+                        <li><a href="#partners" class="caption">5.2.1. Partners</a></li>
+                        <li><a href="#sales" class="caption">5.2.2. Sales</a></li>
+                    </ul>
                     <li><a href="#slides-template" class="caption">5.3. Slides Template</a></li>
                 </ul>
                 <li><a href="#web-guidelines" class="caption">6. Web Guidelines</a></li>

@@ -1068,22 +1068,6 @@ i {
     background: black;
 }
 
-.preview.preview.light-mode-signature #light-logo {
-    display: inline-block;
-}
-
-.preview.preview.light-mode-signature #dark-logo {
-    display: none;
-}
-
-.preview.dark-mode-signature .base-text {
+.preview.dark-mode-signature {
     color: #ffffff;
-}
-
-.preview.preview.dark-mode-signature #light-logo {
-    display: none;
-}
-
-.preview.preview.dark-mode-signature #dark-logo {
-    display: inline-block;
 }

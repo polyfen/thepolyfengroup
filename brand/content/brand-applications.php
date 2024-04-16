@@ -8,21 +8,40 @@
 <h4 id="cover" class="heading-3">Cover</h4>
 <img src="imgs/social-media-cover.png" alt="">
 <h3 id="email-signature" class="heading-2">5.2. Email Signature</h3>
+<h4 id="partners" class="heading-3">Partners</h4>
 <div class="preview light-mode-signature">
 
         <!-- INCLUDE OUR-BRANDS.PHP start -->
-        <?php include 'assets/email-signature.html';?>
+        <?php include 'assets/email-signatures/partners-email-signature.html';?>
         <!-- INCLUDE OUR-BRANDS.PHP  end -->
 </div>
 <div class="preview dark-mode-signature">
 
         <!-- INCLUDE OUR-BRANDS.PHP start -->
-        <?php include 'assets/email-signature.html';?>
+        <?php include 'assets/email-signatures/partners-email-signature.html';?>
         <!-- INCLUDE OUR-BRANDS.PHP  end -->
 </div>
 <ul class="hanging-list">
     <li>
-        <a href="assets/email-signature.html" target="_blank">email-signature.html</a>
+        <a href="assets/email-signatures/partners-email-signature.html" target="_blank">partners-email-signature.html</a>
+    </li>
+</ul>
+<h4 id="sales" class="heading-3">Sales</h4>
+<div class="preview light-mode-signature">
+
+        <!-- INCLUDE OUR-BRANDS.PHP start -->
+        <?php include 'assets/email-signatures/sales-email-signature.html';?>
+        <!-- INCLUDE OUR-BRANDS.PHP  end -->
+</div>
+<div class="preview dark-mode-signature">
+
+        <!-- INCLUDE OUR-BRANDS.PHP start -->
+        <?php include 'assets/email-signatures/sales-email-signature.html';?>
+        <!-- INCLUDE OUR-BRANDS.PHP  end -->
+</div>
+<ul class="hanging-list">
+    <li>
+        <a href="assets/email-signatures/sales-email-signature.html" target="_blank">sales-email-signature.html</a>
     </li>
 </ul>
 <h3 id="slides-template" class="heading-2">5.3. Slides Template</h3>
