@@ -22,9 +22,17 @@
 <h4 class="heading-3" id="image">Image</h4>
 <p>Start the email message with a cover image.</p>
 <ul class="hanging-list">
-    <li>1200px × 630px</li>
+    <li>Dimensions: 1200px × 630px</li>
+    <li>Format: JPG</li>
 </ul>
 <p>Example:</p>
 <img src="imgs/email-image-example.jpg">
 <h4 class="heading-3" id="body-text">Body Text</h4>
+<ul class="hanging-list">
+    <li>Ideally 3-5 paragraphs long.</li>
+</ul>
+<p>Example</p>
+<div class="preview">
+    <p style="text-align:left;">#</p>
+</div>
 </section>
