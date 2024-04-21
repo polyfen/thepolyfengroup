@@ -52,7 +52,7 @@ This is how the team sometimes refers to the brand name internally.</p>
         </figure>
     </div>
 <p style="margin-bottom:3rem;"><a href="https://www.nngroup.com/articles/tone-of-voice-dimensions/" target="_blank" data-emoji="link">The Four Dimensions of Tone — NN Group</a></p>
-<p>The Tone of our content should be casual and friendly, but not funny. It should also be enthusiastic and relatable.</p>
+<p>The Tone of our content should be casual and friendly, but not funny. It should also be enthusiastic and relatable. Concice and to-the-point. Easy to read and understand.</p>
 <div class="align-center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/OV5J6BfToSw?si=v_iAc-t6WJvEE3Lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
