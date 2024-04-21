@@ -102,6 +102,11 @@
                 <li><a href="#content-generation" class="caption">7. Content Generation</a></li>
                 <ul>
                     <li><a href="#newsletter" class="caption">7.1. Newsletter</a></li>
+                    <ul>
+                        <li><a href="#subject" class="caption">7.1.1. Subject</a></li>
+                        <li><a href="#image" class="caption">7.1.2. Image</a></li>
+                        <li><a href="#body-text" class="caption">7.1.3. Body Text</a></li>
+                    </ul>
                     <li><a href="#social-media" class="caption">7.2. Social Media</a></li>
                 </ul>
             </ul>
