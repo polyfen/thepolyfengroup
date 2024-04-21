@@ -24,5 +24,7 @@
 <ul class="hanging-list">
     <li>1200px × 630px</li>
 </ul>
+<p>Example:</p>
+<img src="imgs/email-image-example.jpg">
 <h4 class="heading-3" id="body-text">Body Text</h4>
 </section>
