@@ -42,7 +42,7 @@ This is how the team sometimes refers to the brand name internally.</p>
 <h3 id="brand-architecture" class="heading-2">3.5. Brand Architecture</h3>
 <img src="imgs/brand-architecture.png" alt="Brand Architecture" height="auto" width="100%">
 <h3 id="voice" class="heading-2">3.6. Voice</h3>
-<p>The content expressed by our brand must be informative and engaging, proactive in the design and development community with free and fully-accessible educational value.</p>
+<p>The content expressed by our Brand must be informative and engaging, proactive in the design and development community with free and fully-accessible educational value.</p>
 <p>The <a href="#newsletter" data-emoji="anchor">Newsletter</a> is the holy grail of our content strategy. It allows us to focus on short-form content delivered directly to our subscribers in their inbox, and then repurpose it for <a href="#social-media" data-emoji="anchor">Social Media</a>.</p>
 <p>Our Brand takes no part in conversations regarding politics, religion, or military conflicts.</p>
 <h3 id="tone" class="heading-2">3.7. Tone</h3>
