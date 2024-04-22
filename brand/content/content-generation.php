@@ -62,4 +62,5 @@
 <h4 class="heading-3" id="newsletter-design">Design</h4>
 <p>The design of the Newsletter template is purposefully as simple and clean as possible. It relies on color and typography to tie it in with our Brand Identity. All other aspects of the design should resemble a plain text email sent to you by a colleague. We must stay away from overly complex layouts and heavy use of visuals. Our Newsletter's strength lies in producing real, valuable content, sent to you by a person.</p>
 <img src="imgs/newsletter-design.png" alt="">
+<h3 id="social-media" class="heading-2">7.2. Social Media</h3>
 </section>
