@@ -106,6 +106,8 @@
                         <li><a href="#subject" class="caption">7.1.1. Subject</a></li>
                         <li><a href="#image" class="caption">7.1.2. Image</a></li>
                         <li><a href="#body-text" class="caption">7.1.3. Body Text</a></li>
+                        <li><a href="#newsletter-signature" class="caption">7.1.4. Signature</a></li>
+                        <li><a href="#newsletter-signature" class="caption">7.1.5. Design</a></li>
                     </ul>
                     <li><a href="#social-media" class="caption">7.2. Social Media</a></li>
                 </ul>
