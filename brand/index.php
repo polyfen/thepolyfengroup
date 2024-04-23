@@ -46,15 +46,13 @@
                     </ul>
                     <li><a href="#brand-architecture" class="caption">3.5. Brand architecture</a></li>
                     <li><a href="#voice" class="caption">3.6. Voice</a></li>
+                    <li><a href="#tone" class="caption">3.7. Tone</a></li>
+                    <li><a href="#motto" class="caption">3.8. Motto</a></li>
+                    <li><a href="#key-messages" class="caption">3.9. Key Messages</a></li>
                     <ul>
-                        <li><a href="#newsletter" class="caption">3.6.1. Newsletter</a></li>
-                    </ul>
-                    <li><a href="#motto" class="caption">3.7. Motto</a></li>
-                    <li><a href="#key-messages" class="caption">3.8. Key Messages</a></li>
-                    <ul>
-                        <li><a href="#tagline" class="caption">3.8.1. Tagline</a></li>
-                        <li><a href="#bio" class="caption">3.8.2. Bio</a></li>
-                        <li><a href="#extended-bio" class="caption">3.8.3. Extended Bio</a></li>
+                        <li><a href="#tagline" class="caption">3.9.1. Tagline</a></li>
+                        <li><a href="#bio" class="caption">3.9.2. Bio</a></li>
+                        <li><a href="#extended-bio" class="caption">3.9.3. Extended Bio</a></li>
                     </ul>
                 </ul>
                 <li><a href="#visual-identity" class="caption">4. Visual identity</a></li>
@@ -81,7 +79,7 @@
                 </ul>
                 <li><a href="#brand-applications" class="caption">5. Brand Applications</a></li>
                 <ul>
-                    <li><a href="#social-media" class="caption">5.1. Social Media</a></li>
+                    <li><a href="#social-profiles" class="caption">5.1. Social Profiles</a></li>
                     <ul>
                         <li><a href="#profile-picture" class="caption">5.1.1. Profile Picture</a></li>
                         <li><a href="#cover" class="caption">5.1.2. Cover</a></li>
@@ -95,11 +93,23 @@
                 </ul>
                 <li><a href="#web-guidelines" class="caption">6. Web Guidelines</a></li>
                 <ul>
-                    <li><a href="#info-architecture" class="caption">5.1. Info Architecture</a></li>
-                    <li><a href="#ux-writing" class="caption">5.2. UX Writing</a></li>
-                    <li><a href="#design-system" class="caption">5.3. Design System</a></li>
-                    <li><a href="#ui-design" class="caption">5.4. UI Design</a></li>
-                    <li><a href="#changelog" class="caption">5.5. Changelog</a></li>
+                    <li><a href="#info-architecture" class="caption">6.1. Info Architecture</a></li>
+                    <li><a href="#ux-writing" class="caption">6.2. UX Writing</a></li>
+                    <li><a href="#design-system" class="caption">6.3. Design System</a></li>
+                    <li><a href="#ui-design" class="caption">6.4. UI Design</a></li>
+                    <li><a href="#changelog" class="caption">6.5. Changelog</a></li>
+                </ul>
+                <li><a href="#content-generation" class="caption">7. Content Generation</a></li>
+                <ul>
+                    <li><a href="#newsletter" class="caption">7.1. Newsletter</a></li>
+                    <ul>
+                        <li><a href="#subject" class="caption">7.1.1. Subject</a></li>
+                        <li><a href="#image" class="caption">7.1.2. Image</a></li>
+                        <li><a href="#body-text" class="caption">7.1.3. Body Text</a></li>
+                        <li><a href="#newsletter-signature" class="caption">7.1.4. Signature</a></li>
+                        <li><a href="#newsletter-signature" class="caption">7.1.5. Design</a></li>
+                    </ul>
+                    <li><a href="#social-media" class="caption">7.2. Social Media</a></li>
                 </ul>
             </ul>
             <br><br>
@@ -141,6 +151,10 @@
         <hr>
         <!-- INCLUDE OUR-BRANDS.PHP start -->
         <?php include 'content/web-guidelines.php';?>
+        <!-- INCLUDE OUR-BRANDS.PHP  end -->
+        <hr>
+        <!-- INCLUDE OUR-BRANDS.PHP start -->
+        <?php include 'content/content-generation.php';?>
         <!-- INCLUDE OUR-BRANDS.PHP  end -->
         <hr>
     </main>

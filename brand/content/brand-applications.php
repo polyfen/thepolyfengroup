@@ -1,6 +1,6 @@
 <section id="brand-applications">
 <h2 class="heading-1">5. Brand Applications</h2>
-<h3 id="social-media" class="heading-2">5.1. Social Media</h3>
+<h3 id="social-profiles" class="heading-2">5.1. Social Profiles</h3>
 <h4 id="profile-picture" class="heading-3">Profile Picture</h4>
 <div class="preview">
 <img src="imgs/social-media-profile-picture.png" alt="">    
