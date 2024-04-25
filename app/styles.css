@@ -1037,3 +1037,16 @@ i {
 .preview.dark-mode-signature {
     color: #ffffff;
 }
+
+div.hello-social {
+    display: flex;
+    flex-direction: row;
+}
+
+div.hello-social small, div.hello-social a {
+    color: white;
+}
+
+div.hello-social a {
+    display: flex;
+}
