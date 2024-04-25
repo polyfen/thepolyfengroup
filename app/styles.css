@@ -1041,6 +1041,7 @@ i {
 div.hello-social {
     display: flex;
     flex-direction: row;
+    padding-top: 14px;
 }
 
 div.hello-social small, div.hello-social a {
