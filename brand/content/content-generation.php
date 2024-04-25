@@ -65,4 +65,35 @@
 <p>The design of the Newsletter template is purposefully as simple and clean as possible. It relies on color and typography to tie it in with our Brand Identity. All other aspects of the design should resemble a plain text email sent to you by a colleague. We must stay away from overly complex layouts and heavy use of visuals. Our Newsletter's strength lies in producing real, valuable content, sent to you by someone you know.</p>
 <img src="imgs/newsletter-design.png" alt="">
 <h3 id="social-media" class="heading-2">7.2. Social Media</h3>
+<p>100% of our Social Media efforts are focused on LinkedIn. We repurpose the content generated for the <a href="#newsletter" data-emoji="anchor">Newsletter</a> into LinkedIn posts with the addition of a link to the Newsletter subscription page and a PDF carousel.</p>
+<div class="preview">
+    <p style="text-align: left;text-style:italic;">📫 Sign up for our Newsletter today! 👉 <a href="https://polyfen.com/newsletter?utm_source=linkedin&utm_medium=social&utm_campaign=carousel" target="_blank">https://polyfen.com/newsletter?utm_source=linkedin&utm_medium=social&utm_campaign=carousel</a></p>
+</div>
+<p>Followed the signature with a series of Hashtags. Some popular Hashtags to consider are:</p>
+<ul class="hanging-list">
+    <li>#Innovation</li>
+    <li>#Management</li>
+    <li>#HumanResources</li>
+    <li>#DigitalMarketing</li>
+    <li>#Technology</li>
+    <li>#Creativity</li>
+    <li>#Entrepreneurship</li>
+    <li>#Careers</li>
+    <li>#Startups</li>
+    <li>#Marketing</li>
+    <li>#VentureCapital</li>
+</ul>
+<p>The post should include a PDF document summarizing the key points of the post.</p>
+<ul style="margin-bottom: 2rem;" class="hanging-list">
+    <li>Dimensions: 1080px × 1264px</li>
+    <li>Format: PDF<br><br></li>
+    <li data-icon="figma"><a href="https://www.figma.com/file/J2Qynwc2IJhyxcv8a7T8WL/Newsletter?type=design&node-id=25%3A146&mode=design&t=AQCSzKvgKI2rrYuF-1" target="_blank">Social | Figma</a></li>
+</ul>
+<div class="align-center">
+    <img src="imgs/social-pdf.png" alt="">
+</div>
+<p>The last page should echo the post's CTA leading users to our Newsletter subscription page.</p>
+<div class="align-center">
+    <img src="imgs/social-fin.png" alt="">
+</div>
 </section>
