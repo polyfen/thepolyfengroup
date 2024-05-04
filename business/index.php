@@ -47,7 +47,7 @@
                 <li><a href="#build" class="caption">5.1. Build</a></li>
                 <li><a href="#hire" class="caption">5.2. Hire</a></li>
             </ul>
-            <li><a href="#differential" class="caption">6. Differential</a></li>
+            <li><a href="#value-proposition" class="caption">6. Value Proposition</a></li>
             <ul>
                 <li><a href="#low-cost-high-value" class="caption">6.1. Low cost, High vlaue</a></li>
                 <li><a href="#wealth-of-experience" class="caption">6.2. Wealth of Experience</a></li>
@@ -57,7 +57,7 @@
                 <li><a href="#fast-track-kick-off" class="caption">6.6. Socially-cohesive Team</a></li>
                 <li><a href="#fast-track-kick-off" class="caption">6.7. Near-shore Availability</a></li>
             </ul>
-            <li><a href="#target" class="caption">7. Target</a></li>
+            <li><a href="#target-personas" class="caption">7. Target Personas</a></li>
             <br><br>
         </ul>
     </nav>
@@ -89,7 +89,7 @@
         <!-- INCLUDE OUR-VALUES.PHP end -->
         <hr>
         <!-- INCLUDE OUR-VALUES.PHP start -->
-        <?php include 'content/differential.php';?>
+        <?php include 'content/value-proposition.php';?>
         <!-- INCLUDE OUR-VALUES.PHP end -->
         <hr>
         <!-- INCLUDE OUR-VALUES.PHP start -->
