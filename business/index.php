@@ -57,7 +57,7 @@
                 <li><a href="#fast-track-kick-off" class="caption">6.6. Socially-cohesive Team</a></li>
                 <li><a href="#fast-track-kick-off" class="caption">6.7. Near-shore Availability</a></li>
             </ul>
-            <li><a href="#target-personas" class="caption">7. Target Personas</a></li>
+            <li><a href="#buyer-personas" class="caption">7. Buyer Personas</a></li>
             <br><br>
         </ul>
     </nav>

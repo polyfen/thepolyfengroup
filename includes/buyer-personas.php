@@ -3,7 +3,7 @@
         <th>
             <img src="../imgs/founder-frank.png" alt="" width="200px">
         </th>
-        <th colspan="2" class="uppercase">Target Persona No.1<br>Founder Frank</th>
+        <th colspan="2" class="uppercase">Buyer Persona No.1<br>Founder Frank</th>
     </tr>
     <tr>
         <th>Occupation</th>
