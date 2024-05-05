@@ -19,23 +19,29 @@
     </tr>
     <tr>
         <th>Bio</th>
-        <td><p>Frank has an Ivy League education and has 15+ years of experience in business. He was leading a business development team at Accenture, working on projects for Nike until, during the uncertain time of the Covid pandemic, he decided to make use of his gathered professional experience to start a venture of his own. He bootstrapped his initial efforts investing money from his own pocket into developing the MVP of a fintech app. He came up with a name for his company himself, he registered the web domain of the company, he posted a job on Upwork to get a quick logo done by a cheap designer, and he created his business' website himself on Squarespace. He reached out to a few close, like-minded, experienced colleagues with whom he has worked previously on other businesses and offered them to be a part of the team.</p></td>
+        <td><p>Frank has an Ivy League education and has 15+ years of experience in business. He was leading a business development team at Accenture, working on projects for Bank of America until, during the uncertain time of the Covid pandemic, he decided to make use of his gathered professional experience to start a venture of his own. He bootstrapped his initial efforts investing money from his own pocket into building an MVP of a fintech app with the aid of a couple of close colleagues. He came up with a name for the company himself, posted a job on Upwork to get a quick logo done by a cheap designer, and he built the website himself on Squarespace. Lastly, they put together a pitch deck and confirmed funding from an investor.</p></td>
     </tr>
     <tr>
         <th>Company Profile</th>
-        <td><p>Recently received Seed funding to scale their working MVP app into a high-revenue business.</p></td>
+        <td><p>Recently received Seed funding to scale their working MVP into a high-revenue business.</p></td>
     </tr>
     <tr>
-        <th>Problem</th>
-        <td><p>#</p></td>
+        <th>Problems</th>
+        <td><p>A. High costs of US talent<br>
+            B. Competing with other brands for market-share<br>
+            C. Complexity of design-development integration</p></td>
     </tr>
     <tr>
-        <th>Solution</th>
-        <td><p>#</p></td>
+        <th>Solutions</th>
+        <td><p>A. Near-shore outsourcing/staff augmentation<br>
+            B. Brand identity design<br>
+            C. Hiring leading-edge talent experienced in the latest tech and best practices of design-development integration</p></td>
     </tr>
     <tr>
-        <th>How will they measure success?</th>
-        <td><p>#</p></td>
+        <th>Definition of Success</th>
+        <td><p>A. Affordable design and development costs<br>
+            B. High conversion rate<br>
+            C. Quick time to market</p></td>
     </tr>
     <tr>
         <th>Brands they follow</th>
