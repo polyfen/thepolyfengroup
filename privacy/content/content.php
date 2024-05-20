@@ -169,5 +169,8 @@
 <p>We do not sell the Personal Information of our users.</p>
 <p>For more information about these rights, please contact us.</p>
 <hr>
-<h2 class="heading-1" id="contact-us">33. Contact Us</h2>
+<h2 class="heading-1" id="subscription-plans">33. Subscription Plans</h2>
+<p>We protect all data related to customers of our Subscription Plans following industry standards.</p>
+<hr>
+<h2 class="heading-1" id="contact-us">34. Contact Us</h2>
 <p>Don't hesitate to contact us if you have any questions via email to privacy@polyfen.com.</p>

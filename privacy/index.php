@@ -49,7 +49,8 @@
         <li><a href="#individual-data-subjects-rights" class="caption">30. Individual Data Subject's Rights</a></li>
         <li><a href="#california-residents" class="caption">31. California Residents</a></li>
         <li><a href="#california-online-privacy-protection-act" class="caption">32. California Online Privacy</a></li>
-        <li><a href="#contact-us" class="caption">33. Contact Us</a></li>
+        <li><a href="#subscription-plans" class="caption">33. Subscription Plans</a></li>
+        <li><a href="#contact-us" class="caption">34. Contact Us</a></li>
         <br><br>
       </ul>
     </nav>
