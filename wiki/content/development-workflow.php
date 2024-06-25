@@ -32,4 +32,21 @@
     <h3 class="heading-2"  id="changelog-update">11.3. ChangeLog Update</h3>
     <p>After completing a task, it's important to update the <a href="https://log.thepolyfengroup.com/" target="_blank" rel="dofollow">ChangeLog</a> with the implemented changes. This update should not include hotfixes or content updates.</p>
 
+    <h3 class="heading-2" id="plkt-release-checklist">11.4.PLKT Release Checklist</h3>
+    <h4 class="heading-3" id="release-checklist">11.4.1. Release Checklist</h4>
+    <ul class="hanging-list">
+        <li>Update version number in polykit.xyz hellobar</li>
+        <li>Merge version branch with 'main'</li>
+        <li>Update version number in CSS head script from affiliated sites (polyfen.com)</li>
+        <li>Test version update in affiliated files and make necessary adjustments<</li>
+        <li>Publish post in Changelog</li>
+    </ul>
+    <h4 class="heading-3" id="version-checklist">11.4.2. New Version Checklist</h4>
+    <ul class="hanging-list">
+        <li>Create new Git branch with version name</li>
+        <li>Rename central SCSS file (app/scss/polykit-v#.scss) with new version number</li>
+        <li>Update version number commented at the top of polykit-v#.scss (line 11)</li>
+        <li>Update file name of polykit-v#.scss in gulpfile.js</li>
+    </ul>
+
 </section>

@@ -53,6 +53,11 @@
                         <li><a href="#website-project-set-up" class="caption">11.1. Website Project Set-up</a></li>
                         <li><a href="#github-commits" class="caption">11.2. Github Commits</a></li>
                         <li><a href="#changelog-update" class="caption">11.3. Changelog Update</a></li>
+                        <li><a href="#plkt-release-checklist" class="caption">11.4. PLKT release checklist</a>
+                            <ul>
+                                <li><a href="#release-checklist" class="caption">11.4.1 New Release Checklist</li>
+                                <li><a href="#version-checklist" class="caption">11.4.2 New Version Checklist</a></li>
+                        </li>
                     </ul>
                 </li>
                 <li><a href="#accounting-workflow" class="caption">12. Accounting workflow</a></li>
