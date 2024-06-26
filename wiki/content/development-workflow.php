@@ -37,7 +37,7 @@
     <ul class="hanging-list">
         <li>Update version number in polykit.xyz hellobar</li>
         <li>Merge version branch with 'main'</li>
-        <li>Update version number in CSS head script from affiliated sites (polyfen.com)</li>
+        <li>Update version number in CSS head script from affiliated sites (polykit.xyz and polyfen.com)</li>
         <li>Test version update in affiliated files and make necessary adjustments<</li>
         <li>Publish post in Changelog</li>
     </ul>
