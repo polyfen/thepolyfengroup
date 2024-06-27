@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     let currentPage = window.location.pathname;
     /* console.log(currentPage); */
-    let navLinks = document.querySelectorAll('.hello-nav a');
+    let navLinks = document.querySelectorAll('.navbar a');
     navLinks.forEach(link => {
         /* console.log(link.getAttribute('href')); */
         if (link.getAttribute('href') === currentPage) {
@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 // planeo remplazar con sticky
-/* // hello-nav position  when scrolling down
+/* // navbar position  when scrolling down
 document.addEventListener('DOMContentLoaded', function () {
     let nav = document.querySelector("#navbar");
     let navHamb = document.querySelector('.nav-hamburger');

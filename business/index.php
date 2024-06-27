@@ -12,8 +12,8 @@
 
 <body>
     <!-- INCLUDE HELLO's start -->
-    <?php include '../includes/hello-social.php';?>
-    <?php include '../includes/hello-nav.php';?>
+    <?php include '../includes/hellobar.php';?>
+    <?php include '../includes/navbar.php';?>
     <!-- INCLUDE HELLO's end -->
     <div class="sub-sites-container">
     <nav id="navbar" class="sub-sites">
@@ -65,8 +65,8 @@
     <main class="sub-sites"> 
         <section class="cover">
             <img src="imgs/folder-illustration.svg" alt="Folder Illustration" height="200px" width="auto" >
-            <h1 class="title-2">Business Plan</h1>
-            <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
+            <hr>
+            <h1 class="title-1">Business Plan</h1>
         </section>
         <!-- INCLUDE OVERVIEW.PHP start -->
         <?php include 'content/overview.php';?>

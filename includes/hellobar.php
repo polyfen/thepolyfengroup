@@ -1,4 +1,4 @@
-<div class="hello-social"> <small>Follow us on ➞</small>
+<div class="hellobar"> <small>Follow us on ➞</small>
     <a href="http://polyfen.com/linkedin" target="_blank" title="Linkedin" class="icon-social">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
             <path
