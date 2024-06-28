@@ -1,8 +1,8 @@
 
 <!-- CSS General -->
-<link rel="stylesheet" href="https://polykit.xyz/app/css/polykit-v0-1.css" type="text/css">
-<link rel="stylesheet" href="../app/styles.css" type="text/css">
-<link rel="stylesheet" href="../app/docs-styles.css" type="text/css">
+<link rel="stylesheet" href="https://polykit.xyz/app/css/polykit-v0-3.css" type="text/css">
+<link rel="stylesheet" href="../app/styles-new.css" type="text/css">
+
 
 <!-- scripts -->
 <script defer src="../app/current-page.js"></script>

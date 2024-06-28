@@ -5,11 +5,8 @@
 <meta name="author"  content="The Polyfen Group LLC">
 
 <!-- CSS General -->
-<link rel="stylesheet" href="https://polykit.xyz/app/css/polykit-v0-1.css" type="text/css">
-<link rel="stylesheet" href="app/styles.css" type="text/css">
-<link rel="stylesheet" href="app/cookies.css" type="text/css">
-<script defer src="../app/docs-nav-v3.js"></script>
-<script defer src="../app/current-page.js"></script>
+<link rel="stylesheet" href="https://polykit.xyz/app/css/polykit-v0-3.css" type="text/css">
+<link rel="stylesheet" href="app/styles-new.css" type="text/css">
 
 <!-- FONTS -->
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&amp;display=swap" rel="stylesheet">

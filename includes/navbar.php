@@ -1,3 +1,4 @@
+<!--
 <nav class="navbar">
     <div class="nav-links">
         <a href="/">Home</a>
@@ -14,3 +15,4 @@
         </button>
     </div>
 </nav>
+-->
