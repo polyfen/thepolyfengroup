@@ -8,7 +8,7 @@
         <!-- INCLUDE HEAD.PHP end -->
     </head>
 
-    <body class="light-mode docs-theme">
+    <body class="light-mode docs-theme polyfen-site">
 
         <!-- INCLUDE HELLO's start -->
         <?php include '../includes/hellobar.php';?>
@@ -20,7 +20,7 @@
                 <a href="/" class="logo">
                     <img src="imgs/the-polyfen-group-logo.svg" alt="The Polyfen Group" height="40px" width="auto">
                 </a>
-                <h2 class="caption">Business Plan</h2>
+                <h2 class="caption uppercase">Business Plan</h2>
                 <ul class="table-of-contents">
                     <li><a href="#overview" class="caption">1. Overview</a></li>
                     <li><a href="#purpose" class="caption">2. Purpose</a></li>
@@ -64,9 +64,9 @@
             <main> 
                 <section class="cover">
                     <img src="imgs/folder-illustration.svg" alt="Folder Illustration" height="200px" width="auto" >
-                    <hr>
                     <h1 class="title-1">Business Plan</h1>
                 </section>
+                <hr>
                 <!-- INCLUDE OVERVIEW.PHP start -->
                 <?php include 'content/overview.php';?>
                 <!-- INCLUDE OVERVIEW.PHP end -->

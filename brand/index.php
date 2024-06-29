@@ -8,7 +8,7 @@
         <!-- INCLUDE HEAD.PHP end -->
     </head>
 
-    <body class="light-mode docs-theme">
+    <body class="light-mode docs-theme polyfen-site">
 
         <!-- INCLUDE HELLO's start -->
         <?php include '../includes/hellobar.php';?>
@@ -20,7 +20,7 @@
                 <a href="/" class="logo">
                     <img src="imgs/the-polyfen-group-logo.svg" alt="The Polyfen Group" height="40px" width="auto">
                 </a>
-                <h2 class="caption">Brand Guidelines</h2>
+                <h2 class="caption uppercase">Brand Guidelines</h2>
                     <ul class="table-of-contents">
                         <li><a href="#download-assets" class="caption">1. Download assets</a></li>
                         <li><a href="#market-research" class="caption">2. Market research</a></li>
