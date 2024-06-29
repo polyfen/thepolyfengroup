@@ -1,4 +1,4 @@
-<nav class="navbar">
+<nav class="hello-nav">
     <div class="nav-links">
         <a href="/">Home</a>
         <a href="/business/">Business Plan</a>

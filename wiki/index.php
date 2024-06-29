@@ -12,8 +12,8 @@
 
 <body>
     <!-- INCLUDE HELLO's start -->
-    <?php include '../includes/hellobar.php';?>
-    <?php include '../includes/navbar.php';?>
+    <?php include '../includes/hello-social.php';?>
+    <?php include '../includes/hello-nav.php';?>
     <!-- INCLUDE HELLO's end -->
 
     <div class="sub-sites-container">
@@ -66,9 +66,9 @@
         <main class="sub-sites">
             <section class="cover">
                 <img src="imgs/videogame-illustratrion.svg" alt="Videogame Illustration" height="200px" width="auto">
-                <h1 class="title-1">Team Wiki</h1>
+                <h1 class="title-2">Team Wiki</h1>
+                <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
             </section>
-            <hr>
             <!-- INCLUDE TECH-STACK.PHP start  -->
             <?php include 'content/tech-stack.php';?>
             <!-- INCLUDE TECH-STACK.PHP end -->

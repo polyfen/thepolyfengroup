@@ -1,6 +1,6 @@
 
 <!-- CSS General -->
-<link rel="stylesheet" href="https://polykit.xyz/app/css/polykit-v0-1.css" type="text/css">
+<link rel="stylesheet" href="https://polykit.xyz/polynucleus/polynucleus.css" type="text/css">
 <link rel="stylesheet" href="../app/styles.css" type="text/css">
 <link rel="stylesheet" href="../app/docs-styles.css" type="text/css">
 

@@ -1,6 +1,6 @@
 console.log("Soy el docs-nav-v3.js");
 
-/* eventListener para el navbar para manejar el display con clases */
+/* eventListener para el hello-nav para manejar el display con clases */
 
 const navOpener = document.querySelector('.nav-hamburger')
 const navCloser = document.querySelector('.nav-close')

@@ -1,4 +1,4 @@
-// navbar position  when scrolling down
+// hello-nav position  when scrolling down
 document.addEventListener('DOMContentLoaded', function () {
     let nav = document.querySelector("#navbar");
 

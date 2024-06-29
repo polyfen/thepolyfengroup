@@ -12,8 +12,8 @@
 
 <body>
     <!-- INCLUDE HELLO's start -->
-    <?php include '../includes/hellobar.php';?>
-    <?php include '../includes/navbar.php';?>
+    <?php include '../includes/hello-social.php';?>
+    <?php include '../includes/hello-nav.php';?>
     <!-- INCLUDE HELLO's end -->
     <div class="sub-sites-container">
     <nav id="navbar" class="sub-sites">
@@ -114,13 +114,21 @@
             </ul>
             <br><br>
     </nav>
-    
+<!--     <button aria-label="Open/Close navbar" class="hamburger">
+        <img src="imgs/icons/hamburger_icon.svg" alt="" height="30px" width="auto">
+    </button>
+    <button class="close">
+        <svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 24 24">
+            <path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="m16 16l-4-4m0 0L8 8m4 4l4-4m-4 4l-4 4" />
+        </svg>
+    </button> -->
     <main class="sub-sites"> 
         <section class="cover">
             <img src="imgs/lightbulb-illustration.svg" alt="Folder Illustration" height="250px" width="auto" >
-            <h1 class="title-1">Brand Guidelines</h1>
+            <h1 class="title-2">Brand Guidelines</h1>
+            <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
         </section>
-        <hr>
         <!-- INCLUDE OVERVIEW.PHP start -->
         <?php include 'content/download-assets.php';?>
         <!-- INCLUDE OVERVIEW.PHP end  -->

@@ -317,7 +317,7 @@ a:hover img.web-icon {
 /* The navigation bar ------------------ */
 
 /*reset agregado para buttons*/
-.navbar button {
+.hello-nav button {
     border: none;
     /* Elimina el borde por defecto */
     background: none;
@@ -335,7 +335,7 @@ a:hover img.web-icon {
 /* END reset agregado para buttons*/
 
 
-.navbar div {
+.hello-nav div {
     text-align: right;
 }
 
@@ -522,7 +522,7 @@ main.home .sub-brands-container hr:nth-last-of-type(-n+2) {
 /* end family-of-brands */
 
 /* hello social media */
-.hellobar {
+.hello-social {
     position: relative;
     width: 100%;
     display: flex;
@@ -536,8 +536,8 @@ main.home .sub-brands-container hr:nth-last-of-type(-n+2) {
 
 }
 
-.hellobar a::before,
-.navbar a::before,
+.hello-social a::before,
+.hello-nav a::before,
 .link-logo:hover::before {
     content: none;
 }
@@ -1038,16 +1038,16 @@ i {
     color: #ffffff;
 }
 
-div.hellobar {
+div.hello-social {
     display: flex;
     flex-direction: row;
     padding-top: 14px;
 }
 
-div.hellobar small, div.hellobar a {
+div.hello-social small, div.hello-social a {
     color: white;
 }
 
-div.hellobar a {
+div.hello-social a {
     display: flex;
 }
