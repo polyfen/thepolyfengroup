@@ -4,8 +4,11 @@
 <meta property="og:type" content="website">
 <meta name="author"  content="The Polyfen Group LLC">
 
-<!-- CSS General -->
+<!-- POLYKIT -->
 <link rel="stylesheet" href="https://polykit.xyz/app/css/polykit-v0-3.css" type="text/css">
+<script src="https://polykit.xyz/app/js/polykit-v0-3.js"></script>
+
+<!-- CSS Custom -->
 <link rel="stylesheet" href="app/styles-new.css" type="text/css">
 
 <!-- FONTS -->

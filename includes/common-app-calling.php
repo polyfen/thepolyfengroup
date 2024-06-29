@@ -1,12 +1,7 @@
 
-<!-- CSS General -->
+<!-- POLYKIT -->
 <link rel="stylesheet" href="https://polykit.xyz/app/css/polykit-v0-3.css" type="text/css">
-<link rel="stylesheet" href="../app/styles-new.css" type="text/css">
-
-
-<!-- scripts -->
-<script defer src="../app/current-page.js"></script>
-<script defer src="../app/docs-nav-v3.js"></script>
+<script src="https://polykit.xyz/app/js/polykit-v0-3.js"></script>
 
 <!-- FONTS -->
 <!--
