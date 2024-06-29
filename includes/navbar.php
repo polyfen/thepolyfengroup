@@ -1,5 +1,4 @@
-<!--
-<nav class="navbar">
+<nav>
     <div class="nav-links">
         <a href="/">Home</a>
         <a href="/business/">Business Plan</a>
@@ -15,4 +14,3 @@
         </button>
     </div>
 </nav>
--->
