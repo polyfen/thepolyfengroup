@@ -120,6 +120,8 @@
             </main>
         </div>
 
+        <script src="https://polykit.xyz/app/js/polykit-v0-3.js"></script>
+
     </body>
 
 </html>
