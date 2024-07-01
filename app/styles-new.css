@@ -9,12 +9,13 @@ header {
 /* HOME START */
 
 .home header {
-    position: relative;
-    top: 0;
+    position: absolute;
+    top: 60px;
     display: flex;
     padding: 20px;
     grid-area: header;
     flex-direction: column;
+    z-index: 900;
 }
 
 .home header img {
@@ -36,8 +37,18 @@ header {
 
 .home-cover {
     background: white;
-    padding-top: 40px;
+    padding-top: 220px;
+    padding-left: 20px;
     padding-bottom: 40px;
+}
+
+.home-cover h1 {
+    margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
+.home-cover {
+    padding-top: 40px;
     padding-left: 220px;
 }
 
@@ -49,10 +60,80 @@ header {
 .home-cover p {
     max-width: 490px;
 }
+}
+
+@media screen and (min-width: 1441px) {
+    .home-cover {
+        width: 100%;
+        padding-left: 0;
+    }
+    .home-cover h1, .home-cover p {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .sub-brands h2 {
+        text-align: center;
+    }
+}
 
 .sub-brands {
     margin-top: 80px;
 }
+
+.sub-brand {
+    display: grid;
+    grid-template-areas:
+        'logos'
+        'screens'
+        'texts'
+        'links';
+    gap: 2rem 3rem;
+}
+
+.sub-brand p {
+    margin-bottom: -1.5rem;
+}
+
+@media (min-width: 768px) {
+    .sub-brand {
+        grid-template-areas:
+        'screens logos'
+        'screens texts'
+        'screens links';
+        justify-content: start;
+    }
+}
+
+a.screen {
+    width: unset;
+}
+
+.sub-brand .screen {
+    grid-area: screens;
+}
+
+@media (min-width: 768px) {
+    .sub-brand .screen {
+        margin-top: unset;
+        aspect-ratio: 4 / 3;
+        width: 100%;
+        width: 299px;
+    }
+}
+
+a.screen figure {
+    border-radius: 6px 6px 4px 4px;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .2s ease-in-out;
+    transition: .2s ease-in-out;
+}
+
+img.window-frame {
+    min-width: calc(100%);
+}
+
 
 .polyfen a span {
     background: #ecf0f3 url(../imgs/sub-brands/polyfen-logo.svg) no-repeat left top;
