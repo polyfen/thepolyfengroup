@@ -56,10 +56,32 @@
 
     <main>
         <section class="home-cover">
-            <h1 class="title-1">We play with tech</h1>
-            <p>The Polyfen Group is a small company parent of multiple brands in the software development
-                and
-                the creative industries.</p>
+            <h1 class="title-1">We <span class="gradient-text">play</span><span class="gradient-text">build</span><span class="gradient-text">conquer</span><br>with tech</h1>
+            <style>
+                .gradient-text {
+                    display: none;
+                }
+
+                .gradient-text.active {
+                    display: inline;
+                }
+            </style>
+            <script>
+                var spans = document.getElementsByClassName('gradient-text');
+                var index = 0;
+
+                function showNextSpan() {
+                    for (var i = 0; i < spans.length; i++) {
+                        spans[i].classList.remove('active');
+                    }
+                    spans[index].classList.add('active');
+                    index = (index + 1) % spans.length;
+                }
+
+                setInterval(showNextSpan, 2000); // Change span every 2 seconds
+            </script>
+            <p>We own and operate multiple brands in the software
+                and creative industries.</p>
         </section>
         <section class="container sub-brands">
             <h2 class="heading-1">Family of Brands</h2>

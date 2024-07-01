@@ -29,13 +29,13 @@ header {
 
 @media (min-width: 768px) {
     .home header {
-        position: sticky;
+        position: fixed;
+        top: 60px;
     }
 }
 
 .home-cover {
-    background: white;;
-    margin-top: -200px;
+    background: white;
     padding-top: 40px;
     padding-bottom: 40px;
     padding-left: 220px;
@@ -83,3 +83,22 @@ header {
 }
 
 /* HOME END */
+
+.gradient-text {
+    background: linear-gradient(45deg,#722FFF,#4b00ae,#d12b94,#722FFF,#4b00ae);
+    background: -webkit-linear-gradient(45deg,#722FFF,#4b00ae,#d12b94,#722FFF,#4b00ae);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    background-size: 300% !important;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: animated_text 4s ease-in-out infinite;
+    -moz-animation: animated_text 4s ease-in-out infinite;
+    -webkit-animation: animated_text 4s ease-in-out infinite;
+}
+
+@keyframes animated_text {
+0% { background-position: 0px 50%; }
+50% { background-position: 100% 50%; }
+100% { background-position: 0px 50%; }} 
