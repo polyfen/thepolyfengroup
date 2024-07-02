@@ -1,0 +1,184 @@
+header {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+
+/* HOME START */
+
+.home header {
+    position: absolute;
+    top: 60px;
+    display: flex;
+    padding: 20px;
+    grid-area: header;
+    flex-direction: column;
+    z-index: 900;
+}
+
+.home header img {
+    width: 150px;
+    height: auto;
+}
+
+.home img#tpg-wordmark {
+    top: 23px;
+    position: absolute;
+}
+
+@media (min-width: 768px) {
+    .home header {
+        position: fixed;
+        top: 60px;
+    }
+}
+
+.home-cover {
+    background: white;
+    padding-top: 220px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+}
+
+.home-cover h1 {
+    margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
+.home-cover {
+    padding-top: 40px;
+    padding-left: 220px;
+}
+
+.home-cover h1 {
+    max-width: 900px;
+    margin-left: 0;
+}
+
+.home-cover p {
+    max-width: 490px;
+}
+}
+
+/*
+@media screen and (min-width: 1441px) {
+    .home-cover {
+        width: 100%;
+        padding-left: 0;
+    }
+    .home-cover h1, .home-cover p {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+    */
+
+.sub-brands {
+    margin-top: 80px;
+}
+
+.sub-brand {
+    display: grid;
+    grid-template-areas:
+        'logos'
+        'screens'
+        'texts'
+        'links';
+    gap: 2rem 3rem;
+}
+
+.sub-brand p {
+    margin-bottom: -1.5rem;
+}
+
+@media (min-width: 768px) {
+    .sub-brand {
+        grid-template-areas:
+        'screens logos'
+        'screens texts'
+        'screens links';
+        justify-content: start;
+    }
+}
+
+a.screen {
+    width: unset;
+}
+
+.sub-brand .screen {
+    grid-area: screens;
+}
+
+@media (min-width: 768px) {
+    .sub-brand .screen {
+        margin-top: unset;
+        aspect-ratio: 4 / 3;
+        width: 100%;
+        width: 299px;
+    }
+}
+
+a.screen figure {
+    border-radius: 6px 6px 4px 4px;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .2s ease-in-out;
+    transition: .2s ease-in-out;
+}
+
+img.window-frame {
+    min-width: calc(100%);
+}
+
+
+.polyfen a span {
+    background: #ecf0f3 url(../imgs/sub-brands/polyfen-logo.svg) no-repeat left top;
+}
+
+.polyatlas a span {
+    background: #ecf0f3 url(../imgs/sub-brands/poly-atlas-logo.svg) no-repeat left top;
+}
+
+.polycookies a span {
+    background: #ecf0f3 url(../imgs/sub-brands/poly-cookies-logo.svg) no-repeat left top;
+}
+
+.polyforum a span {
+    background: #ecf0f3 url(../imgs/sub-brands/poly-forum-logo.svg) no-repeat left top;
+}
+
+.polyqwerty a span {
+    background: #ecf0f3 url(../imgs/sub-brands/poly-qwerty-logo.svg) no-repeat left top;
+}
+
+.polykit a span {
+    background: #ecf0f3 url(../imgs/sub-brands/polykit-logo.svg) no-repeat left top;
+}
+
+.polypress a span {
+    background: #ecf0f3 url(../imgs/sub-brands/polypress-logo.svg) no-repeat left top;
+}
+
+/* HOME END */
+
+.gradient-text {
+    background: linear-gradient(45deg,#722FFF,#4b00ae,#d12b94,#722FFF,#4b00ae);
+    background: -webkit-linear-gradient(45deg,#722FFF,#4b00ae,#d12b94,#722FFF,#4b00ae);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    background-size: 300% !important;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: animated_text 4s ease-in-out infinite;
+    -moz-animation: animated_text 4s ease-in-out infinite;
+    -webkit-animation: animated_text 4s ease-in-out infinite;
+}
+
+@keyframes animated_text {
+0% { background-position: 0px 50%; }
+50% { background-position: 100% 50%; }
+100% { background-position: 0px 50%; }} 

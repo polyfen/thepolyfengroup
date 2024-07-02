@@ -36,38 +36,64 @@
     <!-- End Google Tag Manager -->
 </head>
 
-<body>
+<body class="light-mode polyfen-site home">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PBRK5MR5" height="0" width="0"
             style="display:none; visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
     <!-- INCLUDE HELLO's start -->
-    <?php include 'includes/hello-social.php';?>
-    <?php include 'includes/hello-nav.php';?>
+    <?php include 'includes/hellobar.php';?>
+    <?php include 'includes/navbar.php';?>
     <!-- INCLUDE HELLO's end -->
-    <div class="home-container">
-        <header class="home">
-            <!-- <div class="logo-container"> -->
-                <img src="imgs/the-polyfen-group-ideogram.svg" id="tpg-ideogram" alt="">
-                <img src="imgs/the-polyfen-group-wordmark.svg" id="tpg-wordmark" alt="">
-            <!-- </div> -->
-        </header>
-        <main class="home">
-            <section id="home-cover">
-                <h1 class="title-2">We explore new ways of using tech in creative projects.</h1>
-                <p>The Polyfen Group LLC is a small company parent of multiple brands related to software development
-                    and
-                    the creative industry.</p>
-            </section>
-            <section class="sub-brands-container">
-                <h2 class="heading-1">Family of Brands</h2>
-                <hr>
-                <?php include './includes/family-of-brands.php'; ?>
-                <hr>
-            </section>
-        </main>
-    </div>
+
+    <header>
+        <!-- <div class="logo-container"> -->
+            <img src="imgs/the-polyfen-group-ideogram.svg" id="tpg-ideogram" alt="">
+            <img src="imgs/the-polyfen-group-wordmark.svg" id="tpg-wordmark" alt="">
+        <!-- </div> -->
+    </header>
+
+    <main>
+        <section class="home-cover">
+            <h1 class="title-1">We <span class="gradient-text">play</span><span class="gradient-text">build</span><span class="gradient-text">conquer</span><br>with tech</h1>
+            <style>
+                .gradient-text {
+                    display: none;
+                }
+
+                .gradient-text.active {
+                    display: inline;
+                }
+            </style>
+            <script>
+                var spans = document.getElementsByClassName('gradient-text');
+                var index = 0;
+
+                function showNextSpan() {
+                    for (var i = 0; i < spans.length; i++) {
+                        spans[i].classList.remove('active');
+                    }
+                    spans[index].classList.add('active');
+                    index = (index + 1) % spans.length;
+                }
+
+                setInterval(showNextSpan, 2000); // Change span every 2 seconds
+            </script>
+            <p>We own and operate multiple services and products in the software
+                and creative industries.</p>
+        </section>
+        <section class="container sub-brands">
+            <h2 class="heading-1 align-center">Family of Brands</h2>
+            <hr>
+            <?php include './includes/family-of-brands.php'; ?>
+            <hr>
+        </section>
+    </main>
+
+    <script src="https://polykit.xyz/app/js/polykit-v0-3.js"></script>
+    <script src="app/scripts.js"></script>
+
 </body>
 
 </html>
