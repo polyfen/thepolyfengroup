@@ -84,7 +84,7 @@
                 and creative industries.</p>
         </section>
         <section class="container sub-brands">
-            <h2 class="heading-1">Family of Brands</h2>
+            <h2 class="heading-1 align-center">Family of Brands</h2>
             <hr>
             <?php include './includes/family-of-brands.php'; ?>
             <hr>
@@ -92,6 +92,7 @@
     </main>
 
     <script src="https://polykit.xyz/app/js/polykit-v0-3.js"></script>
+    <script src="app/scripts.js"></script>
 
 </body>
 
