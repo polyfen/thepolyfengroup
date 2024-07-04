@@ -44,7 +44,6 @@
 
     <!-- INCLUDE HELLO's start -->
     <?php include 'includes/hellobar.php';?>
-    <?php include 'includes/navbar.php';?>
     <!-- INCLUDE HELLO's end -->
 
     <header>
@@ -52,6 +51,7 @@
             <img src="imgs/the-polyfen-group-ideogram.svg" id="tpg-ideogram" alt="">
             <img src="imgs/the-polyfen-group-wordmark.svg" id="tpg-wordmark" alt="">
         <!-- </div> -->
+        <?php include 'includes/navbar.php';?>
     </header>
 
     <main>
