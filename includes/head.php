@@ -5,7 +5,7 @@
 <meta name="author"  content="The Polyfen Group LLC">
 
 <!-- POLYKIT -->
-<link rel="stylesheet" href="https://polykit.xyz/app/css/polykit-v0-3.css?v=2" type="text/css">
+<link rel="stylesheet" href="https://polykit.xyz/app/css/polykit-v0-4.css?v=2" type="text/css">
 
 <!-- CSS Custom -->
 <link rel="stylesheet" href="app/styles-new.css" type="text/css">
