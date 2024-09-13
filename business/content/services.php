@@ -56,13 +56,13 @@
     <table>
         <tr>
             <th></th>
-            <th>Dev</th>
-            <th>UX</th>
-            <th>Design</th>
-            <th>Devops</th>
+            <th class="align-right">Dev</th>
+            <th class="align-right">UX</th>
+            <th class="align-right">Design</th>
+            <th class="align-right">Devops</th>
         </tr>
         <tr>
-            <th>Senior</th>
+            <th class="align-left">Senior</th>
             <td class="align-right">
                 $65/hr
             </td>
@@ -77,7 +77,7 @@
             </td>
         </tr>
         <tr>
-            <th>Mid-Senior</th>
+            <th class="align-left">Mid-Senior</th>
             <td class="align-right">
                 $35/hr
             </td>
