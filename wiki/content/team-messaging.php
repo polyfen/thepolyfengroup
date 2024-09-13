@@ -10,7 +10,7 @@
 </ol>
 <h3 class="heading-2">3.2. Channels</h3>
 <h4 class="heading-3">General</h4>
-<ul class="wiki-team_messaging-general hanging-list">
+<ul class="wiki-team_messaging-general hanging-list emoji-marker">
     <li><strong>#announcements</strong><br>
     Company highlights and workspace-wide updates.</li>
     <li><strong>#help</strong><br>
@@ -22,24 +22,6 @@
     <li><strong>#changelog</strong><br>
     Product development updates about all our brands, sites, and projects. | <a href="https://log.thepolyfengroup.com" target="_blank" rel="nofollow">log.thepolyfengroup.com</a></li>
 </ul>
-
-<!--
-<p style="margin-bottom: 0;"><strong>Departments:</strong></p>
-<ul class="hanging-list arrow-bullet">
-    <li><strong>#administrative</strong><br>
-    💼 Project management, HR, accounting.</li>
-    <li><strong>#business</strong><br>
-    💰 Everything regarding our sales and growth strategy.</li>
-    <li><strong>#design</strong><br>
-    🎨 000</li>
-    <li><strong>#marketing</strong><br>
-    📈 000</li>
-    <li><strong>#engineering</strong><br>
-    📐 000</li>
-    <li><strong>#board</strong><br>
-     000</li>
-</ul>
--->
 
 <h4 class="heading-3">Brands</h4>
 <ul class="hanging-list">
@@ -56,7 +38,7 @@
 </ul>
 
 <h4 class="heading-3">Education</h4>
-<ul class="wiki-team_messaging-education hanging-list">
+<ul class="wiki-team_messaging-education hanging-list emoji-marker">
     <li><strong>#design-education</strong><br>
     Typography, UX, UI, Motion, Branding.</li>
     <li><strong>#engineering-education</strong><br>
