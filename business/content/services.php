@@ -42,7 +42,7 @@
         </tr>
     </table>
 
-    <h3 id="hire" class="heading-2">5.2. Staff Augmentation (hourly billing)</h3>
+    <h3 id="hire" class="heading-2">5.2. Staff Augmentation <span class="font-weight-400 italic">(hourly billing)</span></h3>
     <h4 class="heading-3">Sr UX Designer</h4>
     <h4 class="heading-4">$45/hr</h4>
     <h4 class="heading-3">Sr Software Engineer</h4>
@@ -50,7 +50,7 @@
     <h4 class="heading-3">Sr Scrum Master</h4>
     <h4 class="heading-4">$35/hr</h4>
 
-    <h3 id="build" class="heading-2">5.3. Delivery Team (fixed-price project)</h3>
+    <h3 id="build" class="heading-2">5.3. Delivery Team <span class="font-weight-400 italic">(fixed-price project)</span></h3>
         <h4 class="heading-3">Brand Identity</h4>
         <h5 class="heading-4">$7,600</h5>
         <h5 class="heading-4">2-6 weeks</h5>
