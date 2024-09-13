@@ -3,7 +3,7 @@
         <th>
             <img src="../imgs/founder-frank.png" alt="" width="200px">
         </th>
-        <th colspan="2" class="uppercase">Buyer Persona [A]<br>Business-Leader Bruno</th>
+        <th colspan="2" class="uppercase">Buyer Persona [A]<br>Tech-Leader Travis</th>
     </tr>
     <tr>
         <th class="align-left">Occupation</th>
@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <th class="align-left">Bio</th>
-        <td><p>Bruno has an Ivy League education and has 15+ years of experience in business. He was leading a bizdev team at Accenture, working on projects for Bank of America until, during the uncertain time of the Covid pandemic, he decided to make use of his gathered professional experience to start a venture of his own. He bootstrapped his initial efforts investing money from his own pocket into building an MVP of a fintech app with the aid of a couple of close colleagues. He came up with a name for the company himself, posted a job on Upwork to get a quick logo done by a cheap designer, and he built the website himself on Squarespace. Lastly, they put together a pitch deck and secured funding from an investor. Now they need to level-up their product.</p></td>
+        <td><p>Travis has an Ivy League education and has 15+ years of experience in business. He was leading a bizdev team at Accenture, working on projects for Bank of America until, during the uncertain time of the Covid pandemic, he decided to make use of his gathered professional experience to start a venture of his own. He bootstrapped his initial efforts investing money from his own pocket into building an MVP of a fintech app with the aid of a couple of close colleagues. He came up with a name for the company himself, posted a job on Upwork to get a quick logo done by a cheap designer, and he built the website himself on Squarespace. Lastly, they put together a pitch deck and secured funding from an investor. Now they need to level-up their product.</p></td>
     </tr>
     <tr>
         <th class="align-left">Company Profile</th>
