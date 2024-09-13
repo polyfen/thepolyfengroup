@@ -31,10 +31,11 @@
                         <li><a href="#exploration" class="caption">3.3. Exploration</a></li>
                         <li><a href="#flexibility" class="caption">3.4. Flexibility</a></li>
                     </ul>
-                    <li><a href="#services" class="caption">5. Services</a></li>
+                    <li><a href="#services" class="caption">4. Services</a></li>
                     <ul>
-                        <li><a href="#build" class="caption">5.1. Build</a></li>
-                        <li><a href="#hire" class="caption">5.2. Hire</a></li>
+                        <li><a href="#subscribe" class="caption">4.1. Subscribe</a></li>
+                        <li><a href="#hire" class="caption">4.2. Hire</a></li>
+                        <li><a href="#build" class="caption">4.3. Build</a></li>
                     </ul>
                     <li><a href="#value-proposition" class="caption">6. Value Proposition</a></li>
                     <ul>

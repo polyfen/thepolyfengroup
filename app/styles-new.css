@@ -196,3 +196,7 @@ th {
     font-weight: 700 !important;
     font-variation-settings: 'wght' 700 !important;
 }
+
+.business-plan-page .window-frame {
+    margin-bottom: -5px;
+}

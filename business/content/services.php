@@ -1,8 +1,8 @@
 <section id="services">
-    <h2 class="heading-1">5. Services</h2>
+    <h2 class="heading-1">4. Services</h2>
     <p>These are the Services we offer through our primary brand, <a data-before="plfn" href="https://polyfen.com">Polyfen</a>.</p>
     <hr class="small-separator">
-    <h3 id="hire" class="heading-2">5.1. Subscribe <span class="font-weight-400 italic">(monthly billing)</span></h3>
+    <h3 id="subscribe" class="heading-2">4.1. Subscribe <span class="font-weight-400 italic">(monthly billing)</span></h3>
     <table>
         <tr>
             <th>Starter</th>
@@ -52,7 +52,7 @@
         </tr>
     </table>
     <hr class="small-separator">
-    <h3 id="hire" class="heading-2">5.2. Hire <span class="font-weight-400 italic">(hourly billing)</span></h3>
+    <h3 id="hire" class="heading-2">4.2. Hire <span class="font-weight-400 italic">(hourly billing)</span></h3>
     <table>
         <tr>
             <th></th>
@@ -92,7 +92,7 @@
         </tr>
     </table>
     <hr class="small-separator">
-    <h3 id="build" class="heading-2">5.3. Build <span class="font-weight-400 italic">(fixed-price project)</span></h3>
+    <h3 id="build" class="heading-2">4.3. Build <span class="font-weight-400 italic">(fixed-price project)</span></h3>
     <table>
         <tr>
             <th>Brand</th>

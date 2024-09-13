@@ -1,7 +1,6 @@
 <section id="family-of-brands">
     <h2 class="heading-1">4. Family of Brands</h2>
-    <p>Our Family of Brands answers to the "What?" in Simon Sinek's equation. An array of products, services, and other
-        ventures all leveraging the marketing synergy and resources of The Polyfen Group as a parent brand.</p>
+    <p>Our Family of Brands answers to the "What?" in Simon Sinek's formula. An array of products, services, and ventures all leveraging the marketing synergy and resources of The Polyfen Group as a parent brand.</p>
     <div class="preview">
         <figure>
             <img src="../brand/imgs/logo-family.png" style="max-height:160px; width:auto;">
