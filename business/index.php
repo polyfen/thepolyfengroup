@@ -81,10 +81,6 @@
                 <?php include 'content/value-proposition.php';?>
                 <!-- INCLUDE OUR-VALUES.PHP end -->
                 <hr>
-                <!-- INCLUDE OUR-VALUES.PHP start -->
-                <?php include 'content/brands.php';?>
-                <!-- INCLUDE OUR-VALUES.PHP end -->
-                <hr>
             </main>
         </div>
         
