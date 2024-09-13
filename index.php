@@ -84,8 +84,7 @@
                 and creative industries.</p>
         </section>
         <section class="container sub-brands">
-            <h2 class="heading-1 align-center">Family of Brands</h2>
-            <hr>
+            <h2 class="heading-1 align-center margin-bottom-4">Family of Brands</h2>
             <?php include './includes/family-of-brands.php'; ?>
             <hr>
         </section>
