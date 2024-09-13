@@ -55,7 +55,7 @@
                     <img src="imgs/folder-illustration.svg" alt="Folder Illustration" height="200px" width="auto" >
                     <h1 class="title-1">Business Plan</h1>
                 </section>
-                <hr>
+                <hr class="small-separator">
                 <!-- INCLUDE OVERVIEW.PHP start -->
                 <?php include 'content/overview.php';?>
                 <!-- INCLUDE OVERVIEW.PHP end -->

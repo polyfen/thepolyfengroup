@@ -120,7 +120,7 @@
                     <img src="imgs/lightbulb-illustration.svg" alt="Folder Illustration" height="250px" width="auto" >
                     <h1 class="title-1">Brand Guidelines</h1>
                 </section>
-                <hr>
+                <hr class="small-separator">
                 <!-- INCLUDE OVERVIEW.PHP start -->
                 <?php include 'content/download-assets.php';?>
                 <!-- INCLUDE OVERVIEW.PHP end  -->

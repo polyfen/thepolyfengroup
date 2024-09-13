@@ -68,7 +68,7 @@
                     <img src="imgs/videogame-illustratrion.svg" alt="Videogame Illustration" height="200px" width="auto">
                     <h1 class="title-1">Team Wiki</h1>
                 </section>
-                <hr>
+                <hr class="small-separator">
                 <!-- INCLUDE TECH-STACK.PHP start  -->
                 <?php include 'content/tech-stack.php';?>
                 <!-- INCLUDE TECH-STACK.PHP end -->
