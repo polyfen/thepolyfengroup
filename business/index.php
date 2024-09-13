@@ -37,6 +37,7 @@
                         <li><a href="#hire" class="caption">4.2. Hire</a></li>
                         <li><a href="#build" class="caption">4.3. Build</a></li>
                     </ul>
+                    <li><a href="#buyer-personas" class="caption">5. Buyer Personas</a></li>
                     <li><a href="#value-proposition" class="caption">6. Value Proposition</a></li>
                     <ul>
                         <li><a href="#low-cost-high-value" class="caption">6.1. Low cost, High vlaue</a></li>
@@ -47,8 +48,6 @@
                         <li><a href="#fast-track-kick-off" class="caption">6.6. Socially-cohesive Team</a></li>
                         <li><a href="#fast-track-kick-off" class="caption">6.7. Near-shore Availability</a></li>
                     </ul>
-                    <li><a href="#buyer-personas" class="caption">7. Buyer Personas</a></li>
-                    <br><br>
                 </ul>
             </aside>
 

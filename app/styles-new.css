@@ -200,3 +200,8 @@ th {
 .business-plan-page .window-frame {
     margin-bottom: -5px;
 }
+
+.business-plan-page #buyer-personas table th, .business-plan-page #buyer-personas table td {
+    vertical-align: top;
+    padding-top: 24px;
+}
