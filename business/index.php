@@ -40,13 +40,12 @@
                     <li><a href="#buyer-personas" class="caption">5. Buyer Personas</a></li>
                     <li><a href="#value-proposition" class="caption">6. Value Proposition</a></li>
                     <ul>
-                        <li><a href="#low-cost-high-value" class="caption">6.1. Low cost, High vlaue</a></li>
-                        <li><a href="#wealth-of-experience" class="caption">6.2. Wealth of Experience</a></li>
-                        <li><a href="#high-performance" class="caption">6.3. High-Performance</a></li>
-                        <li><a href="#end-to-end-service" class="caption">6.4. End-to-End Service</a></li>
-                        <li><a href="#fast-track-kick-off" class="caption">6.5. Fast-track Kick-off</a></li>
-                        <li><a href="#fast-track-kick-off" class="caption">6.6. Socially-cohesive Team</a></li>
-                        <li><a href="#fast-track-kick-off" class="caption">6.7. Near-shore Availability</a></li>
+                        <li><a href="#low-cost-high-value" class="caption">6.1. Low cost, high value</a></li>
+                        <li><a href="#owner-managed" class="caption">6.2. Owner-managed</a></li>
+                        <li><a href="#end-to-end-service" class="caption">6.3. End-to-End service</a></li>
+                        <li><a href="#fast-track-kick-off" class="caption">6.4. Fast-track kick-off</a></li>
+                        <li><a href="#top-tier-talent" class="caption">6.5. Top-tier talent</a></li>
+                        <li><a href="#near-shore-availability" class="caption">6.6. Near-shore availability</a></li>
                     </ul>
                 </ul>
             </aside>
