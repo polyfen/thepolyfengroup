@@ -8,7 +8,7 @@
         <!-- INCLUDE HEAD.PHP end -->
     </head>
 
-    <body class="light-mode docs-theme polyfen-site">
+    <body class="light-mode docs-theme polyfen-site business-plan-page">
 
         <!-- INCLUDE HELLO's start -->
         <?php include '../includes/hellobar.php';?>

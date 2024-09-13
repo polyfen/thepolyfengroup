@@ -181,4 +181,18 @@ img.window-frame {
 @keyframes animated_text {
 0% { background-position: 0px 50%; }
 50% { background-position: 100% 50%; }
-100% { background-position: 0px 50%; }} 
+100% { background-position: 0px 50%; }}
+
+.business-plan-page #services td {
+    width: 33%;
+    vertical-align: top;
+}
+
+.business-plan-page #services td {
+    width: 20%;
+}
+
+th {
+    font-weight: 700 !important;
+    font-variation-settings: 'wght' 700 !important;
+}

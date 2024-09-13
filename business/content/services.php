@@ -2,12 +2,22 @@
     <h2 class="heading-1">5. Services</h2>
     <p>These are the Services we offer through our primary brand, <a data-before="plfn" href="https://polyfen.com">Polyfen</a>.</p>
     <hr class="small-separator">
-    <h3 id="hire" class="heading-2">5.1. Subscribptions <span class="font-weight-400 italic">(monthly billing)</span></h3>
+    <h3 id="hire" class="heading-2">5.1. Subscribe <span class="font-weight-400 italic">(monthly billing)</span></h3>
     <table>
         <tr>
             <th>Starter</th>
             <th>Pro</th>
             <th>Custom</th>
+        </tr>
+        <tr>
+            <th>$4.917/Month</th>
+            <th>$8.945/Month</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20% Off/Quarterly</th>
+            <th>20% Off/Quarterly</th>
+            <th></th>
         </tr>
         <tr>
             <td>
@@ -41,117 +51,109 @@
             </td>
         </tr>
     </table>
-
-    <h3 id="hire" class="heading-2">5.2. Staff Augmentation <span class="font-weight-400 italic">(hourly billing)</span></h3>
-    <h4 class="heading-3">Sr UX Designer</h4>
-    <h4 class="heading-4">$45/hr</h4>
-    <h4 class="heading-3">Sr Software Engineer</h4>
-    <h4 class="heading-4">$45/hr</h4>
-    <h4 class="heading-3">Sr Scrum Master</h4>
-    <h4 class="heading-4">$35/hr</h4>
-
-    <h3 id="build" class="heading-2">5.3. Delivery Team <span class="font-weight-400 italic">(fixed-price project)</span></h3>
-        <h4 class="heading-3">Brand Identity</h4>
-        <h5 class="heading-4">$7,600</h5>
-        <h5 class="heading-4">2-6 weeks</h5>
-        <div class="accordion">
-                <div class="acc-button">
-                    <h6 class="caption">Learn more</h6>
-                </div>
-                <div class="acc-panel">
-                    <ul class="hanging-list arrow-bullet">
-                        <li>Brand audit</li>
-                        <li>Market research</li>
-                        <li>Brand strategy</li>
-                        <li>Visual Discovery</li>
-                        <li>Typography selection</li>
-                        <li>Color scheme</li>
-                        <li>Logo system</li>
-                        <li>Iconography selection</li>
-                        <li>Illustrations selection</li>
-                        <li>Social media profiles</li>
-                        <li>Brand guidelines</li>
-                    </ul>
-                </div>
-            </div>
-        <h4 class="heading-3">Institutional Website</h4>
-        <h5 class="heading-4">$7,800</h5>
-        <h5 class="heading-4">3-6 weeks</h5>
-        <div class="accordion">
-                <div class="acc-button">
-                    <h6 class="caption">Learn more</h6>
-                </div>
-                <div class="acc-panel">
-                    <ul class="hanging-list arrow-bullet">
-                        <li>SEO audit</li>
-                        <li>UX audit</li>
-                        <li>Info architecture</li>
-                        <li>UX writing</li>
-                        <li>UI styleguide</li>
-                        <li>UI design</li>
-                        <li>Accessibility checklist</li>
-                        <li>Programming</li>
-                        <li>W3C &amp; WACCAG Conformity</li>
-                        <li>GDPR &amp; Privacy Protection Compliance</li>
-                        <li>QA</li>
-                        <li>Deployment</li>
-                        <li>Walkthrough</li>
-                    </ul>
-                </div>
-            </div>
-        <h4 class="heading-3">Web/Mobile App</h4>
-        <h5 class="heading-4">$39,000</h5>
-        <h5 class="heading-4">4-6 months</h5>
-        <div class="accordion">
-                <div class="acc-button">
-                    <h6 class="caption">Learn more</h6>
-                </div>
-                <div class="acc-panel">
-                    <ul>
-                        <li>Discovery Phase
-                            <ul>
-                                <li>Initial consultation</li>
-                                <li>Requirement gathering</li>
-                                <li>User stories/Use case development</li>
-                                <li>Project kickoff meeting</li>
-                            </ul>
-                        </li>
-                        <li>Design Phase
-                            <ul>
-                                <li>Wireframing</li>
-                                <li>User interface (UI) design</li>
-                                <li>User experience (UX) design</li>
-                                <li>Prototyping</li>
-                                <li>Iterative design reviews</li>
-                            </ul>
-                        </li>
-                        <li>Development Phase
-                            <ul>
-                                <li>Frontend development</li>
-                                <li>Backend development</li>
-                                <li>Database design and development</li>
-                                <li>Integration of third-party APIs</li>
-                                <li>Continuous integration/Continuous deployment (CI/CD) setup</li>
-                            </ul>
-                        </li>
-                        <li>Testing Phase
-                            <ul>
-                                <li>Unit testing</li>
-                                <li>Integration testing</li>
-                                <li>User acceptance testing (UAT)</li>
-                                <li>Bug fixing and issue resolution</li>
-                            </ul>
-                        </li>
-                        <li>Deployment Phase
-                            <ul>
-                                <li>Deployment planning</li>
-                                <li>Server setup and configuration</li>
-                                <li>App deployment to production environment</li>
-                                <li>Post-deployment testing</li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+    <hr class="small-separator">
+    <h3 id="hire" class="heading-2">5.2. Hire <span class="font-weight-400 italic">(hourly billing)</span></h3>
+    <table>
+        <tr>
+            <th></th>
+            <th>Dev</th>
+            <th>UX</th>
+            <th>Design</th>
+            <th>Devops</th>
+        </tr>
+        <tr>
+            <th>Senior</th>
+            <td class="align-right">
+                $65/hr
+            </td>
+            <td class="align-right">
+                $65/hr
+            </td>
+            <td class="align-right">
+                $65/hr
+            </td>
+            <td class="align-right">
+                $90/hr
+            </td>
+        </tr>
+        <tr>
+            <th>Mid-Senior</th>
+            <td class="align-right">
+                $35/hr
+            </td>
+            <td class="align-right">
+                $35/hr
+            </td>
+            <td class="align-right">
+                $35/hr
+            </td>
+            <td>
+            </td>
+        </tr>
+    </table>
+    <hr class="small-separator">
+    <h3 id="build" class="heading-2">5.3. Build <span class="font-weight-400 italic">(fixed-price project)</span></h3>
+    <table>
+        <tr>
+            <th>Brand</th>
+            <th>Web</th>
+            <th>App</th>
+        </tr>
+        <tr>
+            <th>&ge; $7.600</th>
+            <th>&ge; $7.800</th>
+            <th>&ge; $39.000</th>
+        </tr>
+        <tr>
+            <th>3-8 weeks</th>
+            <th>4-12 weeks</th>
+            <th>3-6 months</th>
+        </tr>
+        <tr>
+            <td>
+                <ul class="hanging-list checkmark-bullet">
+                    <li>Brand audit</li>
+                    <li>Market research</li>
+                    <li>Brand strategy</li>
+                    <li>Visual Discovery</li>
+                    <li>Typography selection</li>
+                    <li>Color scheme</li>
+                    <li>Logo system</li>
+                    <li>Iconography selection</li>
+                    <li>Illustrations selection</li>
+                    <li>Social media profiles</li>
+                    <li>Brand guidelines</li>
+                </ul>
+            </td>
+            <td>
+                <ul class="hanging-list checkmark-bullet">
+                    <li>Information architecture</li>
+                    <li>UX writing</li>
+                    <li>UI styleguide</li>
+                    <li>UI design</li>
+                    <li>Accessibility checklist</li>
+                    <li>Coding</li>
+                    <li>W3C &amp; WACCAG Compliance</li>
+                    <li>GDPR &amp; Privacy Protection Compliance</li>
+                    <li>QA</li>
+                    <li>Deployment</li>
+                </ul>
+            </td>
+            <td>
+                <ul class="hanging-list checkmark-bullet">
+                    <li>Discovery</li>
+                    <li>User stories</li>
+                    <li>UI concept</li>
+                    <li>Styleguide</li>
+                    <li>Information architecture</li>
+                    <li>UX Writing</li>
+                    <li>UI Design</li>
+                    <li>Frontend & Backend Development</li>
+                    <li>QA</li>
+                    <li>Deployment</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
 </section>
 
