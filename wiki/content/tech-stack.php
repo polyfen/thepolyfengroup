@@ -4,19 +4,20 @@
     <li data-icon="slack"><a href="https://polyfen.slack.com" target="_blank">Slack</a></li>
     <li data-icon="atlassian"><a href="https://www.atlassian.com/" target="_blank">Atlassian</a></li>
     <ul class="margin-bottom-0">
-        <li data-icon="asana"><a href="https://www.atlassian.com/software/jira" target="_blank">Jira</a></li>
-        <li data-icon="asana"><a href="https://www.atlassian.com/software/confluence" target="_blank">Confluence</a></li>
-        <li data-icon="asana"><a href="https://trello.com/" target="_blank">Trello</a></li>
+        <li data-icon="jira"><a href="https://www.atlassian.com/software/jira" target="_blank">Jira</a></li>
+        <li data-icon="confluence"><a href="https://www.atlassian.com/software/confluence" target="_blank">Confluence</a></li>
+        <li data-icon="trello"><a href="https://trello.com/" target="_blank">Trello</a></li>
     </ul>
     <li data-icon="google"><a href="https://workspace.google.com" target="_blank">Google Workspace</a></li>
     <ul class="margin-bottom-0">
-        <li data-icon="docs"><a href="https://admin.google.com" target="_blank">Admin Console</a></li>
+        <li data-icon="admin"><a href="https://admin.google.com" target="_blank">Admin</a></li>
+        <li data-icon="gmail"><a href="https://mail.google.com" target="_blank">Gmail</a></li>
+        <li data-icon="meet"><a href="https://drive.google.com" target="_blank">Meet</a></li>
+        <li data-icon="calendar"><a href="https://drive.google.com" target="_blank">Calendar</a></li>
+        <li data-icon="drive"><a href="https://drive.google.com" target="_blank">Drive</a></li>
         <li data-icon="docs"><a href="https://drive.google.com" target="_blank">Docs</a></li>
         <li data-icon="sheets"><a href="https://drive.google.com" target="_blank">Sheets</a></li>
         <li data-icon="slides"><a href="https://drive.google.com" target="_blank">Slides</a></li>
-        <li data-icon="drive"><a href="https://drive.google.com" target="_blank">Drive</a></li>
-        <li data-icon="meet"><a href="https://drive.google.com" target="_blank">Meet</a></li>
-        <li data-icon="calendar"><a href="https://drive.google.com" target="_blank">Calendar</a></li>
     </ul>
     <li data-icon="clockify"><a href="https://app.clockify.me/login" target="_blank">Clockify</a></li>
     <li data-icon="1password"><a href="https://1password.polyfen.com" target="_blank">1Password</a></li>
