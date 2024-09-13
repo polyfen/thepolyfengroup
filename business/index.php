@@ -26,20 +26,10 @@
                     <li><a href="#purpose" class="caption">2. Purpose</a></li>
                     <li><a href="#core-values" class="caption">3. Core Values</a></li>
                     <ul>
-                        <li><a href="#education" class="caption">3.1. Education</a></li>
+                        <li><a href="#transparency" class="caption">3.1. Transparency</a></li>
                         <li><a href="#collaboration" class="caption">3.2. Collaboration</a></li>
-                        <li><a href="#flexibility" class="caption">3.3. Flexibility</a></li>
-                        <li><a href="#transparency" class="caption">3.4. Transparency</a></li>
-                    </ul>
-                    <li><a href="#family-of-brands" class="caption">4. Family of Brands</a></li>
-                    <ul>
-                        <li><a href="#polyfen" class="caption">4.1. Polyfen</a></li>
-                        <li><a href="#polyatlas" class="caption">4.2. Poly Atlas</a></li>
-                        <li><a href="#polycookies" class="caption">4.3. Poly Cookies</a></li>
-                        <li><a href="#polyqwerty" class="caption">4.4. Poly Qwerty</a></li>
-                        <li><a href="#polykit" class="caption">4.5. Polykit</a></li>
-                        <li><a href="#polypress" class="caption">4.6. Polypress</a></li>
-                        <li><a href="#polyforum" class="caption">4.7. Poly Forum</a></li>
+                        <li><a href="#exploration" class="caption">3.3. Exploration</a></li>
+                        <li><a href="#flexibility" class="caption">3.4. Flexibility</a></li>
                     </ul>
                     <li><a href="#services" class="caption">5. Services</a></li>
                     <ul>
@@ -80,11 +70,11 @@
                 <!-- INCLUDE OUR-GOAL.PHP end -->
                 <hr>
                 <!-- INCLUDE OUR-VALUES.PHP start -->
-                <?php include 'content/brands.php';?>
+                <?php include 'content/services.php';?>
                 <!-- INCLUDE OUR-VALUES.PHP end -->
                 <hr>
                 <!-- INCLUDE OUR-VALUES.PHP start -->
-                <?php include 'content/services.php';?>
+                <?php include 'content/brands.php';?>
                 <!-- INCLUDE OUR-VALUES.PHP end -->
                 <hr>
                 <!-- INCLUDE OUR-VALUES.PHP start -->
