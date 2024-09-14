@@ -26,13 +26,7 @@
                         <li><a href="#market-research" class="caption">2. Market research</a></li>
                         <ul>
                             <li><a href="#business-analysis" class="caption">2.1. Business overview</a></li>
-                            <li><a href="#industry-analysis" class="caption">2.2. Industry analysis</a></li>
-                            <li><a href="#target-analysis" class="caption">2.3. Target analysis</a></li>
-                            <ul>
-                                <li><a href="#end-to-end-project" class="caption">End-to-end project</a></li>
-                                <li><a href="#executive-consulting" class="caption">Executive consulting</a></li>
-                                <li><a href="#staff-augmentation" class="caption">Staff augmentation</a></li>
-                            </ul>
+                            <li><a href="#target-analysis" class="caption">2.2. Buyer personas</a></li>
                         </ul>
                         <li><a href="#brand-strategy" class="caption">3. Brand strategy</a></li>
                         <ul>
@@ -47,7 +41,7 @@
                             <li><a href="#brand-architecture" class="caption">3.5. Brand architecture</a></li>
                             <li><a href="#voice" class="caption">3.6. Voice</a></li>
                             <li><a href="#tone" class="caption">3.7. Tone</a></li>
-                            <li><a href="#motto" class="caption">3.8. Motto</a></li>
+                            <li><a href="#tagline" class="caption">3.8. Tagline</a></li>
                             <li><a href="#key-messages" class="caption">3.9. Key Messages</a></li>
                             <ul>
                                 <li><a href="#tagline" class="caption">Tagline</a></li>

@@ -56,7 +56,7 @@
 
     <main>
         <section class="home-cover">
-            <h1 class="title-1">We <span class="gradient-text">play</span><span class="gradient-text">build</span><span class="gradient-text">conquer</span><br>with tech</h1>
+            <h1 class="title-1">Where design & development click</h1>
             <style>
                 .gradient-text {
                     display: none;
