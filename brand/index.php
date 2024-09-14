@@ -71,7 +71,7 @@
                                 <li><a href="#pearls" class="caption">Pearls</a></li>
                             </ul>
                         </ul>
-                        <li><a href="#brand-applications" class="caption">5. Brand Applications</a></li>
+                        <li><a href="#brand-touchpoints" class="caption">5. Brand Touchpoints</a></li>
                         <ul>
                             <li><a href="#social-profiles" class="caption">5.1. Social Profiles</a></li>
                             <ul>

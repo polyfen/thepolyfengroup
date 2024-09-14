@@ -64,6 +64,7 @@
 <h4 class="heading-3" id="newsletter-design">Design</h4>
 <p>The design of the Newsletter template is purposefully as simple and clean as possible. It relies on color and typography to tie it in with our Brand Identity. All other aspects of the design should resemble a plain text email sent to you by a colleague. We must stay away from overly complex layouts and heavy use of visuals. Our Newsletter's strength lies in producing real, valuable content, sent to you by someone you know.</p>
 <img src="imgs/newsletter-design.png" alt="">
+<hr class="small-separator">
 <h3 id="social-media" class="heading-2">7.2. Social Media</h3>
 <p>100% of our Social Media efforts are focused on LinkedIn. We repurpose the content generated for the <a href="#newsletter" data-emoji="anchor">Newsletter</a> into LinkedIn posts with the addition of a link to the Newsletter subscription page and a PDF carousel.</p>
 <div class="preview">

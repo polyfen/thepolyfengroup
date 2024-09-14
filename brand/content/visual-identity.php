@@ -24,6 +24,7 @@
             <img src="imgs/logo-family.png" style="max-height:160px; width:auto;">
         </figure>
     </div>
+    <hr class="small-separator">
     <h3 id="typography" class="heading-2">4.2. Typography</h3>
     <h4 id="primary-selection" class="heading-3">Primary Selection</h3>
     <div class="preview">
@@ -60,6 +61,7 @@
     </div>
     <p>The last bastion of our typographic identity falls back to font files present universally in all operating systems. The most common use for the Tertiary Selection is in email clients, since they only support system fonts.</p>
     <p>If the font files from the Primary or Secondary selections are not available you should fallback to Verdana.</p>
+    <hr class="small-separator">
     <h3 id="color-scheme" class="heading-2">4.3. Color scheme</h3>
     <h4 class="heading-3">Accent color</h3>
         <div class="color-swatch-wrapper">
@@ -116,6 +118,7 @@
                     </div>
                 </div>
             </div>
+            <hr class="small-separator">
             <h3 id="visual-language" class="heading-2">4.3. Visual Language</h3>
             <h4 id="icons" class="heading-3">Icons</h4>
             <figure>
