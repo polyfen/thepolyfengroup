@@ -13,7 +13,7 @@
         <h4 class="heading-3">Transparency is in our DNA</h4>
     </div>
     <p>Transparency is always first within our team, with our clients, and towards the industry.</p>
-    <p>We value speaking with candor. We continuously seek feedback from our team and clients.</p>
+    <p>We value speaking with candor. We seek feedback from our team and clients actively and continuously.</p>
     <p>Give progress updates routinely. If you're waiting on a pending answer, follow-up. When in doubt, it's better to over-communicate than to under-communicate.</p>
     <p>Outwardly, this Business Plan and <a data-before="plfn" href="/wiki">Team Wiki</a> are just some of our documentation that is publically available. We also contribute to the open-source software community with public code repositories in <a data-before="github"
         href="https://github.com/polyfen" rel="nofollow" target="_blank">Github</a>.</p>
@@ -33,7 +33,7 @@
     </div>
     <p>Together we can achieve much more than we ever could alone. We are heavily commited to providing our team with
         all the tools, resources, and support to maintain a thriving work environment.</p>
-    <p>We promote a horizontal team. Doesnt matter if you've just joined the team in a junior position, or if you're a season veteran, don't hesitate to reach out to whoever can facilitate your work. Our team leaders are just a Slack message away and love to hear from you.</p>
+    <p>We promote a horizontal team. Doesnt matter if you've just joined the team in a junior position, or if you're a seasoned veteran, don't hesitate to reach out to whoever can facilitate your work. Our team leaders are just a Slack message away and love to hear from you.</p>
     <hr class="small-separator">
     <h3 id="exploration" class="heading-2">3.3. Exploration</h3>
     <div class="preview">
