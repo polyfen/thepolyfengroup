@@ -1,6 +1,6 @@
 <section id="services">
     <h2 class="heading-1">4. Services</h2>
-    <p>These are the Services we offer through our primary brand, <a data-before="plfn" href="https://polyfen.com">Polyfen</a>.</p>
+    <p>These are the services we offer through our primary brand, <a data-before="plfn" href="https://polyfen.com">Polyfen</a>.</p>
     <hr class="small-separator">
     <h3 id="subscribe" class="heading-2">4.1. Subscribe <span class="font-weight-400 italic">(monthly billing)</span></h3>
     <table>

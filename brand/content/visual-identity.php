@@ -39,7 +39,7 @@
         </figure>
     </div>
     <p>We use <a href="https://www.myfonts.com/collections/freight-text-pro-font-freight-collection" target="_blank" rel="nofollow" data-emoji="link">Freight Text Pro</a> for body text elements, like paragraphs, quotes, and lists.</p>
-    <p>The font files of our Primary Selection (Biotif &amp; Freight Text Pro) are bound to usage licenses and distribution models which may not be available in all cases. If you don't have access to the fonts of our Primary Selection, then you can fallback to the Google Fonts from the Secondary Selection.</p>
+    <p>The font files of our Primary Selection (Biotif &amp; Freight Text Pro) are bound to usage licenses and distribution models which may not be available in all cases. If you don't have access to the fonts of our Primary Selection, then you can fall back to the Google Fonts from the Secondary Selection.</p>
     <h4 id="secondary-selection" class="heading-3">Secondary Selection</h3>
     <div class="preview">
         <figure>
@@ -59,8 +59,8 @@
             <img src="imgs/verdana-type-sample.png" style="max-height:100px; width:auto;">
         </figure>
     </div>
-    <p>The last bastion of our typographic identity falls back to font files present universally in all operating systems. The most common use for the Tertiary Selection is in email clients, since they only support system fonts.</p>
-    <p>If the font files from the Primary or Secondary selections are not available you should fallback to Verdana.</p>
+    <p>The last bastion of our typographic identity falls back to font files present universally in all operating systems. The most common use for the Tertiary Selection is in email clients since they only support system fonts.</p>
+    <p>If the font files from the Primary or Secondary selections are not available you should fall back to Verdana.</p>
     <hr class="small-separator">
     <h3 id="color-scheme" class="heading-2">4.3. Color scheme</h3>
     <h4 class="heading-3">Accent color</h3>
@@ -126,13 +126,13 @@
             </figure>
             <p>All icons in Polyfen's touchpoints &amp; communications should correspond to the Iconography set we've
                 selected for our Brand, <a data-emoji="link" href="https://phosphoricons.com/" target="_blank">Phospor</a>.</p>
-            <p>Phospor's line-icons are meant only for use at large sizes accross Polyfen's Brand, while for smaller
+            <p>Phospor's line-icons are meant only for use at large sizes across Polyfen's Brand, while for smaller
                 sizes the fill-icons are preferred to ensure accessible legibility.</p>
             <h4 id="illustrations" class="heading-3">Illustrations</h4>
             <figure>
                 <img src="imgs/illustrations-original.png" style="max-height:400px; width:auto;">
             </figure>
-            <p>Our Brand's illustrations uses the <a data-emoji="link"
+            <p>Our Brand's illustrations use the <a data-emoji="link"
                     href="https://ui8.net/vectorly-space/products/retro-cartoon-illustrations" target="_blank">Retro
                     Dudes</a> set by <a data-emoji="link" href="https://ui8.net/vectorly-space/products"
                     target="_blank">Vectorly Space</a>.</p>
@@ -140,5 +140,5 @@
             <figure>
                 <img src="imgs/pearls.png" style="max-height:400px; width:auto;">
             </figure>
-            <p>The Pearls are part of our visual dictoniary which we use to give plain backgrounds a bit more depth.</p>
+            <p>The Pearls are part of our visual dictionary which we use to give plain backgrounds a bit more depth.</p>
 </section>
