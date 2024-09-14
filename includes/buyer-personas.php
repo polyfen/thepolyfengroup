@@ -53,4 +53,3 @@
         <td><p>#Startups #TechStartups #Entrepreneurship #StartupCulture #Founders #FoundersLife #Funding #Scaling #Innovation #Growth #Strategy #GrowthHacking</p></td>
     </tr>
 </table>
-<hr class="second-separator">
