@@ -29,7 +29,7 @@
     <hr class="small-separator">
     <h3 id="collaboration" class="heading-2">3.2. Collaboration</h3>
     <div class="preview">
-        <h4 class="heading-3">Easy communication, fast collaboration</h4>
+        <h4 class="heading-3">Horizontal communication, fast collaboration</h4>
     </div>
     <p>Together we can achieve much more than we ever could alone. We are heavily commited to providing our team with
         all the tools, resources, and support to maintain a thriving work environment.</p>
