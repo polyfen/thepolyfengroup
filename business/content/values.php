@@ -15,7 +15,7 @@
     <p>Transparency is always first within our team, with our clients, and towards the industry.</p>
     <p>We value speaking with candor. We seek feedback from our team and clients actively and continuously. If we want to grow, sometimes hard truths need to be addressed.</p>
     <p>Give progress updates routinely. If you're waiting on a pending answer, follow-up. When in doubt, it's better to over-communicate than to under-communicate.</p>
-    <p>Outwardly, this Business Plan and <a data-before="plfn" href="/wiki">Team Wiki</a> are just some of our documentation that is publically available. We also contribute to the open-source software community with public code repositories in <a data-before="github"
+    <p>Outwardly, this Business Plan is just some of our publically available documentation and contributions. We also have open-source, public code repositories in <a data-before="github"
         href="https://github.com/polyfen" rel="nofollow" target="_blank">Github</a>.</p>
     <p>We believe that the world of business could learn a lot from the practices and culture of the open-source community.</p>
     <p>Sharing our work allows us to:</p>

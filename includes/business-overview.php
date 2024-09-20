@@ -3,7 +3,7 @@
 </div>
 <p><strong>The Polyfen Group</strong> is a fully remote tech and creative company. We're established in the US, but most of our team-members live in Argentina.</p>
 <p>The primary brand we operate is <strong><a data-before="plfn" href="https://polyfen.com" target="_blank" rel="follow">Polyfen</a></strong>, a software and creative studio. But our brand identity system is built to support and encourage growth with other products and services as sub-brands under <strong><a data-before="plfn" href="https://thepolyfengroup.com" target="_blank" rel="follow">The Polyfen Group's</a></strong> umbrella.</p>
-<p>Polyfen offers software and creative services with three types of pricing:</p>
+<p>Polyfen offers software and creative services with three types of billing:</p>
 <ul>
     <li><strong>Hire:</strong> staff augmentation with hourly billing.</li>
     <li><strong>Subscribe:</strong> delivery team with monthly billing.</li>
