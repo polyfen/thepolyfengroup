@@ -4,7 +4,7 @@
     <hr class="small-separator">
     <h3 id="subscribe" class="heading-2">4.1. Subscribe <span class="font-weight-400 italic">(monthly billing)</span></h3>
     <table>
-        <tr>
+        <tr class="color-accent">
             <th>Starter</th>
             <th>Pro</th>
             <th>Custom</th>
@@ -24,7 +24,7 @@
                 <ul class="hanging-list checkmark-bullet">
                     <li class="bold">1 task at a time</li>
                     <li class="bold">2-3 days turnaround</li>
-                    <li class="bold">Unlimited tasks by Devs,<br>UX, and Designers</li>
+                    <li class="bold">Unlimited tasks by Devs, UX, and Designers</li>
                     <li>Unlimited revisions</li>
                     <li>Unlimited projects</li>
                     <li>Pause or cancel any time</li>
@@ -54,7 +54,7 @@
     <hr class="small-separator">
     <h3 id="hire" class="heading-2">4.2. Hire <span class="font-weight-400 italic">(hourly billing)</span></h3>
     <table>
-        <tr>
+        <tr class="color-accent">
             <th></th>
             <th class="align-right">Dev</th>
             <th class="align-right">UX</th>
@@ -94,7 +94,7 @@
     <hr class="small-separator">
     <h3 id="build" class="heading-2">4.3. Build <span class="font-weight-400 italic">(fixed-price project)</span></h3>
     <table>
-        <tr>
+        <tr class="color-accent">
             <th>Brand</th>
             <th>Web</th>
             <th>App</th>
