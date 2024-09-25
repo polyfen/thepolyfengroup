@@ -73,7 +73,7 @@ This is how the team sometimes refers to the brand name internally.</p>
 <h4 id="bio" class="heading-3">Bio</h4>
 <small class="caption">Under 120 characters<br><br></small>
 <div class="preview">
-<blockquote><p>Software & creative studio empowering US businesses with design and engineering services since 2018.</p></blockquote>
+<blockquote><p>Software & creative studio empowering US businesses with design and engineering solutions since 2018.</p></blockquote>
 </div>
 <h4 id="extended-bio" class="heading-3">Extended Bio</h4>
 <small class="caption">Under 3 paragraphs<br><br></small>
