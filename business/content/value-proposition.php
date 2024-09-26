@@ -5,7 +5,7 @@
     <p>Our cost-efficient, fully-remote business model provides services from top-tier professionals around the world at a small fraction of the price from our competitors in the US.</p>
     <hr class="small-separator">
     <h3 id="owner-managed" class="heading-2">6.2. Owner-managed</h3>
-    <p>Polyfen's owners are are fully immersed in every project ensuring the best results for each and every client.</p>
+    <p>Polyfen is independently owned by the founding members, who are fully immersed in every project to ensure the best results and guarantee client satisfaction.</p>
     <hr class="small-separator">
     <h3 id="end-to-end-service" class="heading-2">6.3. End-to-end service</h3>
     <p>Our growing list of satisfied customers is testimony that we go above and beyond. Whatever you need, we've got you covered.</p>
