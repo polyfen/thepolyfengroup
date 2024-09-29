@@ -77,7 +77,7 @@
             </td>
         </tr>
         <tr>
-            <th class="align-left">Mid-Senior</th>
+            <th class="align-left">Semi-Senior</th>
             <td class="align-right">
                 $35/hr
             </td>
