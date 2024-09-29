@@ -6,7 +6,7 @@
         </figure>
     </a>
     <a href="https://polyfen.com" target="_blank" class="web-url"><img src="imgs/sub-brands/polyfen-logo.svg" alt="Polyfen" height="70px"></a>
-    <p>Creative &amp; software boutique empowering US businesses with design, marketing, and engineering services since 2018.</p>
+    <p>Software &amp; creative studio empowering startups and scaleups with design and software solutions since 2018.</p>
     <a href="https://polyfen.com" target="_blank" class="button secondary-button web-url margin-right-auto">polyfen.com</a>
 </section>
 <hr>

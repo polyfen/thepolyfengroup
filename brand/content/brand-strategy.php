@@ -68,18 +68,18 @@ This is how the team sometimes refers to the brand name internally.</p>
 <h4 id="tagline" class="heading-3">Tagline</h4>
 <small class="caption">Under 30 characters<br><br></small>
 <div class="preview">
-<blockquote><p>Software & Creative Studio</p></blockquote>
+<blockquote><p>Software &amp; Creative Studio</p></blockquote>
 </div>
 <h4 id="bio" class="heading-3">Bio</h4>
 <small class="caption">Under 120 characters<br><br></small>
 <div class="preview">
-<blockquote><p>Software & creative studio empowering US businesses with design and engineering solutions since 2018.</p></blockquote>
+<blockquote><p>Software &amp; creative studio empowering startups and scaleups with design and software solutions since 2018.</p></blockquote>
 </div>
 <h4 id="extended-bio" class="heading-3">Extended Bio</h4>
 <small class="caption">Under 3 paragraphs<br><br></small>
 <div class="preview">
-<blockquote><p>We're a software and creative studio founded in 2018 with a fully remote team working for clients from the US.</p>
-<p>We help US businesses translate their vision into digital experiences that bring in the money.</p>
-<p>We're heavily committed to R&D projects that help us grow and keep us at the leading edge in an always-changing market.</p></blockquote>
+<blockquote><p>We are a fully remote tech consultancy that found the sweet spot between elegant design and flawless performance.</p>
+<p>We are a fully remote tech consultancy that found the sweet spot between elegant design and flawless performance.</p>
+<p>Culture-wise, we’re shaped by R&D. It runs through our hiring, operational, and delivery strategies to stay ahead of the curve.</p></blockquote>
 </div>
 </section>
