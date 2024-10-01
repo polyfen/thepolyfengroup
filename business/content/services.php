@@ -53,44 +53,7 @@
     </table>
     <hr class="small-separator">
     <h3 id="hire" class="heading-2">4.2. Hire <span class="font-weight-400 italic">(hourly billing)</span></h3>
-    <table>
-        <tr class="color-accent">
-            <th></th>
-            <th class="align-right">Dev</th>
-            <th class="align-right">UX</th>
-            <th class="align-right">Design</th>
-            <th class="align-right">Devops</th>
-        </tr>
-        <tr>
-            <th class="align-left">Senior</th>
-            <td class="align-right">
-                $65/hr
-            </td>
-            <td class="align-right">
-                $65/hr
-            </td>
-            <td class="align-right">
-                $65/hr
-            </td>
-            <td class="align-right">
-                $90/hr
-            </td>
-        </tr>
-        <tr>
-            <th class="align-left">Semi-Senior</th>
-            <td class="align-right">
-                $35/hr
-            </td>
-            <td class="align-right">
-                $35/hr
-            </td>
-            <td class="align-right">
-                $35/hr
-            </td>
-            <td>
-            </td>
-        </tr>
-    </table>
+    
     <hr class="small-separator">
     <h3 id="build" class="heading-2">4.3. Build <span class="font-weight-400 italic">(fixed-price project)</span></h3>
     <table>
