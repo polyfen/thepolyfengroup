@@ -14,7 +14,7 @@
     <p>Our workflows ensure no time is wasted. Tell us what you need and we're good to go.</p>
     <hr class="small-separator">
     <h3 id="top-tier-talent" class="heading-2">6.5. Top-tier talent</h3>
-    <p>We recruit only the best of the best. Qualified geniuses, passion-driven pros.</p>
+    <p>We screen rigorously and hire only the best.</p>
     <hr class="small-separator">
     <h3 id="near-shore-availability" class="heading-2">6.6. Near-shore availability</h3>
     <p>As opposed to off-shore teams in India, our team is fully available in US timezones.</p>

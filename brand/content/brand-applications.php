@@ -6,6 +6,10 @@
 <img src="imgs/social-media-profile-picture.png" alt="">    
 </div>
 <h4 id="cover" class="heading-3">Cover</h4>
+<h5 id="company-page-cover" class="heading-3">Company Page</h4>
+<img src="imgs/social-media-cover.png" alt="">
+<hr class="small-separator">
+<h5 id="team-member-profile-cover" class="heading-3">Team-member Profile</h4>
 <img src="imgs/social-media-cover.png" alt="">
 <hr class="small-separator">
 <h3 id="email-signature" class="heading-2">5.2. Email Signature</h3>

@@ -80,7 +80,7 @@
 
                 setInterval(showNextSpan, 2000); // Change span every 2 seconds
             </script>
-            <p>We own and operate multiple services and products in the software and creative industries.</p>
+            <p>We love building amazing digital products and services.</p>
         </section>
         <section class="container sub-brands">
             <h2 class="heading-1 align-center margin-bottom-4">Family of Brands</h2>
