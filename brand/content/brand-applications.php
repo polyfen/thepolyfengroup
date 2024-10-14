@@ -20,12 +20,6 @@
         <?php include 'assets/email-signatures/partners-email-signature.html';?>
         <!-- INCLUDE OUR-BRANDS.PHP  end -->
 </div>
-<div class="preview dark-mode-signature">
-
-        <!-- INCLUDE OUR-BRANDS.PHP start -->
-        <?php include 'assets/email-signatures/partners-email-signature.html';?>
-        <!-- INCLUDE OUR-BRANDS.PHP  end -->
-</div>
 <ul class="hanging-list">
     <li>
         <a href="assets/email-signatures/partners-email-signature.html" target="_blank">partners-email-signature.html</a>
@@ -33,12 +27,6 @@
 </ul>
 <h4 id="sales" class="heading-3">Sales</h4>
 <div class="preview light-mode-signature">
-
-        <!-- INCLUDE OUR-BRANDS.PHP start -->
-        <?php include 'assets/email-signatures/sales-email-signature.html';?>
-        <!-- INCLUDE OUR-BRANDS.PHP  end -->
-</div>
-<div class="preview dark-mode-signature">
 
         <!-- INCLUDE OUR-BRANDS.PHP start -->
         <?php include 'assets/email-signatures/sales-email-signature.html';?>
